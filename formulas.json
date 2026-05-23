@@ -1,0 +1,7112 @@
+[
+  {
+    "id": "F001",
+    "name": "麻黄汤",
+    "category": "解表剂-辛温解表",
+    "composition": [
+      {
+        "herb": "麻黄",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "杏仁",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "effect": "发汗解表，宣肺平喘",
+    "indication": "风寒表实证。恶寒发热，无汗而喘",
+    "source": "伤寒论 第35条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F002",
+    "name": "桂枝汤",
+    "category": "解表剂-辛温解表",
+    "composition": [
+      {
+        "herb": "桂枝",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "解肌发表，调和营卫",
+    "indication": "风寒表虚证。发热头痛，汗出恶风",
+    "source": "伤寒论 第12条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F003",
+    "name": "银翘散",
+    "category": "解表剂-辛凉解表",
+    "composition": [
+      {
+        "herb": "金银花",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "连翘",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "薄荷",
+        "role": "臣",
+        "dosage": "18g"
+      },
+      {
+        "herb": "牛蒡子",
+        "role": "佐",
+        "dosage": "18g"
+      },
+      {
+        "herb": "桔梗",
+        "role": "佐",
+        "dosage": "18g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "15g"
+      }
+    ],
+    "effect": "辛凉透表，清热解毒",
+    "indication": "温病初起。发热无汗，或有汗不畅",
+    "source": "温病条辨 卷一",
+    "source_url": "https://baike.baidu.com/item/%E6%B8%A9%E7%97%85%E6%9D%A1%E8%BE%A8"
+  },
+  {
+    "id": "F004",
+    "name": "桑菊饮",
+    "category": "解表剂-辛凉解表",
+    "composition": [
+      {
+        "herb": "桑叶",
+        "role": "君",
+        "dosage": "7.5g"
+      },
+      {
+        "herb": "菊花",
+        "role": "君",
+        "dosage": "3g"
+      },
+      {
+        "herb": "杏仁",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "连翘",
+        "role": "佐",
+        "dosage": "5g"
+      },
+      {
+        "herb": "薄荷",
+        "role": "佐",
+        "dosage": "2.5g"
+      },
+      {
+        "herb": "桔梗",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐使",
+        "dosage": "2.5g"
+      }
+    ],
+    "effect": "疏风清热，宣肺止咳",
+    "indication": "风温初起。咳嗽，身热不甚",
+    "source": "温病条辨 卷一",
+    "source_url": "https://baike.baidu.com/item/%E6%B8%A9%E7%97%85%E6%9D%A1%E8%BE%A8"
+  },
+  {
+    "id": "F005",
+    "name": "小柴胡汤",
+    "category": "解表剂-和解少阳",
+    "composition": [
+      {
+        "herb": "柴胡",
+        "role": "君",
+        "dosage": "24g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "人参",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐使",
+        "dosage": "9g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "effect": "和解少阳",
+    "indication": "少阳病。寒热往来，胸胁苦满",
+    "source": "伤寒论 第96条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F006",
+    "name": "白虎汤",
+    "category": "清热剂-清气分热",
+    "composition": [
+      {
+        "herb": "石膏",
+        "role": "君",
+        "dosage": "50g"
+      },
+      {
+        "herb": "知母",
+        "role": "臣",
+        "dosage": "18g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "清热生津",
+    "indication": "阳明气分热盛证。壮热面赤，烦渴引饮",
+    "source": "伤寒论 第176条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F007",
+    "name": "黄连解毒汤",
+    "category": "清热剂-清热解毒",
+    "composition": [
+      {
+        "herb": "黄连",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "黄柏",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "栀子",
+        "role": "佐使",
+        "dosage": "9g"
+      }
+    ],
+    "effect": "泻火解毒",
+    "indication": "三焦火毒证。大热烦躁，口燥咽干",
+    "source": "外台秘要 引崔氏方",
+    "source_url": "https://baike.baidu.com/item/黄连解毒汤"
+  },
+  {
+    "id": "F008",
+    "name": "龙胆泻肝汤",
+    "category": "清热剂-清脏腑热",
+    "composition": [
+      {
+        "herb": "黄芩",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "栀子",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "泽泻",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "车前子",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "柴胡",
+        "role": "佐使",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "清肝胆实火，泻下焦湿热",
+    "indication": "肝胆实火上炎证，肝经湿热下注证",
+    "source": "医方集解",
+    "source_url": "https://baike.baidu.com/item/%E5%8C%BB%E6%96%B9%E9%9B%86%E8%A7%A3"
+  },
+  {
+    "id": "F009",
+    "name": "大承气汤",
+    "category": "泻下剂-寒下",
+    "composition": [
+      {
+        "herb": "大黄",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "臣",
+        "dosage": "24g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "芒硝",
+        "role": "使",
+        "dosage": "9g"
+      }
+    ],
+    "effect": "峻下热结",
+    "indication": "阳明腑实证。痞满燥实，腹痛拒按",
+    "source": "伤寒论 第208条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F010",
+    "name": "逍遥散",
+    "category": "和解剂-调和肝脾",
+    "composition": [
+      {
+        "herb": "柴胡",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "4.5g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "薄荷",
+        "role": "佐使",
+        "dosage": "3g"
+      }
+    ],
+    "effect": "疏肝解郁，养血健脾",
+    "indication": "肝郁血虚脾弱证。两胁作痛，头痛目眩",
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%89%82%E5%B1%80%E6%96%B9"
+  },
+  {
+    "id": "F011",
+    "name": "藿香正气散",
+    "category": "祛湿剂-化湿和胃",
+    "composition": [
+      {
+        "herb": "藿香",
+        "role": "君",
+        "dosage": "90g"
+      },
+      {
+        "herb": "紫苏叶",
+        "role": "臣",
+        "dosage": "30g"
+      },
+      {
+        "herb": "白芷",
+        "role": "臣",
+        "dosage": "30g"
+      },
+      {
+        "herb": "白术",
+        "role": "佐",
+        "dosage": "30g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "30g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "佐",
+        "dosage": "30g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "30g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "30g"
+      },
+      {
+        "herb": "桔梗",
+        "role": "佐",
+        "dosage": "30g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "30g"
+      }
+    ],
+    "effect": "解表化湿，理气和中",
+    "indication": "外感风寒，内伤湿滞证",
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%89%82%E5%B1%80%E6%96%B9"
+  },
+  {
+    "id": "F012",
+    "name": "五苓散",
+    "category": "祛湿剂-利水渗湿",
+    "composition": [
+      {
+        "herb": "泽泻",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "白术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "利水渗湿，温阳化气",
+    "indication": "膀胱气化不利之蓄水证。小便不利",
+    "source": "伤寒论 第71条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F013",
+    "name": "茵陈蒿汤",
+    "category": "祛湿剂-利湿退黄",
+    "composition": [
+      {
+        "herb": "茵陈",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "栀子",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "大黄",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "清热利湿退黄",
+    "indication": "湿热黄疸。身目发黄，小便短赤",
+    "source": "伤寒论 第236条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F014",
+    "name": "理中丸",
+    "category": "温里剂-温中祛寒",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "干姜",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "9g"
+      }
+    ],
+    "effect": "温中祛寒，补气健脾",
+    "indication": "脾胃虚寒证。脘腹绵绵作痛，呕吐便溏",
+    "source": "伤寒论 第386条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F015",
+    "name": "四逆汤",
+    "category": "温里剂-回阳救逆",
+    "composition": [
+      {
+        "herb": "附子",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "干姜",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐使",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "回阳救逆",
+    "indication": "少阴病。四肢厥逆，恶寒蜷卧",
+    "source": "伤寒论 第323条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F016",
+    "name": "吴茱萸汤",
+    "category": "温里剂-温中祛寒",
+    "composition": [
+      {
+        "herb": "吴茱萸",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "人参",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "18g"
+      }
+    ],
+    "effect": "温中补虚，降逆止呕",
+    "indication": "肝胃虚寒，浊阴上逆证",
+    "source": "伤寒论 第243条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F017",
+    "name": "柴胡疏肝散",
+    "category": "理气剂-行气",
+    "composition": [
+      {
+        "herb": "柴胡",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "4.5g"
+      },
+      {
+        "herb": "香附",
+        "role": "佐",
+        "dosage": "4.5g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "4.5g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "4.5g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "1.5g"
+      }
+    ],
+    "effect": "疏肝理气，活血止痛",
+    "indication": "肝气郁滞证。胁肋疼痛，嗳气太息",
+    "source": "景岳全书",
+    "source_url": "https://baike.baidu.com/item/柴胡疏肝散"
+  },
+  {
+    "id": "F018",
+    "name": "半夏厚朴汤",
+    "category": "理气剂-行气",
+    "composition": [
+      {
+        "herb": "半夏",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "紫苏叶",
+        "role": "佐使",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "行气散结，降逆化痰",
+    "indication": "梅核气。咽中如有物阻，咯吐不出",
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/%E9%87%91%E5%8C%AE%E8%A6%81%E7%95%A5"
+  },
+  {
+    "id": "F019",
+    "name": "保和丸",
+    "category": "消食剂",
+    "composition": [
+      {
+        "herb": "山楂",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "神曲",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "连翘",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "莱菔子",
+        "role": "佐使",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "消食和胃",
+    "indication": "食滞胃脘证。脘腹痞满胀痛，嗳腐吞酸",
+    "source": "丹溪心法",
+    "source_url": "https://baike.baidu.com/item/%E4%B8%B9%E6%BA%AA%E5%BF%83%E6%B3%95"
+  },
+  {
+    "id": "F020",
+    "name": "血府逐瘀汤",
+    "category": "活血化瘀剂",
+    "composition": [
+      {
+        "herb": "桃仁",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "红花",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "4.5g"
+      },
+      {
+        "herb": "赤芍",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "牛膝",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桔梗",
+        "role": "佐",
+        "dosage": "4.5g"
+      },
+      {
+        "herb": "柴胡",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "活血化瘀，行气止痛",
+    "indication": "胸中血瘀证。胸痛头痛，日久不愈",
+    "source": "医林改错",
+    "source_url": "https://baike.baidu.com/item/%E5%8C%BB%E6%9E%97%E6%94%B9%E9%94%99"
+  },
+  {
+    "id": "F021",
+    "name": "二陈汤",
+    "category": "化痰剂-燥湿化痰",
+    "composition": [
+      {
+        "herb": "半夏",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "4.5g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "effect": "燥湿化痰，理气和中",
+    "indication": "湿痰证。咳嗽痰多，色白易咯",
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%89%82%E5%B1%80%E6%96%B9"
+  },
+  {
+    "id": "F022",
+    "name": "清气化痰丸",
+    "category": "化痰剂-清热化痰",
+    "composition": [
+      {
+        "herb": "黄芩",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "瓜蒌",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "杏仁",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "清热化痰，理气止咳",
+    "indication": "痰热咳嗽。痰稠色黄，咯之不爽",
+    "source": "医方考",
+    "source_url": "https://baike.baidu.com/item/清气化痰丸"
+  },
+  {
+    "id": "F023",
+    "name": "小青龙汤",
+    "category": "解表剂-辛温解表",
+    "composition": [
+      {
+        "herb": "麻黄",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "干姜",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "细辛",
+        "role": "臣",
+        "dosage": "3g"
+      },
+      {
+        "herb": "五味子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "解表散寒，温肺化饮",
+    "indication": "外寒内饮证。恶寒发热，无汗，喘咳",
+    "source": "伤寒论 第40条",
+    "source_url": "https://baike.baidu.com/item/%E4%BC%A4%E5%AF%92%E8%AE%BA"
+  },
+  {
+    "id": "F024",
+    "name": "酸枣仁汤",
+    "category": "安神剂-补养安神",
+    "composition": [
+      {
+        "herb": "酸枣仁",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "知母",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "effect": "养血安神，清热除烦",
+    "indication": "肝血不足，虚热内扰证。虚烦失眠",
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/%E9%87%91%E5%8C%AE%E8%A6%81%E7%95%A5"
+  },
+  {
+    "id": "F025",
+    "name": "天麻钩藤饮",
+    "category": "平肝息风剂",
+    "composition": [
+      {
+        "herb": "天麻",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "钩藤",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "石决明",
+        "role": "臣",
+        "dosage": "18g"
+      },
+      {
+        "herb": "栀子",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "益母草",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桑寄生",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐使",
+        "dosage": "9g"
+      }
+    ],
+    "effect": "平肝息风，清热活血，补益肝肾",
+    "indication": "肝阳偏亢，肝风上扰证。头痛眩晕",
+    "source": "中医内科杂病证治新义",
+    "source_url": "https://baike.baidu.com/item/天麻钩藤饮"
+  },
+  {
+    "id": "F026",
+    "name": "四君子汤",
+    "category": "补虚剂-补气",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "益气健脾",
+    "indication": "脾胃气虚证。面色萎白，语声低微",
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%89%82%E5%B1%80%E6%96%B9"
+  },
+  {
+    "id": "F027",
+    "name": "补中益气汤",
+    "category": "补虚剂-补气",
+    "composition": [
+      {
+        "herb": "黄芪",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "人参",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "升麻",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "柴胡",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "9g"
+      }
+    ],
+    "effect": "补中益气，升阳举陷",
+    "indication": "脾胃气虚证，气虚下陷证，气虚发热证",
+    "source": "脾胃论",
+    "source_url": "https://baike.baidu.com/item/补中益气汤"
+  },
+  {
+    "id": "F028",
+    "name": "生脉散",
+    "category": "补虚剂-补气",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "五味子",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "益气生津，敛阴止汗",
+    "indication": "气阴两虚证。温热暑热，耗气伤阴",
+    "source": "医学启源",
+    "source_url": "https://baike.baidu.com/item/生脉散"
+  },
+  {
+    "id": "F029",
+    "name": "四物汤",
+    "category": "补虚剂-补血",
+    "composition": [
+      {
+        "herb": "当归",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "川芎",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "熟地黄",
+        "role": "佐",
+        "dosage": "12g"
+      }
+    ],
+    "effect": "补血调血",
+    "indication": "营血虚滞证。头晕目眩，心悸失眠",
+    "source": "仙授理伤续断秘方",
+    "source_url": "https://baike.baidu.com/item/四物汤"
+  },
+  {
+    "id": "F030",
+    "name": "当归补血汤",
+    "category": "补虚剂-补血",
+    "composition": [
+      {
+        "herb": "黄芪",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "当归",
+        "role": "臣",
+        "dosage": "6g"
+      }
+    ],
+    "effect": "补气生血",
+    "indication": "血虚发热证。肌热面红，烦渴欲饮",
+    "source": "内外伤辨惑论",
+    "source_url": "https://baike.baidu.com/item/当归补血汤"
+  },
+  {
+    "id": "F031",
+    "name": "六味地黄丸",
+    "category": "补虚剂-补阴",
+    "composition": [
+      {
+        "herb": "熟地黄",
+        "role": "君",
+        "dosage": "24g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "山药",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "泽泻",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "effect": "滋阴补肾",
+    "indication": "肾阴亏虚证。腰膝酸软，头晕目眩",
+    "source": "小儿药证直诀",
+    "source_url": "https://baike.baidu.com/item/%E5%B0%8F%E5%84%BF%E8%8D%AF%E8%AF%81%E7%9B%B4%E5%86%B3"
+  },
+  {
+    "id": "F032",
+    "name": "大补阴丸",
+    "category": "补虚剂-补阴",
+    "composition": [
+      {
+        "herb": "熟地黄",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "黄柏",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "知母",
+        "role": "臣",
+        "dosage": "12g"
+      }
+    ],
+    "effect": "滋阴降火",
+    "indication": "阴虚火旺证。骨蒸潮热，盗汗遗精",
+    "source": "丹溪心法",
+    "source_url": "https://baike.baidu.com/item/%E4%B8%B9%E6%BA%AA%E5%BF%83%E6%B3%95"
+  },
+  {
+    "id": "F033",
+    "name": "肾气丸",
+    "category": "补虚剂-补阳",
+    "composition": [
+      {
+        "herb": "生地黄",
+        "role": "君",
+        "dosage": "24g"
+      },
+      {
+        "herb": "山药",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "泽泻",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "附子",
+        "role": "佐使",
+        "dosage": "3g"
+      }
+    ],
+    "effect": "补肾助阳",
+    "indication": "肾阳不足证。腰痛脚软，身半以下畏寒",
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/%E9%87%91%E5%8C%AE%E8%A6%81%E7%95%A5"
+  },
+  {
+    "id": "F034",
+    "name": "牡蛎散",
+    "category": "固涩剂-固表止汗",
+    "composition": [
+      {
+        "herb": "黄芪",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "麻黄根",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "牡蛎",
+        "role": "佐",
+        "dosage": "15g"
+      }
+    ],
+    "effect": "敛阴止汗，益气固表",
+    "indication": "自汗。身常汗出，夜卧尤甚",
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%89%82%E5%B1%80%E6%96%B9"
+  },
+  {
+    "id": "F035",
+    "name": "安宫牛黄丸",
+    "category": "开窍剂-凉开",
+    "composition": [
+      {
+        "herb": "牛黄",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "黄连",
+        "role": "臣",
+        "dosage": "30g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "臣",
+        "dosage": "30g"
+      },
+      {
+        "herb": "栀子",
+        "role": "臣",
+        "dosage": "30g"
+      },
+      {
+        "herb": "郁金",
+        "role": "佐",
+        "dosage": "30g"
+      },
+      {
+        "herb": "朱砂",
+        "role": "佐",
+        "dosage": "30g"
+      }
+    ],
+    "effect": "清热解毒，开窍醒神",
+    "indication": "邪热内陷心包证。高热烦躁，神昏谵语",
+    "source": "温病条辨 卷一",
+    "source_url": "https://baike.baidu.com/item/%E6%B8%A9%E7%97%85%E6%9D%A1%E8%BE%A8"
+  },
+  {
+    "id": "F036",
+    "name": "川芎茶调散",
+    "category": "治风剂-疏散外风",
+    "composition": [
+      {
+        "herb": "川芎",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "防风",
+        "role": "臣",
+        "dosage": "4.5g"
+      },
+      {
+        "herb": "白芷",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "细辛",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      },
+      {
+        "herb": "薄荷",
+        "role": "佐使",
+        "dosage": "12g"
+      }
+    ],
+    "effect": "疏风止痛",
+    "indication": "外感风邪头痛。偏正头痛，巅顶作痛",
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%89%82%E5%B1%80%E6%96%B9"
+  },
+  {
+    "id": "F037",
+    "name": "杏苏散",
+    "category": "治燥剂-轻宣外燥",
+    "composition": [
+      {
+        "herb": "紫苏叶",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "杏仁",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "前胡",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桔梗",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "effect": "轻宣凉燥，理肺化痰",
+    "indication": "外感凉燥证。恶寒无汗，头微痛",
+    "source": "温病条辨 卷一",
+    "source_url": "https://baike.baidu.com/item/%E6%B8%A9%E7%97%85%E6%9D%A1%E8%BE%A8"
+  },
+  {
+    "id": "F038",
+    "name": "天王补心丹",
+    "category": "安神剂-补养安神",
+    "composition": [
+      {
+        "herb": "生地黄",
+        "role": "君",
+        "dosage": "120g"
+      },
+      {
+        "herb": "人参",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "丹参",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "玄参",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "远志",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "30g"
+      },
+      {
+        "herb": "酸枣仁",
+        "role": "佐",
+        "dosage": "30g"
+      }
+    ],
+    "effect": "滋阴养血，补心安神",
+    "indication": "阴虚血少，神志不安证。心悸失眠",
+    "source": "摄生秘剖",
+    "source_url": "https://baike.baidu.com/item/天王补心丹"
+  },
+  {
+    "id": "F039",
+    "name": "补阳还五汤",
+    "category": "活血化瘀剂",
+    "composition": [
+      {
+        "herb": "黄芪",
+        "role": "君",
+        "dosage": "120g"
+      },
+      {
+        "herb": "当归",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "桃仁",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "红花",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "effect": "补气活血，通络止痛",
+    "indication": "中风后遗症。半身不遂，口眼歪斜",
+    "source": "医林改错",
+    "source_url": "https://baike.baidu.com/item/%E5%8C%BB%E6%9E%97%E6%94%B9%E9%94%99"
+  },
+  {
+    "id": "F040",
+    "name": "阳和汤",
+    "category": "温里剂-温经散寒",
+    "composition": [
+      {
+        "herb": "熟地黄",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "肉桂",
+        "role": "臣",
+        "dosage": "3g"
+      },
+      {
+        "herb": "麻黄",
+        "role": "佐",
+        "dosage": "2g"
+      },
+      {
+        "herb": "鹿角",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芥子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "干姜",
+        "role": "佐",
+        "dosage": "2g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "effect": "温阳补血，散寒通滞",
+    "indication": "阴疽。贴骨疽、脱疽、流注等",
+    "source": "外科证治全生集",
+    "source_url": "https://baike.baidu.com/item/阳和汤"
+  },
+  {
+    "id": "F041",
+    "name": "九味羌活汤",
+    "category": "解表剂-辛温解表",
+    "effect": "发汗祛湿，兼清里热",
+    "indication": "风寒湿邪，里有蕴热",
+    "composition": [
+      {
+        "herb": "羌活",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "防风",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "苍术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "细辛",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芷",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "方剂学教材",
+    "source_url": "https://baike.baidu.com/item/九味羌活汤"
+  },
+  {
+    "id": "F042",
+    "name": "香苏散",
+    "category": "解表剂-辛温解表",
+    "effect": "疏风散寒，理气和中",
+    "indication": "风寒感冒，气郁不舒",
+    "composition": [
+      {
+        "herb": "香薷",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "紫苏叶",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/香苏散"
+  },
+  {
+    "id": "F043",
+    "name": "止嗽散",
+    "category": "解表剂-辛温解表",
+    "effect": "宣肺疏风，止咳化痰",
+    "indication": "风邪犯肺，咳嗽咽痒",
+    "composition": [
+      {
+        "herb": "紫菀",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "百部",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白前",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桔梗",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "荆芥",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医学心悟",
+    "source_url": "https://baike.baidu.com/item/止嗽散"
+  },
+  {
+    "id": "F044",
+    "name": "荆防败毒散",
+    "category": "解表剂-辛温解表",
+    "effect": "疏风解表，败毒消肿",
+    "indication": "风寒感冒，疮疡初起",
+    "composition": [
+      {
+        "herb": "荆芥",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "防风",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "羌活",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "独活",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "柴胡",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "前胡",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "摄生众妙方",
+    "source_url": "https://baike.baidu.com/item/荆防败毒散"
+  },
+  {
+    "id": "F045",
+    "name": "麻黄杏仁甘草石膏汤",
+    "category": "解表剂-辛凉解表",
+    "effect": "辛凉宣泄，清肺平喘",
+    "indication": "肺热咳喘，身热不解",
+    "composition": [
+      {
+        "herb": "麻黄",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "杏仁",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "石膏",
+        "role": "使",
+        "dosage": "18g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/麻黄杏仁甘草石膏汤"
+  },
+  {
+    "id": "F046",
+    "name": "柴葛解肌汤",
+    "category": "解表剂-辛凉解表",
+    "effect": "解肌清热",
+    "indication": "感冒风寒，郁而化热",
+    "composition": [
+      {
+        "herb": "柴胡",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "葛根",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "石膏",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "方剂学教材",
+    "source_url": "https://baike.baidu.com/item/柴葛解肌汤"
+  },
+  {
+    "id": "F047",
+    "name": "升麻葛根汤",
+    "category": "解表剂-辛凉解表",
+    "effect": "解肌透疹",
+    "indication": "麻疹初起，透发不畅",
+    "composition": [
+      {
+        "herb": "升麻",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "葛根",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/升麻葛根汤"
+  },
+  {
+    "id": "F048",
+    "name": "葱豉汤",
+    "category": "解表剂-辛凉解表",
+    "effect": "通阳解表",
+    "indication": "感冒风寒，轻证",
+    "composition": [
+      {
+        "herb": "葱白",
+        "role": "君",
+        "dosage": "10枚"
+      },
+      {
+        "herb": "淡豆豉",
+        "role": "臣",
+        "dosage": "15g"
+      }
+    ],
+    "source": "肘后备急方",
+    "source_url": "https://baike.baidu.com/item/葱豉汤"
+  },
+  {
+    "id": "F049",
+    "name": "竹叶石膏汤",
+    "category": "清热剂-清气分热",
+    "effect": "清热生津，益气和胃",
+    "indication": "热病后期，余热未清，气阴两伤",
+    "composition": [
+      {
+        "herb": "淡竹叶",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "石膏",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "半夏",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "人参",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "12g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/竹叶石膏汤"
+  },
+  {
+    "id": "F050",
+    "name": "清营汤",
+    "category": "清热剂-清营凉血",
+    "effect": "清营解毒，透热养阴",
+    "indication": "热入营分，身热夜甚，神烦少寐",
+    "composition": [
+      {
+        "herb": "水牛角",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "玄参",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "淡竹叶",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "丹参",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "黄连",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "金银花",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "连翘",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "温病条辨",
+    "source_url": "https://baike.baidu.com/item/清营汤"
+  },
+  {
+    "id": "F051",
+    "name": "犀角地黄汤",
+    "category": "清热剂-清营凉血",
+    "effect": "清热解毒，凉血散瘀",
+    "indication": "热入血分，斑色紫黑，吐衄下血",
+    "composition": [
+      {
+        "herb": "水牛角",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "臣",
+        "dosage": "24g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "使",
+        "dosage": "9g"
+      }
+    ],
+    "source": "备急千金要方",
+    "source_url": "https://baike.baidu.com/item/犀角地黄汤"
+  },
+  {
+    "id": "F052",
+    "name": "普济消毒饮",
+    "category": "清热剂-清热解毒",
+    "effect": "清热解毒，疏风散邪",
+    "indication": "大头瘟，头面红肿，咽喉不利",
+    "composition": [
+      {
+        "herb": "黄芩",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄连",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "玄参",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "连翘",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "板蓝根",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "马勃",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "牛蒡子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "薄荷",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "僵蚕",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "升麻",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "柴胡",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "东垣试效方",
+    "source_url": "https://baike.baidu.com/item/普济消毒饮"
+  },
+  {
+    "id": "F053",
+    "name": "仙方活命饮",
+    "category": "清热剂-清热解毒",
+    "effect": "清热解毒，消肿溃坚",
+    "indication": "痈疡肿毒初起，红肿焮痛",
+    "composition": [
+      {
+        "herb": "金银花",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "当归",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "赤芍",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "没药",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "乳香",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "天花粉",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "防风",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芷",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "川贝母",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "皂角刺",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "穿山甲",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "校注妇人良方",
+    "source_url": "https://baike.baidu.com/item/仙方活命饮"
+  },
+  {
+    "id": "F054",
+    "name": "五味消毒饮",
+    "category": "清热剂-清热解毒",
+    "effect": "清热解毒，消散疔疮",
+    "indication": "火毒结聚，疔疮初起",
+    "composition": [
+      {
+        "herb": "金银花",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "野菊花",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "蒲公英",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "紫花地丁",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "紫花地丁",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "医宗金鉴",
+    "source_url": "https://baike.baidu.com/item/五味消毒饮"
+  },
+  {
+    "id": "F055",
+    "name": "四妙勇安汤",
+    "category": "清热剂-清热解毒",
+    "effect": "清热解毒，活血止痛",
+    "indication": "脱疽，热毒炽盛",
+    "composition": [
+      {
+        "herb": "金银花",
+        "role": "君",
+        "dosage": "90g"
+      },
+      {
+        "herb": "玄参",
+        "role": "臣",
+        "dosage": "30g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "15g"
+      }
+    ],
+    "source": "验方新编",
+    "source_url": "https://baike.baidu.com/item/四妙勇安汤"
+  },
+  {
+    "id": "F056",
+    "name": "导赤散",
+    "category": "清热剂-清脏腑热",
+    "effect": "清心利水养阴",
+    "indication": "心经火热，口舌生疮，小便赤涩",
+    "composition": [
+      {
+        "herb": "生地黄",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "木通",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "淡竹叶",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "小儿药证直诀",
+    "source_url": "https://baike.baidu.com/item/导赤散"
+  },
+  {
+    "id": "F057",
+    "name": "左金丸",
+    "category": "清热剂-清脏腑热",
+    "effect": "清泻肝火，降逆止呕",
+    "indication": "肝火犯胃，胁肋胀痛，呕吐吞酸",
+    "composition": [
+      {
+        "herb": "黄连",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "吴茱萸",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "丹溪心法",
+    "source_url": "https://baike.baidu.com/item/左金丸"
+  },
+  {
+    "id": "F058",
+    "name": "泻白散",
+    "category": "清热剂-清脏腑热",
+    "effect": "清泻肺热，平喘止咳",
+    "indication": "肺热喘咳，皮肤蒸热",
+    "composition": [
+      {
+        "herb": "桑白皮",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "地骨皮",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "小儿药证直诀",
+    "source_url": "https://baike.baidu.com/item/泻白散"
+  },
+  {
+    "id": "F059",
+    "name": "清胃散",
+    "category": "清热剂-清脏腑热",
+    "effect": "清胃凉血",
+    "indication": "胃火牙痛，口气热臭",
+    "composition": [
+      {
+        "herb": "黄连",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "升麻",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "脾胃论",
+    "source_url": "https://baike.baidu.com/item/清胃散"
+  },
+  {
+    "id": "F060",
+    "name": "白头翁汤",
+    "category": "清热剂-清脏腑热",
+    "effect": "清热解毒，凉血止痢",
+    "indication": "热毒痢疾，腹痛里急后重",
+    "composition": [
+      {
+        "herb": "白头翁",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "黄柏",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "黄连",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "秦皮",
+        "role": "使",
+        "dosage": "12g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/白头翁汤"
+  },
+  {
+    "id": "F061",
+    "name": "青蒿鳖甲汤",
+    "category": "清热剂-清虚热",
+    "effect": "养阴透热",
+    "indication": "温病后期，邪伏阴分，夜热早凉",
+    "composition": [
+      {
+        "herb": "青蒿",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "鳖甲",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "知母",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "温病条辨",
+    "source_url": "https://baike.baidu.com/item/青蒿鳖甲汤"
+  },
+  {
+    "id": "F062",
+    "name": "清骨散",
+    "category": "清热剂-清虚热",
+    "effect": "清虚热，退骨蒸",
+    "indication": "阴虚内热，骨蒸潮热",
+    "composition": [
+      {
+        "herb": "银柴胡",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "胡黄连",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "秦艽",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "鳖甲",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "地骨皮",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "青蒿",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "知母",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "证治准绳",
+    "source_url": "https://baike.baidu.com/item/清骨散"
+  },
+  {
+    "id": "F063",
+    "name": "大柴胡汤",
+    "category": "和解剂-和解少阳",
+    "effect": "和解少阳，内泄热结",
+    "indication": "少阳阳明合病，寒热往来，心下痞硬",
+    "composition": [
+      {
+        "herb": "柴胡",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "大黄",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "大枣",
+        "role": "使",
+        "dosage": "4枚"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/大柴胡汤"
+  },
+  {
+    "id": "F064",
+    "name": "蒿芩清胆汤",
+    "category": "和解剂-和解少阳",
+    "effect": "清胆利湿，和胃化痰",
+    "indication": "少阳湿热，寒热如疟，口苦胸闷",
+    "composition": [
+      {
+        "herb": "青蒿",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "竹茹",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "碧玉散",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "通俗伤寒论",
+    "source_url": "https://baike.baidu.com/item/蒿芩清胆汤"
+  },
+  {
+    "id": "F065",
+    "name": "达原饮",
+    "category": "和解剂-和解少阳",
+    "effect": "开达膜原，辟秽化浊",
+    "indication": "瘟疫初起，邪伏膜原，憎寒壮热",
+    "composition": [
+      {
+        "herb": "槟榔",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "草果",
+        "role": "臣",
+        "dosage": "3g"
+      },
+      {
+        "herb": "知母",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "瘟疫论",
+    "source_url": "https://baike.baidu.com/item/达原饮"
+  },
+  {
+    "id": "F066",
+    "name": "四逆散",
+    "category": "和解剂-调和肝脾",
+    "effect": "疏肝理脾，透邪解郁",
+    "indication": "阳郁厥逆，胁肋胀痛，脘腹疼痛",
+    "composition": [
+      {
+        "herb": "柴胡",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/四逆散"
+  },
+  {
+    "id": "F067",
+    "name": "痛泻要方",
+    "category": "和解剂-调和肝脾",
+    "effect": "疏肝健脾，止痛止泻",
+    "indication": "肝旺脾虚，腹痛泄泻",
+    "composition": [
+      {
+        "herb": "白术",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "防风",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "丹溪心法",
+    "source_url": "https://baike.baidu.com/item/痛泻要方"
+  },
+  {
+    "id": "F068",
+    "name": "半夏泻心汤",
+    "category": "和解剂-调和胃肠",
+    "effect": "和胃降逆，开结除痞",
+    "indication": "胃气不和，心下痞满，呕吐下利",
+    "composition": [
+      {
+        "herb": "半夏",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "干姜",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "人参",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄连",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "大枣",
+        "role": "使",
+        "dosage": "4枚"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/半夏泻心汤"
+  },
+  {
+    "id": "F069",
+    "name": "小承气汤",
+    "category": "泻下剂-寒下",
+    "effect": "轻下热结",
+    "indication": "阳明腑实轻证，痞满实而燥不明显",
+    "composition": [
+      {
+        "herb": "大黄",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/小承气汤"
+  },
+  {
+    "id": "F070",
+    "name": "调胃承气汤",
+    "category": "泻下剂-寒下",
+    "effect": "缓下热结",
+    "indication": "阳明腑实，燥实而无痞满",
+    "composition": [
+      {
+        "herb": "大黄",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "芒硝",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/调胃承气汤"
+  },
+  {
+    "id": "F071",
+    "name": "大陷胸汤",
+    "category": "泻下剂-寒下",
+    "effect": "泻热逐水",
+    "indication": "结胸证，心下硬满疼痛",
+    "composition": [
+      {
+        "herb": "大黄",
+        "role": "君",
+        "dosage": "10g"
+      },
+      {
+        "herb": "芒硝",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "甘遂",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/大陷胸汤"
+  },
+  {
+    "id": "F072",
+    "name": "大黄附子汤",
+    "category": "泻下剂-温下",
+    "effect": "温里散寒，通便止痛",
+    "indication": "寒积便秘，胁下偏痛",
+    "composition": [
+      {
+        "herb": "大黄",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "附子",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "细辛",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/大黄附子汤"
+  },
+  {
+    "id": "F073",
+    "name": "温脾汤",
+    "category": "泻下剂-温下",
+    "effect": "温阳健脾，攻下冷积",
+    "indication": "冷积内停，手足不温，腹痛便秘",
+    "composition": [
+      {
+        "herb": "大黄",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "附子",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "干姜",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "人参",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "备急千金要方",
+    "source_url": "https://baike.baidu.com/item/温脾汤"
+  },
+  {
+    "id": "F074",
+    "name": "麻子仁丸",
+    "category": "泻下剂-润下",
+    "effect": "润肠泄热，行气通便",
+    "indication": "脾约证，肠胃燥热，脾津不足",
+    "composition": [
+      {
+        "herb": "火麻仁",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "白芍",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "枳实",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "大黄",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "杏仁",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/麻子仁丸"
+  },
+  {
+    "id": "F075",
+    "name": "济川煎",
+    "category": "泻下剂-润下",
+    "effect": "温肾益精，润肠通便",
+    "indication": "肾虚便秘，腰膝酸软",
+    "composition": [
+      {
+        "herb": "肉苁蓉",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牛膝",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "泽泻",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "升麻",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "景岳全书",
+    "source_url": "https://baike.baidu.com/item/济川煎"
+  },
+  {
+    "id": "F076",
+    "name": "小建中汤",
+    "category": "温里剂",
+    "effect": "温中补虚，和里缓急",
+    "indication": "虚劳里急，腹中时痛，喜温喜按",
+    "composition": [
+      {
+        "herb": "饴糖",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "18g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "大枣",
+        "role": "佐",
+        "dosage": "4枚"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/小建中汤"
+  },
+  {
+    "id": "F077",
+    "name": "大建中汤",
+    "category": "温里剂",
+    "effect": "温中补虚，降逆止痛",
+    "indication": "虚寒腹痛，呕不能食，腹中寒气攻冲",
+    "composition": [
+      {
+        "herb": "花椒",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "干姜",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "人参",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "饴糖",
+        "role": "使",
+        "dosage": "30g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/大建中汤"
+  },
+  {
+    "id": "F078",
+    "name": "回阳救急汤",
+    "category": "温里剂",
+    "effect": "回阳救逆，益气生脉",
+    "indication": "寒邪直中三阴，真阳衰微",
+    "composition": [
+      {
+        "herb": "附子",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "干姜",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "肉桂",
+        "role": "臣",
+        "dosage": "3g"
+      },
+      {
+        "herb": "人参",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白术",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "五味子",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒六书",
+    "source_url": "https://baike.baidu.com/item/回阳救急汤"
+  },
+  {
+    "id": "F079",
+    "name": "当归四逆汤",
+    "category": "温里剂",
+    "effect": "温经散寒，养血通脉",
+    "indication": "血虚寒厥，手足厥寒，脉细欲绝",
+    "composition": [
+      {
+        "herb": "当归",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "细辛",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "通草",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "大枣",
+        "role": "佐",
+        "dosage": "8枚"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/当归四逆汤"
+  },
+  {
+    "id": "F080",
+    "name": "越鞠丸",
+    "category": "理气剂",
+    "effect": "行气解郁",
+    "indication": "气郁证，胸膈痞闷，脘腹胀痛",
+    "composition": [
+      {
+        "herb": "香附",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "川芎",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "苍术",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "栀子",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "神曲",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "丹溪心法",
+    "source_url": "https://baike.baidu.com/item/越鞠丸"
+  },
+  {
+    "id": "F081",
+    "name": "枳实薤白桂枝汤",
+    "category": "理气剂",
+    "effect": "通阳散结，下气祛痰",
+    "indication": "胸痹，胸满胁痛",
+    "composition": [
+      {
+        "herb": "枳实",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "薤白",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "瓜蒌",
+        "role": "佐",
+        "dosage": "15g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/枳实薤白桂枝汤"
+  },
+  {
+    "id": "F082",
+    "name": "金铃子散",
+    "category": "理气剂",
+    "effect": "疏肝泄热，活血止痛",
+    "indication": "肝郁化火，胁肋胀痛",
+    "composition": [
+      {
+        "herb": "川楝子",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "延胡索",
+        "role": "臣",
+        "dosage": "9g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/金铃子散"
+  },
+  {
+    "id": "F083",
+    "name": "厚朴温中汤",
+    "category": "理气剂",
+    "effect": "温中行气，燥湿除满",
+    "indication": "寒湿气滞，脘腹胀满",
+    "composition": [
+      {
+        "herb": "厚朴",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "草豆蔻",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "干姜",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "木香",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "内外伤辨惑论",
+    "source_url": "https://baike.baidu.com/item/厚朴温中汤"
+  },
+  {
+    "id": "F084",
+    "name": "天台乌药散",
+    "category": "理气剂",
+    "effect": "行气疏肝，散寒止痛",
+    "indication": "寒疝腹痛，睾丸偏坠",
+    "composition": [
+      {
+        "herb": "乌药",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "木香",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "小茴香",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "青皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "高良姜",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "槟榔",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "川楝子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "巴豆",
+        "role": "使",
+        "dosage": "1g"
+      }
+    ],
+    "source": "医学发明",
+    "source_url": "https://baike.baidu.com/item/天台乌药散"
+  },
+  {
+    "id": "F085",
+    "name": "桃核承气汤",
+    "category": "理血剂-活血祛瘀",
+    "effect": "逐瘀泻热",
+    "indication": "下焦蓄血，少腹急结",
+    "composition": [
+      {
+        "herb": "桃仁",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "大黄",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "芒硝",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/桃核承气汤"
+  },
+  {
+    "id": "F086",
+    "name": "复元活血汤",
+    "category": "理血剂-活血祛瘀",
+    "effect": "活血祛瘀，疏肝通络",
+    "indication": "跌打损伤，瘀阻胁痛",
+    "composition": [
+      {
+        "herb": "大黄",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "柴胡",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桃仁",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "红花",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "天花粉",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "穿山甲",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医学发明",
+    "source_url": "https://baike.baidu.com/item/复元活血汤"
+  },
+  {
+    "id": "F087",
+    "name": "温经汤",
+    "category": "理血剂-活血祛瘀",
+    "effect": "温经散寒，祛瘀养血",
+    "indication": "冲任虚寒，瘀血阻滞",
+    "composition": [
+      {
+        "herb": "吴茱萸",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "阿胶",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "人参",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      },
+      {
+        "herb": "半夏",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/温经汤"
+  },
+  {
+    "id": "F088",
+    "name": "生化汤",
+    "category": "理血剂-活血祛瘀",
+    "effect": "养血祛瘀，温经止痛",
+    "indication": "产后瘀血腹痛",
+    "composition": [
+      {
+        "herb": "当归",
+        "role": "君",
+        "dosage": "24g"
+      },
+      {
+        "herb": "川芎",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桃仁",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "干姜",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "傅青主女科",
+    "source_url": "https://baike.baidu.com/item/生化汤"
+  },
+  {
+    "id": "F089",
+    "name": "桂枝茯苓丸",
+    "category": "理血剂-活血祛瘀",
+    "effect": "活血化瘀，缓消癥块",
+    "indication": "瘀血留结胞宫，胎动不安",
+    "composition": [
+      {
+        "herb": "桂枝",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桃仁",
+        "role": "使",
+        "dosage": "9g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/桂枝茯苓丸"
+  },
+  {
+    "id": "F090",
+    "name": "失笑散",
+    "category": "理血剂-活血祛瘀",
+    "effect": "活血祛瘀，散结止痛",
+    "indication": "瘀血停滞，心腹剧痛",
+    "composition": [
+      {
+        "herb": "五灵脂",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "蒲黄",
+        "role": "臣",
+        "dosage": "9g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/失笑散"
+  },
+  {
+    "id": "F091",
+    "name": "丹参饮",
+    "category": "理血剂-活血祛瘀",
+    "effect": "活血祛瘀，行气止痛",
+    "indication": "血瘀气滞，胃脘疼痛",
+    "composition": [
+      {
+        "herb": "丹参",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "檀香",
+        "role": "臣",
+        "dosage": "3g"
+      },
+      {
+        "herb": "砂仁",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "时方歌括",
+    "source_url": "https://baike.baidu.com/item/丹参饮"
+  },
+  {
+    "id": "F092",
+    "name": "十灰散",
+    "category": "理血剂-止血",
+    "effect": "凉血止血",
+    "indication": "血热妄行，呕血衄血",
+    "composition": [
+      {
+        "herb": "大蓟",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "小蓟",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "荷叶",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "侧柏叶",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白茅根",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茜草",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "栀子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "大黄",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "棕榈皮",
+        "role": "使",
+        "dosage": "9g"
+      }
+    ],
+    "source": "十药神书",
+    "source_url": "https://baike.baidu.com/item/十灰散"
+  },
+  {
+    "id": "F093",
+    "name": "咳血方",
+    "category": "理血剂-止血",
+    "effect": "清火化痰，敛肺止血",
+    "indication": "肝火犯肺，咳嗽带血",
+    "composition": [
+      {
+        "herb": "青黛",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "栀子",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "瓜蒌",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "海浮石",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "诃子",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "丹溪心法",
+    "source_url": "https://baike.baidu.com/item/咳血方"
+  },
+  {
+    "id": "F094",
+    "name": "小蓟饮子",
+    "category": "理血剂-止血",
+    "effect": "凉血止血，利尿通淋",
+    "indication": "下焦热结，血淋尿血",
+    "composition": [
+      {
+        "herb": "小蓟",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "蒲黄",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "藕节",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "滑石",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "木通",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "淡竹叶",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "栀子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "济生方",
+    "source_url": "https://baike.baidu.com/item/小蓟饮子"
+  },
+  {
+    "id": "F095",
+    "name": "槐花散",
+    "category": "理血剂-止血",
+    "effect": "清肠止血，疏风行气",
+    "indication": "肠风脏毒，血色鲜暗",
+    "composition": [
+      {
+        "herb": "槐花",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "侧柏叶",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "荆芥",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "枳实",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "普济本事方",
+    "source_url": "https://baike.baidu.com/item/槐花散"
+  },
+  {
+    "id": "F096",
+    "name": "参白术散",
+    "category": "补益剂-补气",
+    "effect": "益气健脾，渗湿止泻",
+    "indication": "脾胃气虚夹湿，食少便溏，四肢乏力",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "山药",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "莲子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白扁豆",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "薏苡仁",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "砂仁",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "桔梗",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/参白术散"
+  },
+  {
+    "id": "F097",
+    "name": "玉屏风散",
+    "category": "补益剂-补气",
+    "effect": "益气固表止汗",
+    "indication": "表虚自汗，易感风邪",
+    "composition": [
+      {
+        "herb": "黄芪",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "白术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "防风",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "世医得效方",
+    "source_url": "https://baike.baidu.com/item/玉屏风散"
+  },
+  {
+    "id": "F098",
+    "name": "人参蛤蚧散",
+    "category": "补益剂-补气",
+    "effect": "益气清肺，止咳定喘",
+    "indication": "肺虚咳喘，气短乏力",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "蛤蚧",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "杏仁",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "卫生宝鉴",
+    "source_url": "https://baike.baidu.com/item/人参蛤蚧散"
+  },
+  {
+    "id": "F099",
+    "name": "四神丸",
+    "category": "补益剂-补气-温补脾肾",
+    "effect": "温肾暖脾，涩肠止泻",
+    "indication": "命门火衰，五更泄泻",
+    "composition": [
+      {
+        "herb": "补骨脂",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "肉苁蓉",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "五味子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "吴茱萸",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "证治准绳",
+    "source_url": "https://baike.baidu.com/item/四神丸"
+  },
+  {
+    "id": "F100",
+    "name": "归脾汤",
+    "category": "补益剂-补血",
+    "effect": "益气补血，健脾养心",
+    "indication": "心脾两虚，心悸失眠，月经不调",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄芪",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "白术",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "龙眼肉",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "远志",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "酸枣仁",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "木香",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "济生方",
+    "source_url": "https://baike.baidu.com/item/归脾汤"
+  },
+  {
+    "id": "F101",
+    "name": "炙甘草汤",
+    "category": "补益剂-补血",
+    "effect": "益气滋阴，通阳复脉",
+    "indication": "心动悸，脉结代，虚劳肺痿",
+    "composition": [
+      {
+        "herb": "甘草",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "人参",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "阿胶",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "火麻仁",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "生姜",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "大枣",
+        "role": "使",
+        "dosage": "4枚"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/炙甘草汤"
+  },
+  {
+    "id": "F102",
+    "name": "八珍汤",
+    "category": "补益剂-气血双补",
+    "effect": "益气补血",
+    "indication": "气血两虚，面色苍白，气短乏力",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "熟地黄",
+        "role": "佐",
+        "dosage": "12g"
+      }
+    ],
+    "source": "瑞竹堂经验方",
+    "source_url": "https://baike.baidu.com/item/八珍汤"
+  },
+  {
+    "id": "F103",
+    "name": "十全大补汤",
+    "category": "补益剂-气血双补",
+    "effect": "温补气血",
+    "indication": "气血两虚，四肢不温，头晕自汗",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "熟地黄",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "黄芪",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "肉桂",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/十全大补汤"
+  },
+  {
+    "id": "F104",
+    "name": "泰山磐石散",
+    "category": "补益剂-气血双补",
+    "effect": "益气健脾，养血安胎",
+    "indication": "气血虚弱，胎动不安",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "黄芪",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "川芎",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "熟地黄",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "续断",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "砂仁",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "景岳全书",
+    "source_url": "https://baike.baidu.com/item/泰山磐石散"
+  },
+  {
+    "id": "F105",
+    "name": "六味地黄汤",
+    "category": "补益剂-补阴",
+    "effect": "滋阴补肾",
+    "indication": "肾阴亏虚，腰膝酸软，头晕目眩",
+    "composition": [
+      {
+        "herb": "熟地黄",
+        "role": "君",
+        "dosage": "24g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "山药",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "泽泻",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "小儿药证直诀",
+    "source_url": "https://baike.baidu.com/item/六味地黄汤"
+  },
+  {
+    "id": "F106",
+    "name": "知柏地黄汤",
+    "category": "补益剂-补阴",
+    "effect": "滋阴降火",
+    "indication": "阴虚火旺，潮热盗汗，腰膝酸软",
+    "composition": [
+      {
+        "herb": "知母",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄柏",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "熟地黄",
+        "role": "佐",
+        "dosage": "24g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "山药",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "泽泻",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "医宗金鉴",
+    "source_url": "https://baike.baidu.com/item/知柏地黄汤"
+  },
+  {
+    "id": "F107",
+    "name": "杞菊地黄汤",
+    "category": "补益剂-补阴",
+    "effect": "滋阴养肝，明目",
+    "indication": "肝肾阴虚，目暗不明，视物昏花",
+    "composition": [
+      {
+        "herb": "枸杞子",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "菊花",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "熟地黄",
+        "role": "佐",
+        "dosage": "24g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "山药",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "泽泻",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "医级",
+    "source_url": "https://baike.baidu.com/item/杞菊地黄汤"
+  },
+  {
+    "id": "F108",
+    "name": "麦味地黄汤",
+    "category": "补益剂-补阴",
+    "effect": "滋阴敛肺，纳气平喘",
+    "indication": "肺肾阴虚，喘咳气逆，潮热盗汗",
+    "composition": [
+      {
+        "herb": "麦冬",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "五味子",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "熟地黄",
+        "role": "佐",
+        "dosage": "24g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "山药",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "泽泻",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "医宗金鉴",
+    "source_url": "https://baike.baidu.com/item/麦味地黄汤"
+  },
+  {
+    "id": "F109",
+    "name": "左归饮",
+    "category": "补益剂-补阴",
+    "effect": "滋阴补肾，填精益髓",
+    "indication": "真阴不足，腰酸遗精，盗汗潮热",
+    "composition": [
+      {
+        "herb": "熟地黄",
+        "role": "君",
+        "dosage": "24g"
+      },
+      {
+        "herb": "山药",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "枸杞子",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "景岳全书",
+    "source_url": "https://baike.baidu.com/item/左归饮"
+  },
+  {
+    "id": "F110",
+    "name": "虎潜丸",
+    "category": "补益剂-补阴",
+    "effect": "滋阴降火，强筋壮骨",
+    "indication": "肝肾阴虚，筋骨痿软，腰膝酸软",
+    "composition": [
+      {
+        "herb": "熟地黄",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "龟甲",
+        "role": "臣",
+        "dosage": "18g"
+      },
+      {
+        "herb": "黄柏",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "知母",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "锁阳",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牛膝",
+        "role": "佐",
+        "dosage": "12g"
+      }
+    ],
+    "source": "丹溪心法",
+    "source_url": "https://baike.baidu.com/item/虎潜丸"
+  },
+  {
+    "id": "F111",
+    "name": "一贯煎",
+    "category": "补益剂-补阴",
+    "effect": "滋阴疏肝",
+    "indication": "肝肾阴虚，肝气不舒，胸胁胀痛",
+    "composition": [
+      {
+        "herb": "生地黄",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "枸杞子",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "南沙参",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "川楝子",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "柳洲医话",
+    "source_url": "https://baike.baidu.com/item/一贯煎"
+  },
+  {
+    "id": "F112",
+    "name": "百合固金汤",
+    "category": "补益剂-补阴",
+    "effect": "滋阴润肺，止咳化痰",
+    "indication": "肺肾阴虚，咳嗽气喘，痰中带血",
+    "composition": [
+      {
+        "herb": "百合",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "熟地黄",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "玄参",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "川贝母",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "桔梗",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "慎斋遗书",
+    "source_url": "https://baike.baidu.com/item/百合固金汤"
+  },
+  {
+    "id": "F113",
+    "name": "补肺阿胶汤",
+    "category": "补益剂-补阴",
+    "effect": "滋阴润肺，止咳止血",
+    "indication": "肺虚有热，咳嗽气喘，咽喉干燥",
+    "composition": [
+      {
+        "herb": "阿胶",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "马兜铃",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "牛蒡子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "杏仁",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "小儿药证直诀",
+    "source_url": "https://baike.baidu.com/item/补肺阿胶汤"
+  },
+  {
+    "id": "F114",
+    "name": "益胃汤",
+    "category": "补益剂-补阴",
+    "effect": "养阴益胃",
+    "indication": "胃阴虚，口干咽燥，食欲减退",
+    "composition": [
+      {
+        "herb": "南沙参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "玉竹",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "温病条辨",
+    "source_url": "https://baike.baidu.com/item/益胃汤"
+  },
+  {
+    "id": "F115",
+    "name": "增液汤",
+    "category": "补益剂-补阴",
+    "effect": "增液润燥",
+    "indication": "阳明温病，津液不足，便秘",
+    "composition": [
+      {
+        "herb": "玄参",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "臣",
+        "dosage": "24g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "佐",
+        "dosage": "24g"
+      }
+    ],
+    "source": "温病条辨",
+    "source_url": "https://baike.baidu.com/item/增液汤"
+  },
+  {
+    "id": "F116",
+    "name": "方剂名",
+    "category": "补益剂-补阴",
+    "effect": "功效",
+    "indication": "主治",
+    "composition": [
+      {
+        "herb": "甘草",
+        "role": "君/臣/佐/使",
+        "dosage": "剂量"
+      }
+    ],
+    "source": "来源",
+    "source_url": "https://baike.baidu.com/item/方剂名"
+  },
+  {
+    "id": "F117",
+    "name": "右归丸",
+    "category": "补益剂-补阳",
+    "effect": "温补肾阳，填精益髓",
+    "indication": "肾阳不足，命门火衰，腰膝酸冷",
+    "composition": [
+      {
+        "herb": "熟地黄",
+        "role": "君",
+        "dosage": "24g"
+      },
+      {
+        "herb": "山药",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "枸杞子",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "菟丝子",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "鹿角",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "杜仲",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "肉桂",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "附子",
+        "role": "使",
+        "dosage": "6g"
+      }
+    ],
+    "source": "景岳全书",
+    "source_url": "https://baike.baidu.com/item/右归丸"
+  },
+  {
+    "id": "F118",
+    "name": "五子衍宗丸",
+    "category": "补益剂-补阳",
+    "effect": "补肾益精",
+    "indication": "肾虚精亏，阳痿不育，遗精早泄",
+    "composition": [
+      {
+        "herb": "枸杞子",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "菟丝子",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "覆盆子",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "五味子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "车前子",
+        "role": "使",
+        "dosage": "9g"
+      }
+    ],
+    "source": "证治准绳",
+    "source_url": "https://baike.baidu.com/item/五子衍宗丸"
+  },
+  {
+    "id": "F119",
+    "name": "地黄饮子",
+    "category": "补益剂-补阳",
+    "effect": "温肾阳，滋肾阴，开窍化痰",
+    "indication": "下元虚衰，痰浊上泛，舌强不能言",
+    "composition": [
+      {
+        "herb": "熟地黄",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "巴戟天",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "石斛",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "肉苁蓉",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "附子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "肉桂",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "石菖蒲",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "远志",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "黄帝素问宣明论方",
+    "source_url": "https://baike.baidu.com/item/地黄饮子"
+  },
+  {
+    "id": "F120",
+    "name": "朱砂安神丸",
+    "category": "安神剂",
+    "effect": "清心养血，镇惊安神",
+    "indication": "心火亢盛，阴血不足，失眠多梦",
+    "composition": [
+      {
+        "herb": "朱砂",
+        "role": "君",
+        "dosage": "1g"
+      },
+      {
+        "herb": "黄连",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "当归",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医学发明",
+    "source_url": "https://baike.baidu.com/item/朱砂安神丸"
+  },
+  {
+    "id": "F121",
+    "name": "甘麦大枣汤",
+    "category": "安神剂",
+    "effect": "养心安神，和中缓急",
+    "indication": "脏躁，精神恍惚，常悲伤欲哭",
+    "composition": [
+      {
+        "herb": "甘草",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "臣",
+        "dosage": "30g"
+      },
+      {
+        "herb": "大枣",
+        "role": "佐",
+        "dosage": "10枚"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/甘麦大枣汤"
+  },
+  {
+    "id": "F122",
+    "name": "紫雪丹",
+    "category": "开窍剂",
+    "effect": "清热解毒，镇惊开窍",
+    "indication": "热病邪入心包，高热神昏，惊厥抽搐",
+    "composition": [
+      {
+        "herb": "石膏",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "寒水石",
+        "role": "臣",
+        "dosage": "30g"
+      },
+      {
+        "herb": "磁石",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "滑石",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "水牛角",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "麝香",
+        "role": "佐",
+        "dosage": "0.3g"
+      }
+    ],
+    "source": "外台秘要",
+    "source_url": "https://baike.baidu.com/item/紫雪丹"
+  },
+  {
+    "id": "F123",
+    "name": "至宝丹",
+    "category": "开窍剂",
+    "effect": "化浊开窍，清热解毒",
+    "indication": "中暑、中风、温病痰热内闭，神昏谵语",
+    "composition": [
+      {
+        "herb": "水牛角",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "朱砂",
+        "role": "臣",
+        "dosage": "1g"
+      },
+      {
+        "herb": "雄黄",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "冰片",
+        "role": "佐",
+        "dosage": "0.3g"
+      },
+      {
+        "herb": "麝香",
+        "role": "佐",
+        "dosage": "0.3g"
+      },
+      {
+        "herb": "琥珀",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "灵苑方",
+    "source_url": "https://baike.baidu.com/item/至宝丹"
+  },
+  {
+    "id": "F124",
+    "name": "苏合香丸",
+    "category": "开窍剂",
+    "effect": "温通开窍，行气止痛",
+    "indication": "寒闭证，中风痰厥，猝然昏倒",
+    "composition": [
+      {
+        "herb": "苏合香",
+        "role": "君",
+        "dosage": "1g"
+      },
+      {
+        "herb": "麝香",
+        "role": "臣",
+        "dosage": "0.3g"
+      },
+      {
+        "herb": "冰片",
+        "role": "佐",
+        "dosage": "0.3g"
+      },
+      {
+        "herb": "安息香",
+        "role": "佐",
+        "dosage": "1g"
+      },
+      {
+        "herb": "沉香",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "外台秘要",
+    "source_url": "https://baike.baidu.com/item/苏合香丸"
+  },
+  {
+    "id": "F125",
+    "name": "九仙散",
+    "category": "固涩剂",
+    "effect": "敛肺止咳，益气养心",
+    "indication": "久咳肺虚，气阴两伤，咳嗽不已",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "款冬花",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桑白皮",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "五味子",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "阿胶",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "卫生宝鉴",
+    "source_url": "https://baike.baidu.com/item/九仙散"
+  },
+  {
+    "id": "F126",
+    "name": "桑螵蛸散",
+    "category": "固涩剂",
+    "effect": "固精缩尿，补肾助阳",
+    "indication": "肾虚不固，遗精滑精，遗尿尿频",
+    "composition": [
+      {
+        "herb": "桑螵蛸",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "远志",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "龙骨",
+        "role": "佐",
+        "dosage": "15g"
+      },
+      {
+        "herb": "石菖蒲",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "外台秘要",
+    "source_url": "https://baike.baidu.com/item/桑螵蛸散"
+  },
+  {
+    "id": "F127",
+    "name": "固冲汤",
+    "category": "固涩剂",
+    "effect": "益气健脾，固冲摄血",
+    "indication": "脾气虚弱，冲脉不固，血崩月经过多",
+    "composition": [
+      {
+        "herb": "白术",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "黄芪",
+        "role": "臣",
+        "dosage": "18g"
+      },
+      {
+        "herb": "龙骨",
+        "role": "佐",
+        "dosage": "18g"
+      },
+      {
+        "herb": "牡蛎",
+        "role": "佐",
+        "dosage": "18g"
+      },
+      {
+        "herb": "山茱萸",
+        "role": "佐",
+        "dosage": "12g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "海螵蛸",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "医学衷中参西录",
+    "source_url": "https://baike.baidu.com/item/固冲汤"
+  },
+  {
+    "id": "F128",
+    "name": "川茸茶调散",
+    "category": "治风剂-疏散外风",
+    "effect": "疏风止痛",
+    "indication": "外感风邪，头痛发热",
+    "composition": [
+      {
+        "herb": "川芎",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "白芷",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "羌活",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "和剂局方",
+    "source_url": "https://baike.baidu.com/item/川茸茶调散"
+  },
+  {
+    "id": "F129",
+    "name": "独活寄生汤",
+    "category": "治风剂-疏散外风-祛风胜湿",
+    "effect": "祛风湿，补肝肾",
+    "indication": "风寒湿痹，腰膝酸软",
+    "composition": [
+      {
+        "herb": "独活",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "桑寄生",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "杜仲",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "牛膝",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "防风",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "千金要方",
+    "source_url": "https://baike.baidu.com/item/独活寄生汤"
+  },
+  {
+    "id": "F130",
+    "name": "大秦艽汤",
+    "category": "治风剂-疏散外风-祛风清热",
+    "effect": "祛风清热，养血活血",
+    "indication": "风邪初中经络",
+    "composition": [
+      {
+        "herb": "秦艽",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "保命集",
+    "source_url": "https://baike.baidu.com/item/大秦艽汤"
+  },
+  {
+    "id": "F131",
+    "name": "镇肝熄风汤",
+    "category": "治风剂-平熄内风",
+    "effect": "镇肝熄风，滋阴潜阳",
+    "indication": "肝阳上亢，头目眩晕",
+    "composition": [
+      {
+        "herb": "牛膝",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "代赭石",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "龙骨",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "牡蛎",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "医学衷中参西录",
+    "source_url": "https://baike.baidu.com/item/镇肝熄风汤"
+  },
+  {
+    "id": "F132",
+    "name": "大定风珠",
+    "category": "治风剂-平熄内风",
+    "effect": "滋阴熄风",
+    "indication": "温病热邪久留，真阴大亏",
+    "composition": [
+      {
+        "herb": "白芍",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "阿胶",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "龟甲",
+        "role": "佐",
+        "dosage": "12g"
+      }
+    ],
+    "source": "温病条辨",
+    "source_url": "https://baike.baidu.com/item/大定风珠"
+  },
+  {
+    "id": "F133",
+    "name": "桑杏汤",
+    "category": "治燥剂-轻宣外燥",
+    "effect": "清宣温燥",
+    "indication": "温燥外袭，头痛身热",
+    "composition": [
+      {
+        "herb": "桑叶",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "杏仁",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "南沙参",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "温病条辨",
+    "source_url": "https://baike.baidu.com/item/桑杏汤"
+  },
+  {
+    "id": "F134",
+    "name": "清燥救肺汤",
+    "category": "治燥剂-轻宣外燥",
+    "effect": "清燥润肺",
+    "indication": "温燥伤肺，头痛身热",
+    "composition": [
+      {
+        "herb": "桑叶",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "石膏",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医门法律",
+    "source_url": "https://baike.baidu.com/item/清燥救肺汤"
+  },
+  {
+    "id": "F135",
+    "name": "麦门冬汤",
+    "category": "治燥剂-滋阴润燥",
+    "effect": "滋养肺胃，降逆下气",
+    "indication": "肺痿，咳唾涎沫",
+    "composition": [
+      {
+        "herb": "麦冬",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "半夏",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/麦门冬汤"
+  },
+  {
+    "id": "F136",
+    "name": "养阴清肺汤",
+    "category": "治燥剂-滋阴润燥",
+    "effect": "养阴清肺，解毒利咽",
+    "indication": "白喉，咽部肿痛",
+    "composition": [
+      {
+        "herb": "生地黄",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "麦冬",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "重楼玉钥",
+    "source_url": "https://baike.baidu.com/item/养阴清肺汤"
+  },
+  {
+    "id": "F137",
+    "name": "平胃散",
+    "category": "祛湿剂-化湿和胃",
+    "effect": "燥湿运脾，行气和胃",
+    "indication": "湿滞脾胃，脘腹胀满",
+    "composition": [
+      {
+        "herb": "苍术",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "和剂局方",
+    "source_url": "https://baike.baidu.com/item/平胃散"
+  },
+  {
+    "id": "F138",
+    "name": "八正散",
+    "category": "祛湿剂-清热祛湿",
+    "effect": "清热泻火，利尿通淋",
+    "indication": "湿热淋证，尿频尿急",
+    "composition": [
+      {
+        "herb": "车前子",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "瞿麦",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "和剂局方",
+    "source_url": "https://baike.baidu.com/item/八正散"
+  },
+  {
+    "id": "F139",
+    "name": "三仁汤",
+    "category": "祛湿剂-清热祛湿",
+    "effect": "宣畅气机，清利湿热",
+    "indication": "湿温初起，身热不扬",
+    "composition": [
+      {
+        "herb": "杏仁",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白豆蔻",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "薏苡仁",
+        "role": "佐",
+        "dosage": "18g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "温病条辨",
+    "source_url": "https://baike.baidu.com/item/三仁汤"
+  },
+  {
+    "id": "F140",
+    "name": "猪苓汤",
+    "category": "祛湿剂-利水渗湿",
+    "effect": "利水清热养阴",
+    "indication": "水热互结，小便不利",
+    "composition": [
+      {
+        "herb": "猪苓",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "泽泻",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/猪苓汤"
+  },
+  {
+    "id": "F141",
+    "name": "苓桂术甘汤",
+    "category": "祛湿剂-温化水湿",
+    "effect": "温阳化饮，健脾利湿",
+    "indication": "中阳不足，痰饮内停",
+    "composition": [
+      {
+        "herb": "茯苓",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "桂枝",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "佐",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "6g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/苓桂术甘汤"
+  },
+  {
+    "id": "F142",
+    "name": "真武汤",
+    "category": "祛湿剂-温化水湿",
+    "effect": "温阳利水",
+    "indication": "阳虚水泛，小便不利",
+    "composition": [
+      {
+        "herb": "附子",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茯苓",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白术",
+        "role": "佐",
+        "dosage": "6g"
+      },
+      {
+        "herb": "白芍",
+        "role": "佐",
+        "dosage": "9g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/真武汤"
+  },
+  {
+    "id": "F143",
+    "name": "羌活胜湿汤",
+    "category": "祛湿剂-祛风胜湿",
+    "effect": "祛风胜湿止痛",
+    "indication": "风湿在表，头痛身重",
+    "composition": [
+      {
+        "herb": "羌活",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "独活",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐",
+        "dosage": "3g"
+      }
+    ],
+    "source": "内外伤辨惑论",
+    "source_url": "https://baike.baidu.com/item/羌活胜湿汤"
+  },
+  {
+    "id": "F144",
+    "name": "温胆汤",
+    "category": "祛痰剂-燥湿化痰",
+    "effect": "理气化痰，和胃利胆",
+    "indication": "胆郁痰扰，心烦不寐",
+    "composition": [
+      {
+        "herb": "半夏",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "陈皮",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "三因极一病证方论",
+    "source_url": "https://baike.baidu.com/item/温胆汤"
+  },
+  {
+    "id": "F145",
+    "name": "茯苓丸",
+    "category": "祛痰剂-燥湿化痰",
+    "effect": "燥湿化痰，软坚消食",
+    "indication": "痰停中脘，流注四肢",
+    "composition": [
+      {
+        "herb": "茯苓",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "半夏",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/茯苓丸"
+  },
+  {
+    "id": "F146",
+    "name": "贝母瓜蒌散",
+    "category": "祛痰剂-润燥化痰",
+    "effect": "润肺清热，理气化痰",
+    "indication": "燥痰咳嗽，咳痰不爽",
+    "composition": [
+      {
+        "herb": "川贝母",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "瓜蒌",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医学心悟",
+    "source_url": "https://baike.baidu.com/item/贝母瓜蒌散"
+  },
+  {
+    "id": "F147",
+    "name": "苓甘五味姜辛汤",
+    "category": "祛痰剂-温化寒痰",
+    "effect": "温肺化饮",
+    "indication": "寒饮咳嗽，痰多清稀",
+    "composition": [
+      {
+        "herb": "茯苓",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/苓甘五味姜辛汤"
+  },
+  {
+    "id": "F148",
+    "name": "三子养亲汤",
+    "category": "祛痰剂-温化寒痰",
+    "effect": "温肺化痰，降气消食",
+    "indication": "痰壅气逆，咳嗽喘逆",
+    "composition": [
+      {
+        "herb": "紫苏子",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芥子",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "佐使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "韩氏医通",
+    "source_url": "https://baike.baidu.com/item/三子养亲汤"
+  },
+  {
+    "id": "F149",
+    "name": "健脾丸",
+    "category": "消食剂-健脾消食",
+    "effect": "健脾和胃，消食止泻",
+    "indication": "脾虚食积，食少难消",
+    "composition": [
+      {
+        "herb": "白术",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "木香",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "证治准绳",
+    "source_url": "https://baike.baidu.com/item/健脾丸"
+  },
+  {
+    "id": "F150",
+    "name": "枳实导滞丸",
+    "category": "消食剂-消食化滞",
+    "effect": "消食导滞，清热祛湿",
+    "indication": "湿热食积，脘腹胀痛",
+    "composition": [
+      {
+        "herb": "枳实",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "大黄",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "内外伤辨惑论",
+    "source_url": "https://baike.baidu.com/item/枳实导滞丸"
+  },
+  {
+    "id": "F151",
+    "name": "木香槟榔丸",
+    "category": "消食剂-消食化滞",
+    "effect": "行气导滞，泄热通便",
+    "indication": "积滞内停，脘腹痞满",
+    "composition": [
+      {
+        "herb": "木香",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "槟榔",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "儒门事亲",
+    "source_url": "https://baike.baidu.com/item/木香槟榔丸"
+  },
+  {
+    "id": "F152",
+    "name": "乌梅丸",
+    "category": "驱虫剂",
+    "effect": "温脏安蛔",
+    "indication": "蛔厥证，脘腹剧痛",
+    "composition": [
+      {
+        "herb": "乌梅",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "花椒",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/乌梅丸"
+  },
+  {
+    "id": "F153",
+    "name": "化虫丸",
+    "category": "驱虫剂",
+    "effect": "杀肠中诸虫",
+    "indication": "肠道寄生虫，腹痛时作",
+    "composition": [
+      {
+        "herb": "槟榔",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "苦参",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/化虫丸"
+  },
+  {
+    "id": "F154",
+    "name": "清暑益气汤",
+    "category": "祛暑剂",
+    "effect": "清暑益气，养阴生津",
+    "indication": "暑热气津两伤，身热汗多",
+    "composition": [
+      {
+        "herb": "西洋参",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "石斛",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "温热经纬",
+    "source_url": "https://baike.baidu.com/item/清暑益气汤"
+  },
+  {
+    "id": "F155",
+    "name": "六一散",
+    "category": "祛暑剂",
+    "effect": "清暑利湿",
+    "indication": "暑湿证，身热烦渴",
+    "composition": [
+      {
+        "herb": "滑石",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "黄帝素问宣明论方",
+    "source_url": "https://baike.baidu.com/item/六一散"
+  },
+  {
+    "id": "F156",
+    "name": "香薷散",
+    "category": "祛暑剂",
+    "effect": "祛暑解表，化湿和中",
+    "indication": "阴暑证，恶寒发热",
+    "composition": [
+      {
+        "herb": "香薷",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/香薷散"
+  },
+  {
+    "id": "F157",
+    "name": "葛根黄芩黄连汤",
+    "category": "表里双解剂",
+    "effect": "解表清里",
+    "indication": "协热下利，身热下利",
+    "composition": [
+      {
+        "herb": "葛根",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "黄芩",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄连",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/葛根黄芩黄连汤"
+  },
+  {
+    "id": "F158",
+    "name": "防风通圣散",
+    "category": "表里双解剂",
+    "effect": "疏风解表，泻热通便",
+    "indication": "风热壅盛，表里俱实",
+    "composition": [
+      {
+        "herb": "防风",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "大黄",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "黄帝素问宣明论方",
+    "source_url": "https://baike.baidu.com/item/防风通圣散"
+  },
+  {
+    "id": "F159",
+    "name": "大黄牡丹汤",
+    "category": "痈疡剂",
+    "effect": "泻热破瘀，散结消肿",
+    "indication": "肠痈初起，右下腹疼痛",
+    "composition": [
+      {
+        "herb": "大黄",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "牡丹皮",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/大黄牡丹汤"
+  },
+  {
+    "id": "F160",
+    "name": "苇茎汤",
+    "category": "痈疡剂",
+    "effect": "清肺化痰，逐瘀排脓",
+    "indication": "肺痈，咳嗽痰多腥臭",
+    "composition": [
+      {
+        "herb": "苇茎",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "薏苡仁",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "备急千金要方",
+    "source_url": "https://baike.baidu.com/item/苇茎汤"
+  },
+  {
+    "id": "F161",
+    "name": "透脓散",
+    "category": "痈疡剂",
+    "effect": "益气补血，托毒溃脓",
+    "indication": "痈疡脓成不溃",
+    "composition": [
+      {
+        "herb": "黄芪",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "当归",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "外科正宗",
+    "source_url": "https://baike.baidu.com/item/透脓散"
+  },
+  {
+    "id": "F162",
+    "name": "左归丸",
+    "category": "补益剂-补阴",
+    "effect": "滋阴补肾，填精益髓",
+    "indication": "真阴不足，腰膝酸软",
+    "composition": [
+      {
+        "herb": "熟地黄",
+        "role": "君",
+        "dosage": "24g"
+      },
+      {
+        "herb": "山药",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "景岳全书",
+    "source_url": "https://baike.baidu.com/item/左归丸"
+  },
+  {
+    "id": "F163",
+    "name": "龟鹿二仙胶",
+    "category": "补益剂-气血双补",
+    "effect": "滋阴填精，益气壮阳",
+    "indication": "真元虚损，精血不足",
+    "composition": [
+      {
+        "herb": "龟甲",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "鹿角",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医便",
+    "source_url": "https://baike.baidu.com/item/龟鹿二仙胶"
+  },
+  {
+    "id": "F164",
+    "name": "七宝美髯丹",
+    "category": "补益剂-补阳",
+    "effect": "补益肝肾，乌发壮骨",
+    "indication": "肝肾不足，须发早白",
+    "composition": [
+      {
+        "herb": "何首乌",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "枸杞子",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "积善堂方",
+    "source_url": "https://baike.baidu.com/item/七宝美髯丹"
+  },
+  {
+    "id": "F165",
+    "name": "暖肝煎",
+    "category": "理气剂-行气",
+    "effect": "温补肝肾，行气止痛",
+    "indication": "肝肾不足，寒滞肝脉",
+    "composition": [
+      {
+        "herb": "肉桂",
+        "role": "君",
+        "dosage": "3g"
+      },
+      {
+        "herb": "小茴香",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "景岳全书",
+    "source_url": "https://baike.baidu.com/item/暖肝煎"
+  },
+  {
+    "id": "F166",
+    "name": "苏子降气汤",
+    "category": "理气剂-降气",
+    "effect": "降气平喘，祛痰止咳",
+    "indication": "上实下虚喘咳证",
+    "composition": [
+      {
+        "herb": "紫苏子",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "半夏",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/苏子降气汤"
+  },
+  {
+    "id": "F167",
+    "name": "定喘汤",
+    "category": "理气剂-降气",
+    "effect": "宣肺降气，清热化痰",
+    "indication": "哮喘气急，痰多色黄",
+    "composition": [
+      {
+        "herb": "白果",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "麻黄",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "摄生众妙方",
+    "source_url": "https://baike.baidu.com/item/定喘汤"
+  },
+  {
+    "id": "F168",
+    "name": "黄土汤",
+    "category": "理血剂-止血",
+    "effect": "温阳健脾，养血止血",
+    "indication": "脾阳不足，脾不统血",
+    "composition": [
+      {
+        "herb": "伏龙肝",
+        "role": "君",
+        "dosage": "30g"
+      },
+      {
+        "herb": "白术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/黄土汤"
+  },
+  {
+    "id": "F169",
+    "name": "牵正散",
+    "category": "治风剂-疏散外风",
+    "effect": "祛风化痰止痉",
+    "indication": "中风面瘫，口眼歪斜",
+    "composition": [
+      {
+        "herb": "白附子",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "僵蚕",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "杨氏家藏方",
+    "source_url": "https://baike.baidu.com/item/牵正散"
+  },
+  {
+    "id": "F170",
+    "name": "小活络丹",
+    "category": "治风剂-疏散外风",
+    "effect": "祛风除湿，化痰通络",
+    "indication": "风寒湿痹，肢体筋脉疼痛",
+    "composition": [
+      {
+        "herb": "川乌",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "川乌",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/小活络丹"
+  },
+  {
+    "id": "F171",
+    "name": "藿朴夏苓汤",
+    "category": "祛湿剂-化湿和胃",
+    "effect": "芳香化湿，和中止呕",
+    "indication": "湿温初起，身热倦怠",
+    "composition": [
+      {
+        "herb": "藿香",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医原",
+    "source_url": "https://baike.baidu.com/item/藿朴夏苓汤"
+  },
+  {
+    "id": "F172",
+    "name": "败毒散",
+    "category": "解表剂-扶正解表",
+    "effect": "散寒祛湿，益气解表",
+    "indication": "气虚外感风寒湿",
+    "composition": [
+      {
+        "herb": "羌活",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "独活",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/败毒散"
+  },
+  {
+    "id": "F173",
+    "name": "参苏饮",
+    "category": "解表剂-扶正解表",
+    "effect": "益气解表，理气化痰",
+    "indication": "气虚外感，内有痰饮",
+    "composition": [
+      {
+        "herb": "人参",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "紫苏叶",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/参苏饮"
+  },
+  {
+    "id": "F174",
+    "name": "瓜蒂散",
+    "category": "涌吐剂",
+    "effect": "涌吐痰涎宿食",
+    "indication": "痰涎壅盛，宿食停滞",
+    "composition": [
+      {
+        "herb": "瓜蒂",
+        "role": "君",
+        "dosage": "3g"
+      },
+      {
+        "herb": "赤小豆",
+        "role": "臣",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/瓜蒂散"
+  },
+  {
+    "id": "F175",
+    "name": "真人养脏汤",
+    "category": "固涩剂",
+    "effect": "涩肠固脱，温补脾肾",
+    "indication": "久泻久痢，脾肾虚寒",
+    "composition": [
+      {
+        "herb": "罂粟壳",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "肉豆蔻",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "太平惠民和剂局方",
+    "source_url": "https://baike.baidu.com/item/真人养脏汤"
+  },
+  {
+    "id": "F176",
+    "name": "二妙散",
+    "category": "祛湿剂-清热祛湿",
+    "effect": "清热燥湿",
+    "indication": "湿热下注，筋骨疼痛",
+    "composition": [
+      {
+        "herb": "黄柏",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "苍术",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "丹溪心法",
+    "source_url": "https://baike.baidu.com/item/二妙散"
+  },
+  {
+    "id": "F177",
+    "name": "玉女煎",
+    "category": "清热剂-清脏腑热",
+    "effect": "清胃热，滋肾阴",
+    "indication": "胃热阴虚，牙痛齿松",
+    "composition": [
+      {
+        "herb": "石膏",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "熟地黄",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "景岳全书",
+    "source_url": "https://baike.baidu.com/item/玉女煎"
+  },
+  {
+    "id": "F178",
+    "name": "芍药汤",
+    "category": "清热剂-清脏腑热",
+    "effect": "清热燥湿，调气和血",
+    "indication": "湿热痢疾，腹痛便脓",
+    "composition": [
+      {
+        "herb": "黄芩",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "白芍",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "素问病机气宜保命集",
+    "source_url": "https://baike.baidu.com/item/芍药汤"
+  },
+  {
+    "id": "F179",
+    "name": "当归六黄汤",
+    "category": "清热剂-清虚热",
+    "effect": "滋阴泻火，固表止汗",
+    "indication": "阴虚火旺，盗汗发热",
+    "composition": [
+      {
+        "herb": "当归",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "生地黄",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "兰室秘藏",
+    "source_url": "https://baike.baidu.com/item/当归六黄汤"
+  },
+  {
+    "id": "F180",
+    "name": "麻黄细辛附子汤",
+    "category": "解表剂-扶正解表",
+    "effect": "助阳解表",
+    "indication": "素体阳虚，外感风寒",
+    "composition": [
+      {
+        "herb": "麻黄",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "附子",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "细辛",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/麻黄细辛附子汤"
+  },
+  {
+    "id": "F181",
+    "name": "金锁固精丸",
+    "category": "固涩剂",
+    "effect": "补肾涩精",
+    "indication": "肾虚精关不固，遗精滑泄",
+    "composition": [
+      {
+        "herb": "沙苑子",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "芡实",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医方集解",
+    "source_url": "https://baike.baidu.com/item/金锁固精丸"
+  },
+  {
+    "id": "F182",
+    "name": "旋覆代赭汤",
+    "category": "理气剂-降气",
+    "effect": "降逆化痰，益气和胃",
+    "indication": "胃气虚弱，痰浊内阻",
+    "composition": [
+      {
+        "herb": "旋覆花",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "代赭石",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/旋覆代赭汤"
+  },
+  {
+    "id": "F183",
+    "name": "消风散",
+    "category": "治风剂-疏散外风",
+    "effect": "疏风除湿，清热养血",
+    "indication": "风疹湿疹，皮肤瘙痒",
+    "composition": [
+      {
+        "herb": "荆芥",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "防风",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "外科正宗",
+    "source_url": "https://baike.baidu.com/item/消风散"
+  },
+  {
+    "id": "F184",
+    "name": "葱白七味饮",
+    "category": "解表剂-扶正解表",
+    "effect": "益气解表，养血生津",
+    "indication": "虚人外感风寒",
+    "composition": [
+      {
+        "herb": "葱白",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "葛根",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "外台秘要",
+    "source_url": "https://baike.baidu.com/item/葱白七味饮"
+  },
+  {
+    "id": "F185",
+    "name": "麻黄附子细辛汤",
+    "category": "解表剂-扶正解表",
+    "effect": "助阳解表",
+    "indication": "素体阳虚，外感风寒",
+    "composition": [
+      {
+        "herb": "麻黄",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "附子",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "细辛",
+        "role": "佐",
+        "dosage": "3g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "伤寒论",
+    "source_url": "https://baike.baidu.com/item/麻黄附子细辛汤"
+  },
+  {
+    "id": "F186",
+    "name": "越婢汤",
+    "category": "解表剂-辛凉解表",
+    "effect": "发汗利水",
+    "indication": "风水恶风，一身悉肿",
+    "composition": [
+      {
+        "herb": "麻黄",
+        "role": "君",
+        "dosage": "12g"
+      },
+      {
+        "herb": "石膏",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/越婢汤"
+  },
+  {
+    "id": "F187",
+    "name": "射干麻黄汤",
+    "category": "解表剂-辛温解表",
+    "effect": "散寒宣肺，降逆化痰",
+    "indication": "寒饮郁肺，咳而上气",
+    "composition": [
+      {
+        "herb": "射干",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "麻黄",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/射干麻黄汤"
+  },
+  {
+    "id": "F188",
+    "name": "厚朴麻黄汤",
+    "category": "解表剂-辛温解表",
+    "effect": "散寒宣肺，化饮止咳",
+    "indication": "咳而脉浮，上气",
+    "composition": [
+      {
+        "herb": "厚朴",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "麻黄",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/厚朴麻黄汤"
+  },
+  {
+    "id": "F189",
+    "name": "实脾散",
+    "category": "祛湿剂-温化水湿",
+    "effect": "温阳健脾，行气利水",
+    "indication": "阳虚水肿，身半以下肿甚",
+    "composition": [
+      {
+        "herb": "附子",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "干姜",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "重订严氏济生方",
+    "source_url": "https://baike.baidu.com/item/实脾散"
+  },
+  {
+    "id": "F190",
+    "name": "萆薢分清饮",
+    "category": "祛湿剂-温化水湿",
+    "effect": "温肾利湿，分清化浊",
+    "indication": "下焦虚寒，膏淋白浊",
+    "composition": [
+      {
+        "herb": "萆薢",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "乌药",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "丹溪心法",
+    "source_url": "https://baike.baidu.com/item/萆薢分清饮"
+  },
+  {
+    "id": "F191",
+    "name": "五皮散",
+    "category": "祛湿剂-利水渗湿",
+    "effect": "利水消肿，理气健脾",
+    "indication": "皮水，一身悉肿",
+    "composition": [
+      {
+        "herb": "生姜",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "大腹皮",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "华氏中藏经",
+    "source_url": "https://baike.baidu.com/item/五皮散"
+  },
+  {
+    "id": "F192",
+    "name": "防己黄芪汤",
+    "category": "祛湿剂-祛风胜湿",
+    "effect": "益气祛风，健脾利水",
+    "indication": "风水或风湿，身重脉浮",
+    "composition": [
+      {
+        "herb": "防己",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黄芪",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/防己黄芪汤"
+  },
+  {
+    "id": "F193",
+    "name": "连朴饮",
+    "category": "祛湿剂-清热祛湿",
+    "effect": "清热化湿，理气和中",
+    "indication": "湿热霍乱，上吐下泻",
+    "composition": [
+      {
+        "herb": "黄连",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "厚朴",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "霍乱论",
+    "source_url": "https://baike.baidu.com/item/连朴饮"
+  },
+  {
+    "id": "F194",
+    "name": "当归拈痛汤",
+    "category": "祛湿剂-清热祛湿",
+    "effect": "利湿清热，疏风止痛",
+    "indication": "湿热相搏，外受风邪",
+    "composition": [
+      {
+        "herb": "羌活",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "茵陈",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医学启源",
+    "source_url": "https://baike.baidu.com/item/当归拈痛汤"
+  },
+  {
+    "id": "F195",
+    "name": "完带汤",
+    "category": "固涩剂-固崩止带",
+    "effect": "补脾疏肝，化湿止带",
+    "indication": "脾虚肝郁，湿浊带下",
+    "composition": [
+      {
+        "herb": "白术",
+        "role": "君",
+        "dosage": "18g"
+      },
+      {
+        "herb": "山药",
+        "role": "臣",
+        "dosage": "12g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "傅青主女科",
+    "source_url": "https://baike.baidu.com/item/完带汤"
+  },
+  {
+    "id": "F196",
+    "name": "易黄汤",
+    "category": "固涩剂-固崩止带",
+    "effect": "补肾清热，祛湿止带",
+    "indication": "肾虚湿热带下",
+    "composition": [
+      {
+        "herb": "山药",
+        "role": "君",
+        "dosage": "15g"
+      },
+      {
+        "herb": "芡实",
+        "role": "臣",
+        "dosage": "15g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "傅青主女科",
+    "source_url": "https://baike.baidu.com/item/易黄汤"
+  },
+  {
+    "id": "F197",
+    "name": "缩泉丸",
+    "category": "固涩剂-涩精止遗",
+    "effect": "温肾祛寒，缩尿止遗",
+    "indication": "下元虚冷，小便频数",
+    "composition": [
+      {
+        "herb": "乌药",
+        "role": "君",
+        "dosage": "6g"
+      },
+      {
+        "herb": "益智仁",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "魏氏家藏方",
+    "source_url": "https://baike.baidu.com/item/缩泉丸"
+  },
+  {
+    "id": "F198",
+    "name": "石斛夜光丸",
+    "category": "补益剂-补阴",
+    "effect": "滋阴补肾，清肝明目",
+    "indication": "肝肾不足，目暗不明",
+    "composition": [
+      {
+        "herb": "石斛",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "枸杞子",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "原机启微",
+    "source_url": "https://baike.baidu.com/item/石斛夜光丸"
+  },
+  {
+    "id": "F199",
+    "name": "桑麻丸",
+    "category": "补益剂-补阴",
+    "effect": "滋阴养血，祛风明目",
+    "indication": "肝肾阴虚，眼目昏花",
+    "composition": [
+      {
+        "herb": "桑叶",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "黑芝麻",
+        "role": "臣",
+        "dosage": "9g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "医方集解",
+    "source_url": "https://baike.baidu.com/item/桑麻丸"
+  },
+  {
+    "id": "F200",
+    "name": "柏叶汤",
+    "category": "理血剂-止血",
+    "effect": "温经止血",
+    "indication": "虚寒吐血，面色萎黄",
+    "composition": [
+      {
+        "herb": "侧柏叶",
+        "role": "君",
+        "dosage": "9g"
+      },
+      {
+        "herb": "干姜",
+        "role": "臣",
+        "dosage": "6g"
+      },
+      {
+        "herb": "甘草",
+        "role": "使",
+        "dosage": "3g"
+      }
+    ],
+    "source": "金匮要略",
+    "source_url": "https://baike.baidu.com/item/柏叶汤"
+  }
+]

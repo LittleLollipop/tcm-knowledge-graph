@@ -1,0 +1,8840 @@
+[
+  {
+    "id": "R0001",
+    "source": "H001",
+    "target": "F001",
+    "herb": "麻黄",
+    "formula": "麻黄汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0002",
+    "source": "H002",
+    "target": "F001",
+    "herb": "桂枝",
+    "formula": "麻黄汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0003",
+    "source": "H067",
+    "target": "F001",
+    "herb": "杏仁",
+    "formula": "麻黄汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0004",
+    "source": "H077",
+    "target": "F001",
+    "herb": "甘草",
+    "formula": "麻黄汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0005",
+    "source": "H002",
+    "target": "F002",
+    "herb": "桂枝",
+    "formula": "桂枝汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0006",
+    "source": "H080",
+    "target": "F002",
+    "herb": "白芍",
+    "formula": "桂枝汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0007",
+    "source": "H004",
+    "target": "F002",
+    "herb": "生姜",
+    "formula": "桂枝汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0008",
+    "source": "H077",
+    "target": "F002",
+    "herb": "甘草",
+    "formula": "桂枝汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0009",
+    "source": "H021",
+    "target": "F003",
+    "herb": "金银花",
+    "formula": "银翘散",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0010",
+    "source": "H022",
+    "target": "F003",
+    "herb": "连翘",
+    "formula": "银翘散",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0011",
+    "source": "H008",
+    "target": "F003",
+    "herb": "薄荷",
+    "formula": "银翘散",
+    "role": "臣",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0012",
+    "source": "H009",
+    "target": "F003",
+    "herb": "牛蒡子",
+    "formula": "银翘散",
+    "role": "佐",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0013",
+    "source": "H260",
+    "target": "F003",
+    "herb": "桔梗",
+    "formula": "银翘散",
+    "role": "佐",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0014",
+    "source": "H077",
+    "target": "F003",
+    "herb": "甘草",
+    "formula": "银翘散",
+    "role": "使",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0015",
+    "source": "H010",
+    "target": "F004",
+    "herb": "桑叶",
+    "formula": "桑菊饮",
+    "role": "君",
+    "dosage": "7.5g"
+  },
+  {
+    "id": "R0016",
+    "source": "H011",
+    "target": "F004",
+    "herb": "菊花",
+    "formula": "桑菊饮",
+    "role": "君",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0017",
+    "source": "H067",
+    "target": "F004",
+    "herb": "杏仁",
+    "formula": "桑菊饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0018",
+    "source": "H022",
+    "target": "F004",
+    "herb": "连翘",
+    "formula": "桑菊饮",
+    "role": "佐",
+    "dosage": "5g"
+  },
+  {
+    "id": "R0019",
+    "source": "H008",
+    "target": "F004",
+    "herb": "薄荷",
+    "formula": "桑菊饮",
+    "role": "佐",
+    "dosage": "2.5g"
+  },
+  {
+    "id": "R0020",
+    "source": "H260",
+    "target": "F004",
+    "herb": "桔梗",
+    "formula": "桑菊饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0021",
+    "source": "H077",
+    "target": "F004",
+    "herb": "甘草",
+    "formula": "桑菊饮",
+    "role": "佐使",
+    "dosage": "2.5g"
+  },
+  {
+    "id": "R0022",
+    "source": "H012",
+    "target": "F005",
+    "herb": "柴胡",
+    "formula": "小柴胡汤",
+    "role": "君",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0023",
+    "source": "H018",
+    "target": "F005",
+    "herb": "黄芩",
+    "formula": "小柴胡汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0024",
+    "source": "H074",
+    "target": "F005",
+    "herb": "人参",
+    "formula": "小柴胡汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0025",
+    "source": "H077",
+    "target": "F005",
+    "herb": "甘草",
+    "formula": "小柴胡汤",
+    "role": "佐使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0026",
+    "source": "H004",
+    "target": "F005",
+    "herb": "生姜",
+    "formula": "小柴胡汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0027",
+    "source": "H064",
+    "target": "F005",
+    "herb": "半夏",
+    "formula": "小柴胡汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0028",
+    "source": "H014",
+    "target": "F006",
+    "herb": "石膏",
+    "formula": "白虎汤",
+    "role": "君",
+    "dosage": "50g"
+  },
+  {
+    "id": "R0029",
+    "source": "H015",
+    "target": "F006",
+    "herb": "知母",
+    "formula": "白虎汤",
+    "role": "臣",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0030",
+    "source": "H077",
+    "target": "F006",
+    "herb": "甘草",
+    "formula": "白虎汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0031",
+    "source": "H019",
+    "target": "F007",
+    "herb": "黄连",
+    "formula": "黄连解毒汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0032",
+    "source": "H018",
+    "target": "F007",
+    "herb": "黄芩",
+    "formula": "黄连解毒汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0033",
+    "source": "H020",
+    "target": "F007",
+    "herb": "黄柏",
+    "formula": "黄连解毒汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0034",
+    "source": "H016",
+    "target": "F007",
+    "herb": "栀子",
+    "formula": "黄连解毒汤",
+    "role": "佐使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0035",
+    "source": "H018",
+    "target": "F008",
+    "herb": "黄芩",
+    "formula": "龙胆泻肝汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0036",
+    "source": "H016",
+    "target": "F008",
+    "herb": "栀子",
+    "formula": "龙胆泻肝汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0037",
+    "source": "H040",
+    "target": "F008",
+    "herb": "泽泻",
+    "formula": "龙胆泻肝汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0038",
+    "source": "H041",
+    "target": "F008",
+    "herb": "车前子",
+    "formula": "龙胆泻肝汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0039",
+    "source": "H078",
+    "target": "F008",
+    "herb": "当归",
+    "formula": "龙胆泻肝汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0040",
+    "source": "H025",
+    "target": "F008",
+    "herb": "生地黄",
+    "formula": "龙胆泻肝汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0041",
+    "source": "H012",
+    "target": "F008",
+    "herb": "柴胡",
+    "formula": "龙胆泻肝汤",
+    "role": "佐使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0042",
+    "source": "H077",
+    "target": "F008",
+    "herb": "甘草",
+    "formula": "龙胆泻肝汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0043",
+    "source": "H030",
+    "target": "F009",
+    "herb": "大黄",
+    "formula": "大承气汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0044",
+    "source": "H037",
+    "target": "F009",
+    "herb": "厚朴",
+    "formula": "大承气汤",
+    "role": "臣",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0045",
+    "source": "H048",
+    "target": "F009",
+    "herb": "枳实",
+    "formula": "大承气汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0046",
+    "source": "H031",
+    "target": "F009",
+    "herb": "芒硝",
+    "formula": "大承气汤",
+    "role": "使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0047",
+    "source": "H012",
+    "target": "F010",
+    "herb": "柴胡",
+    "formula": "逍遥散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0048",
+    "source": "H078",
+    "target": "F010",
+    "herb": "当归",
+    "formula": "逍遥散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0049",
+    "source": "H080",
+    "target": "F010",
+    "herb": "白芍",
+    "formula": "逍遥散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0050",
+    "source": "H076",
+    "target": "F010",
+    "herb": "白术",
+    "formula": "逍遥散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0051",
+    "source": "H038",
+    "target": "F010",
+    "herb": "茯苓",
+    "formula": "逍遥散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0052",
+    "source": "H077",
+    "target": "F010",
+    "herb": "甘草",
+    "formula": "逍遥散",
+    "role": "使",
+    "dosage": "4.5g"
+  },
+  {
+    "id": "R0053",
+    "source": "H004",
+    "target": "F010",
+    "herb": "生姜",
+    "formula": "逍遥散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0054",
+    "source": "H008",
+    "target": "F010",
+    "herb": "薄荷",
+    "formula": "逍遥散",
+    "role": "佐使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0055",
+    "source": "H035",
+    "target": "F011",
+    "herb": "藿香",
+    "formula": "藿香正气散",
+    "role": "君",
+    "dosage": "90g"
+  },
+  {
+    "id": "R0056",
+    "source": "H003",
+    "target": "F011",
+    "herb": "紫苏叶",
+    "formula": "藿香正气散",
+    "role": "臣",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0057",
+    "source": "H006",
+    "target": "F011",
+    "herb": "白芷",
+    "formula": "藿香正气散",
+    "role": "臣",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0058",
+    "source": "H076",
+    "target": "F011",
+    "herb": "白术",
+    "formula": "藿香正气散",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0059",
+    "source": "H047",
+    "target": "F011",
+    "herb": "陈皮",
+    "formula": "藿香正气散",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0060",
+    "source": "H037",
+    "target": "F011",
+    "herb": "厚朴",
+    "formula": "藿香正气散",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0061",
+    "source": "H064",
+    "target": "F011",
+    "herb": "半夏",
+    "formula": "藿香正气散",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0062",
+    "source": "H038",
+    "target": "F011",
+    "herb": "茯苓",
+    "formula": "藿香正气散",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0063",
+    "source": "H260",
+    "target": "F011",
+    "herb": "桔梗",
+    "formula": "藿香正气散",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0064",
+    "source": "H077",
+    "target": "F011",
+    "herb": "甘草",
+    "formula": "藿香正气散",
+    "role": "使",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0065",
+    "source": "H040",
+    "target": "F012",
+    "herb": "泽泻",
+    "formula": "五苓散",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0066",
+    "source": "H076",
+    "target": "F012",
+    "herb": "白术",
+    "formula": "五苓散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0067",
+    "source": "H038",
+    "target": "F012",
+    "herb": "茯苓",
+    "formula": "五苓散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0068",
+    "source": "H002",
+    "target": "F012",
+    "herb": "桂枝",
+    "formula": "五苓散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0069",
+    "source": "H042",
+    "target": "F013",
+    "herb": "茵陈",
+    "formula": "茵陈蒿汤",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0070",
+    "source": "H016",
+    "target": "F013",
+    "herb": "栀子",
+    "formula": "茵陈蒿汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0071",
+    "source": "H030",
+    "target": "F013",
+    "herb": "大黄",
+    "formula": "茵陈蒿汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0072",
+    "source": "H074",
+    "target": "F014",
+    "herb": "人参",
+    "formula": "理中丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0073",
+    "source": "H044",
+    "target": "F014",
+    "herb": "干姜",
+    "formula": "理中丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0074",
+    "source": "H076",
+    "target": "F014",
+    "herb": "白术",
+    "formula": "理中丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0075",
+    "source": "H077",
+    "target": "F014",
+    "herb": "甘草",
+    "formula": "理中丸",
+    "role": "使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0076",
+    "source": "H043",
+    "target": "F015",
+    "herb": "附子",
+    "formula": "四逆汤",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0077",
+    "source": "H044",
+    "target": "F015",
+    "herb": "干姜",
+    "formula": "四逆汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0078",
+    "source": "H077",
+    "target": "F015",
+    "herb": "甘草",
+    "formula": "四逆汤",
+    "role": "佐使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0079",
+    "source": "H046",
+    "target": "F016",
+    "herb": "吴茱萸",
+    "formula": "吴茱萸汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0080",
+    "source": "H074",
+    "target": "F016",
+    "herb": "人参",
+    "formula": "吴茱萸汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0081",
+    "source": "H004",
+    "target": "F016",
+    "herb": "生姜",
+    "formula": "吴茱萸汤",
+    "role": "佐",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0082",
+    "source": "H012",
+    "target": "F017",
+    "herb": "柴胡",
+    "formula": "柴胡疏肝散",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0083",
+    "source": "H047",
+    "target": "F017",
+    "herb": "陈皮",
+    "formula": "柴胡疏肝散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0084",
+    "source": "H057",
+    "target": "F017",
+    "herb": "川芎",
+    "formula": "柴胡疏肝散",
+    "role": "佐",
+    "dosage": "4.5g"
+  },
+  {
+    "id": "R0085",
+    "source": "H050",
+    "target": "F017",
+    "herb": "香附",
+    "formula": "柴胡疏肝散",
+    "role": "佐",
+    "dosage": "4.5g"
+  },
+  {
+    "id": "R0086",
+    "source": "H048",
+    "target": "F017",
+    "herb": "枳实",
+    "formula": "柴胡疏肝散",
+    "role": "佐",
+    "dosage": "4.5g"
+  },
+  {
+    "id": "R0087",
+    "source": "H080",
+    "target": "F017",
+    "herb": "白芍",
+    "formula": "柴胡疏肝散",
+    "role": "佐",
+    "dosage": "4.5g"
+  },
+  {
+    "id": "R0088",
+    "source": "H077",
+    "target": "F017",
+    "herb": "甘草",
+    "formula": "柴胡疏肝散",
+    "role": "使",
+    "dosage": "1.5g"
+  },
+  {
+    "id": "R0089",
+    "source": "H064",
+    "target": "F018",
+    "herb": "半夏",
+    "formula": "半夏厚朴汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0090",
+    "source": "H037",
+    "target": "F018",
+    "herb": "厚朴",
+    "formula": "半夏厚朴汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0091",
+    "source": "H038",
+    "target": "F018",
+    "herb": "茯苓",
+    "formula": "半夏厚朴汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0092",
+    "source": "H004",
+    "target": "F018",
+    "herb": "生姜",
+    "formula": "半夏厚朴汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0093",
+    "source": "H003",
+    "target": "F018",
+    "herb": "紫苏叶",
+    "formula": "半夏厚朴汤",
+    "role": "佐使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0094",
+    "source": "H051",
+    "target": "F019",
+    "herb": "山楂",
+    "formula": "保和丸",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0095",
+    "source": "H052",
+    "target": "F019",
+    "herb": "神曲",
+    "formula": "保和丸",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0096",
+    "source": "H064",
+    "target": "F019",
+    "herb": "半夏",
+    "formula": "保和丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0097",
+    "source": "H038",
+    "target": "F019",
+    "herb": "茯苓",
+    "formula": "保和丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0098",
+    "source": "H047",
+    "target": "F019",
+    "herb": "陈皮",
+    "formula": "保和丸",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0099",
+    "source": "H022",
+    "target": "F019",
+    "herb": "连翘",
+    "formula": "保和丸",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0100",
+    "source": "H202",
+    "target": "F019",
+    "herb": "莱菔子",
+    "formula": "保和丸",
+    "role": "佐使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0101",
+    "source": "H062",
+    "target": "F020",
+    "herb": "桃仁",
+    "formula": "血府逐瘀汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0102",
+    "source": "H061",
+    "target": "F020",
+    "herb": "红花",
+    "formula": "血府逐瘀汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0103",
+    "source": "H078",
+    "target": "F020",
+    "herb": "当归",
+    "formula": "血府逐瘀汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0104",
+    "source": "H025",
+    "target": "F020",
+    "herb": "生地黄",
+    "formula": "血府逐瘀汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0105",
+    "source": "H057",
+    "target": "F020",
+    "herb": "川芎",
+    "formula": "血府逐瘀汤",
+    "role": "佐",
+    "dosage": "4.5g"
+  },
+  {
+    "id": "R0106",
+    "source": "H127",
+    "target": "F020",
+    "herb": "赤芍",
+    "formula": "血府逐瘀汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0107",
+    "source": "H227",
+    "target": "F020",
+    "herb": "牛膝",
+    "formula": "血府逐瘀汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0108",
+    "source": "H260",
+    "target": "F020",
+    "herb": "桔梗",
+    "formula": "血府逐瘀汤",
+    "role": "佐",
+    "dosage": "4.5g"
+  },
+  {
+    "id": "R0109",
+    "source": "H012",
+    "target": "F020",
+    "herb": "柴胡",
+    "formula": "血府逐瘀汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0110",
+    "source": "H048",
+    "target": "F020",
+    "herb": "枳实",
+    "formula": "血府逐瘀汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0111",
+    "source": "H077",
+    "target": "F020",
+    "herb": "甘草",
+    "formula": "血府逐瘀汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0112",
+    "source": "H064",
+    "target": "F021",
+    "herb": "半夏",
+    "formula": "二陈汤",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0113",
+    "source": "H047",
+    "target": "F021",
+    "herb": "陈皮",
+    "formula": "二陈汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0114",
+    "source": "H038",
+    "target": "F021",
+    "herb": "茯苓",
+    "formula": "二陈汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0115",
+    "source": "H077",
+    "target": "F021",
+    "herb": "甘草",
+    "formula": "二陈汤",
+    "role": "使",
+    "dosage": "4.5g"
+  },
+  {
+    "id": "R0116",
+    "source": "H004",
+    "target": "F021",
+    "herb": "生姜",
+    "formula": "二陈汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0117",
+    "source": "H018",
+    "target": "F022",
+    "herb": "黄芩",
+    "formula": "清气化痰丸",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0118",
+    "source": "H066",
+    "target": "F022",
+    "herb": "瓜蒌",
+    "formula": "清气化痰丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0119",
+    "source": "H047",
+    "target": "F022",
+    "herb": "陈皮",
+    "formula": "清气化痰丸",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0120",
+    "source": "H048",
+    "target": "F022",
+    "herb": "枳实",
+    "formula": "清气化痰丸",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0121",
+    "source": "H038",
+    "target": "F022",
+    "herb": "茯苓",
+    "formula": "清气化痰丸",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0122",
+    "source": "H067",
+    "target": "F022",
+    "herb": "杏仁",
+    "formula": "清气化痰丸",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0123",
+    "source": "H064",
+    "target": "F022",
+    "herb": "半夏",
+    "formula": "清气化痰丸",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0124",
+    "source": "H001",
+    "target": "F023",
+    "herb": "麻黄",
+    "formula": "小青龙汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0125",
+    "source": "H002",
+    "target": "F023",
+    "herb": "桂枝",
+    "formula": "小青龙汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0126",
+    "source": "H044",
+    "target": "F023",
+    "herb": "干姜",
+    "formula": "小青龙汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0127",
+    "source": "H007",
+    "target": "F023",
+    "herb": "细辛",
+    "formula": "小青龙汤",
+    "role": "臣",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0128",
+    "source": "H342",
+    "target": "F023",
+    "herb": "五味子",
+    "formula": "小青龙汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0129",
+    "source": "H080",
+    "target": "F023",
+    "herb": "白芍",
+    "formula": "小青龙汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0130",
+    "source": "H064",
+    "target": "F023",
+    "herb": "半夏",
+    "formula": "小青龙汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0131",
+    "source": "H077",
+    "target": "F023",
+    "herb": "甘草",
+    "formula": "小青龙汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0132",
+    "source": "H069",
+    "target": "F024",
+    "herb": "酸枣仁",
+    "formula": "酸枣仁汤",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0133",
+    "source": "H038",
+    "target": "F024",
+    "herb": "茯苓",
+    "formula": "酸枣仁汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0134",
+    "source": "H015",
+    "target": "F024",
+    "herb": "知母",
+    "formula": "酸枣仁汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0135",
+    "source": "H057",
+    "target": "F024",
+    "herb": "川芎",
+    "formula": "酸枣仁汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0136",
+    "source": "H077",
+    "target": "F024",
+    "herb": "甘草",
+    "formula": "酸枣仁汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0137",
+    "source": "H072",
+    "target": "F025",
+    "herb": "天麻",
+    "formula": "天麻钩藤饮",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0138",
+    "source": "H073",
+    "target": "F025",
+    "herb": "钩藤",
+    "formula": "天麻钩藤饮",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0139",
+    "source": "H071",
+    "target": "F025",
+    "herb": "石决明",
+    "formula": "天麻钩藤饮",
+    "role": "臣",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0140",
+    "source": "H016",
+    "target": "F025",
+    "herb": "栀子",
+    "formula": "天麻钩藤饮",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0141",
+    "source": "H018",
+    "target": "F025",
+    "herb": "黄芩",
+    "formula": "天麻钩藤饮",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0142",
+    "source": "H063",
+    "target": "F025",
+    "herb": "益母草",
+    "formula": "天麻钩藤饮",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0143",
+    "source": "H034",
+    "target": "F025",
+    "herb": "桑寄生",
+    "formula": "天麻钩藤饮",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0144",
+    "source": "H038",
+    "target": "F025",
+    "herb": "茯苓",
+    "formula": "天麻钩藤饮",
+    "role": "佐使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0145",
+    "source": "H074",
+    "target": "F026",
+    "herb": "人参",
+    "formula": "四君子汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0146",
+    "source": "H076",
+    "target": "F026",
+    "herb": "白术",
+    "formula": "四君子汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0147",
+    "source": "H038",
+    "target": "F026",
+    "herb": "茯苓",
+    "formula": "四君子汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0148",
+    "source": "H077",
+    "target": "F026",
+    "herb": "甘草",
+    "formula": "四君子汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0149",
+    "source": "H075",
+    "target": "F027",
+    "herb": "黄芪",
+    "formula": "补中益气汤",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0150",
+    "source": "H074",
+    "target": "F027",
+    "herb": "人参",
+    "formula": "补中益气汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0151",
+    "source": "H076",
+    "target": "F027",
+    "herb": "白术",
+    "formula": "补中益气汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0152",
+    "source": "H078",
+    "target": "F027",
+    "herb": "当归",
+    "formula": "补中益气汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0153",
+    "source": "H047",
+    "target": "F027",
+    "herb": "陈皮",
+    "formula": "补中益气汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0154",
+    "source": "H089",
+    "target": "F027",
+    "herb": "升麻",
+    "formula": "补中益气汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0155",
+    "source": "H012",
+    "target": "F027",
+    "herb": "柴胡",
+    "formula": "补中益气汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0156",
+    "source": "H077",
+    "target": "F027",
+    "herb": "甘草",
+    "formula": "补中益气汤",
+    "role": "使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0157",
+    "source": "H074",
+    "target": "F028",
+    "herb": "人参",
+    "formula": "生脉散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0158",
+    "source": "H327",
+    "target": "F028",
+    "herb": "麦冬",
+    "formula": "生脉散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0159",
+    "source": "H342",
+    "target": "F028",
+    "herb": "五味子",
+    "formula": "生脉散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0160",
+    "source": "H078",
+    "target": "F029",
+    "herb": "当归",
+    "formula": "四物汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0161",
+    "source": "H057",
+    "target": "F029",
+    "herb": "川芎",
+    "formula": "四物汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0162",
+    "source": "H080",
+    "target": "F029",
+    "herb": "白芍",
+    "formula": "四物汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0163",
+    "source": "H079",
+    "target": "F029",
+    "herb": "熟地黄",
+    "formula": "四物汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0164",
+    "source": "H075",
+    "target": "F030",
+    "herb": "黄芪",
+    "formula": "当归补血汤",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0165",
+    "source": "H078",
+    "target": "F030",
+    "herb": "当归",
+    "formula": "当归补血汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0166",
+    "source": "H079",
+    "target": "F031",
+    "herb": "熟地黄",
+    "formula": "六味地黄丸",
+    "role": "君",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0167",
+    "source": "H350",
+    "target": "F031",
+    "herb": "山茱萸",
+    "formula": "六味地黄丸",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0168",
+    "source": "H299",
+    "target": "F031",
+    "herb": "山药",
+    "formula": "六味地黄丸",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0169",
+    "source": "H040",
+    "target": "F031",
+    "herb": "泽泻",
+    "formula": "六味地黄丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0170",
+    "source": "H038",
+    "target": "F031",
+    "herb": "茯苓",
+    "formula": "六味地黄丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0171",
+    "source": "H027",
+    "target": "F031",
+    "herb": "牡丹皮",
+    "formula": "六味地黄丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0172",
+    "source": "H079",
+    "target": "F032",
+    "herb": "熟地黄",
+    "formula": "大补阴丸",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0173",
+    "source": "H020",
+    "target": "F032",
+    "herb": "黄柏",
+    "formula": "大补阴丸",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0174",
+    "source": "H015",
+    "target": "F032",
+    "herb": "知母",
+    "formula": "大补阴丸",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0175",
+    "source": "H025",
+    "target": "F033",
+    "herb": "生地黄",
+    "formula": "肾气丸",
+    "role": "君",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0176",
+    "source": "H299",
+    "target": "F033",
+    "herb": "山药",
+    "formula": "肾气丸",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0177",
+    "source": "H350",
+    "target": "F033",
+    "herb": "山茱萸",
+    "formula": "肾气丸",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0178",
+    "source": "H040",
+    "target": "F033",
+    "herb": "泽泻",
+    "formula": "肾气丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0179",
+    "source": "H038",
+    "target": "F033",
+    "herb": "茯苓",
+    "formula": "肾气丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0180",
+    "source": "H027",
+    "target": "F033",
+    "herb": "牡丹皮",
+    "formula": "肾气丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0181",
+    "source": "H002",
+    "target": "F033",
+    "herb": "桂枝",
+    "formula": "肾气丸",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0182",
+    "source": "H043",
+    "target": "F033",
+    "herb": "附子",
+    "formula": "肾气丸",
+    "role": "佐使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0183",
+    "source": "H075",
+    "target": "F034",
+    "herb": "黄芪",
+    "formula": "牡蛎散",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0184",
+    "source": "H340",
+    "target": "F034",
+    "herb": "麻黄根",
+    "formula": "牡蛎散",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0185",
+    "source": "H280",
+    "target": "F034",
+    "herb": "牡蛎",
+    "formula": "牡蛎散",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0186",
+    "source": "H285",
+    "target": "F035",
+    "herb": "牛黄",
+    "formula": "安宫牛黄丸",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0187",
+    "source": "H019",
+    "target": "F035",
+    "herb": "黄连",
+    "formula": "安宫牛黄丸",
+    "role": "臣",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0188",
+    "source": "H018",
+    "target": "F035",
+    "herb": "黄芩",
+    "formula": "安宫牛黄丸",
+    "role": "臣",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0189",
+    "source": "H016",
+    "target": "F035",
+    "herb": "栀子",
+    "formula": "安宫牛黄丸",
+    "role": "臣",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0190",
+    "source": "H059",
+    "target": "F035",
+    "herb": "郁金",
+    "formula": "安宫牛黄丸",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0191",
+    "source": "H271",
+    "target": "F035",
+    "herb": "朱砂",
+    "formula": "安宫牛黄丸",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0192",
+    "source": "H057",
+    "target": "F036",
+    "herb": "川芎",
+    "formula": "川芎茶调散",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0193",
+    "source": "H005",
+    "target": "F036",
+    "herb": "防风",
+    "formula": "川芎茶调散",
+    "role": "臣",
+    "dosage": "4.5g"
+  },
+  {
+    "id": "R0194",
+    "source": "H006",
+    "target": "F036",
+    "herb": "白芷",
+    "formula": "川芎茶调散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0195",
+    "source": "H007",
+    "target": "F036",
+    "herb": "细辛",
+    "formula": "川芎茶调散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0196",
+    "source": "H077",
+    "target": "F036",
+    "herb": "甘草",
+    "formula": "川芎茶调散",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0197",
+    "source": "H008",
+    "target": "F036",
+    "herb": "薄荷",
+    "formula": "川芎茶调散",
+    "role": "佐使",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0198",
+    "source": "H003",
+    "target": "F037",
+    "herb": "紫苏叶",
+    "formula": "杏苏散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0199",
+    "source": "H067",
+    "target": "F037",
+    "herb": "杏仁",
+    "formula": "杏苏散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0200",
+    "source": "H064",
+    "target": "F037",
+    "herb": "半夏",
+    "formula": "杏苏散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0201",
+    "source": "H047",
+    "target": "F037",
+    "herb": "陈皮",
+    "formula": "杏苏散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0202",
+    "source": "H038",
+    "target": "F037",
+    "herb": "茯苓",
+    "formula": "杏苏散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0203",
+    "source": "H374",
+    "target": "F037",
+    "herb": "前胡",
+    "formula": "杏苏散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0204",
+    "source": "H260",
+    "target": "F037",
+    "herb": "桔梗",
+    "formula": "杏苏散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0205",
+    "source": "H048",
+    "target": "F037",
+    "herb": "枳实",
+    "formula": "杏苏散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0206",
+    "source": "H077",
+    "target": "F037",
+    "herb": "甘草",
+    "formula": "杏苏散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0207",
+    "source": "H025",
+    "target": "F038",
+    "herb": "生地黄",
+    "formula": "天王补心丹",
+    "role": "君",
+    "dosage": "120g"
+  },
+  {
+    "id": "R0208",
+    "source": "H074",
+    "target": "F038",
+    "herb": "人参",
+    "formula": "天王补心丹",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0209",
+    "source": "H060",
+    "target": "F038",
+    "herb": "丹参",
+    "formula": "天王补心丹",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0210",
+    "source": "H026",
+    "target": "F038",
+    "herb": "玄参",
+    "formula": "天王补心丹",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0211",
+    "source": "H038",
+    "target": "F038",
+    "herb": "茯苓",
+    "formula": "天王补心丹",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0212",
+    "source": "H070",
+    "target": "F038",
+    "herb": "远志",
+    "formula": "天王补心丹",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0213",
+    "source": "H078",
+    "target": "F038",
+    "herb": "当归",
+    "formula": "天王补心丹",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0214",
+    "source": "H069",
+    "target": "F038",
+    "herb": "酸枣仁",
+    "formula": "天王补心丹",
+    "role": "佐",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0215",
+    "source": "H075",
+    "target": "F039",
+    "herb": "黄芪",
+    "formula": "补阳还五汤",
+    "role": "君",
+    "dosage": "120g"
+  },
+  {
+    "id": "R0216",
+    "source": "H078",
+    "target": "F039",
+    "herb": "当归",
+    "formula": "补阳还五汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0217",
+    "source": "H057",
+    "target": "F039",
+    "herb": "川芎",
+    "formula": "补阳还五汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0218",
+    "source": "H062",
+    "target": "F039",
+    "herb": "桃仁",
+    "formula": "补阳还五汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0219",
+    "source": "H061",
+    "target": "F039",
+    "herb": "红花",
+    "formula": "补阳还五汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0220",
+    "source": "H079",
+    "target": "F040",
+    "herb": "熟地黄",
+    "formula": "阳和汤",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0221",
+    "source": "H045",
+    "target": "F040",
+    "herb": "肉桂",
+    "formula": "阳和汤",
+    "role": "臣",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0222",
+    "source": "H001",
+    "target": "F040",
+    "herb": "麻黄",
+    "formula": "阳和汤",
+    "role": "佐",
+    "dosage": "2g"
+  },
+  {
+    "id": "R0223",
+    "source": "H378",
+    "target": "F040",
+    "herb": "鹿角",
+    "formula": "阳和汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0224",
+    "source": "H248",
+    "target": "F040",
+    "herb": "白芥子",
+    "formula": "阳和汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0225",
+    "source": "H044",
+    "target": "F040",
+    "herb": "干姜",
+    "formula": "阳和汤",
+    "role": "佐",
+    "dosage": "2g"
+  },
+  {
+    "id": "R0226",
+    "source": "H077",
+    "target": "F040",
+    "herb": "甘草",
+    "formula": "阳和汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0227",
+    "source": "H083",
+    "target": "F041",
+    "herb": "羌活",
+    "formula": "九味羌活汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0228",
+    "source": "H005",
+    "target": "F041",
+    "herb": "防风",
+    "formula": "九味羌活汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0229",
+    "source": "H036",
+    "target": "F041",
+    "herb": "苍术",
+    "formula": "九味羌活汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0230",
+    "source": "H007",
+    "target": "F041",
+    "herb": "细辛",
+    "formula": "九味羌活汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0231",
+    "source": "H057",
+    "target": "F041",
+    "herb": "川芎",
+    "formula": "九味羌活汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0232",
+    "source": "H006",
+    "target": "F041",
+    "herb": "白芷",
+    "formula": "九味羌活汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0233",
+    "source": "H025",
+    "target": "F041",
+    "herb": "生地黄",
+    "formula": "九味羌活汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0234",
+    "source": "H018",
+    "target": "F041",
+    "herb": "黄芩",
+    "formula": "九味羌活汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0235",
+    "source": "H077",
+    "target": "F041",
+    "herb": "甘草",
+    "formula": "九味羌活汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0236",
+    "source": "H081",
+    "target": "F042",
+    "herb": "香薷",
+    "formula": "香苏散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0237",
+    "source": "H003",
+    "target": "F042",
+    "herb": "紫苏叶",
+    "formula": "香苏散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0238",
+    "source": "H047",
+    "target": "F042",
+    "herb": "陈皮",
+    "formula": "香苏散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0239",
+    "source": "H077",
+    "target": "F042",
+    "herb": "甘草",
+    "formula": "香苏散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0240",
+    "source": "H263",
+    "target": "F043",
+    "herb": "紫菀",
+    "formula": "止嗽散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0241",
+    "source": "H262",
+    "target": "F043",
+    "herb": "百部",
+    "formula": "止嗽散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0242",
+    "source": "H251",
+    "target": "F043",
+    "herb": "白前",
+    "formula": "止嗽散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0243",
+    "source": "H260",
+    "target": "F043",
+    "herb": "桔梗",
+    "formula": "止嗽散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0244",
+    "source": "H047",
+    "target": "F043",
+    "herb": "陈皮",
+    "formula": "止嗽散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0245",
+    "source": "H082",
+    "target": "F043",
+    "herb": "荆芥",
+    "formula": "止嗽散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0246",
+    "source": "H077",
+    "target": "F043",
+    "herb": "甘草",
+    "formula": "止嗽散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0247",
+    "source": "H082",
+    "target": "F044",
+    "herb": "荆芥",
+    "formula": "荆防败毒散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0248",
+    "source": "H005",
+    "target": "F044",
+    "herb": "防风",
+    "formula": "荆防败毒散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0249",
+    "source": "H083",
+    "target": "F044",
+    "herb": "羌活",
+    "formula": "荆防败毒散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0250",
+    "source": "H032",
+    "target": "F044",
+    "herb": "独活",
+    "formula": "荆防败毒散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0251",
+    "source": "H012",
+    "target": "F044",
+    "herb": "柴胡",
+    "formula": "荆防败毒散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0252",
+    "source": "H374",
+    "target": "F044",
+    "herb": "前胡",
+    "formula": "荆防败毒散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0253",
+    "source": "H057",
+    "target": "F044",
+    "herb": "川芎",
+    "formula": "荆防败毒散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0254",
+    "source": "H048",
+    "target": "F044",
+    "herb": "枳实",
+    "formula": "荆防败毒散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0255",
+    "source": "H038",
+    "target": "F044",
+    "herb": "茯苓",
+    "formula": "荆防败毒散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0256",
+    "source": "H077",
+    "target": "F044",
+    "herb": "甘草",
+    "formula": "荆防败毒散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0257",
+    "source": "H001",
+    "target": "F045",
+    "herb": "麻黄",
+    "formula": "麻黄杏仁甘草石膏汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0258",
+    "source": "H067",
+    "target": "F045",
+    "herb": "杏仁",
+    "formula": "麻黄杏仁甘草石膏汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0259",
+    "source": "H077",
+    "target": "F045",
+    "herb": "甘草",
+    "formula": "麻黄杏仁甘草石膏汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0260",
+    "source": "H014",
+    "target": "F045",
+    "herb": "石膏",
+    "formula": "麻黄杏仁甘草石膏汤",
+    "role": "使",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0261",
+    "source": "H012",
+    "target": "F046",
+    "herb": "柴胡",
+    "formula": "柴葛解肌汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0262",
+    "source": "H013",
+    "target": "F046",
+    "herb": "葛根",
+    "formula": "柴葛解肌汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0263",
+    "source": "H018",
+    "target": "F046",
+    "herb": "黄芩",
+    "formula": "柴葛解肌汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0264",
+    "source": "H014",
+    "target": "F046",
+    "herb": "石膏",
+    "formula": "柴葛解肌汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0265",
+    "source": "H080",
+    "target": "F046",
+    "herb": "白芍",
+    "formula": "柴葛解肌汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0266",
+    "source": "H077",
+    "target": "F046",
+    "herb": "甘草",
+    "formula": "柴葛解肌汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0267",
+    "source": "H089",
+    "target": "F047",
+    "herb": "升麻",
+    "formula": "升麻葛根汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0268",
+    "source": "H013",
+    "target": "F047",
+    "herb": "葛根",
+    "formula": "升麻葛根汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0269",
+    "source": "H080",
+    "target": "F047",
+    "herb": "白芍",
+    "formula": "升麻葛根汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0270",
+    "source": "H077",
+    "target": "F047",
+    "herb": "甘草",
+    "formula": "升麻葛根汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0271",
+    "source": "H087",
+    "target": "F048",
+    "herb": "葱白",
+    "formula": "葱豉汤",
+    "role": "君",
+    "dosage": "10枚"
+  },
+  {
+    "id": "R0272",
+    "source": "H090",
+    "target": "F048",
+    "herb": "淡豆豉",
+    "formula": "葱豉汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0273",
+    "source": "H097",
+    "target": "F049",
+    "herb": "淡竹叶",
+    "formula": "竹叶石膏汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0274",
+    "source": "H014",
+    "target": "F049",
+    "herb": "石膏",
+    "formula": "竹叶石膏汤",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0275",
+    "source": "H064",
+    "target": "F049",
+    "herb": "半夏",
+    "formula": "竹叶石膏汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0276",
+    "source": "H327",
+    "target": "F049",
+    "herb": "麦冬",
+    "formula": "竹叶石膏汤",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0277",
+    "source": "H074",
+    "target": "F049",
+    "herb": "人参",
+    "formula": "竹叶石膏汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0278",
+    "source": "H077",
+    "target": "F049",
+    "herb": "甘草",
+    "formula": "竹叶石膏汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0279",
+    "source": "H077",
+    "target": "F049",
+    "herb": "甘草",
+    "formula": "竹叶石膏汤",
+    "role": "使",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0280",
+    "source": "H129",
+    "target": "F050",
+    "herb": "水牛角",
+    "formula": "清营汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0281",
+    "source": "H025",
+    "target": "F050",
+    "herb": "生地黄",
+    "formula": "清营汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0282",
+    "source": "H026",
+    "target": "F050",
+    "herb": "玄参",
+    "formula": "清营汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0283",
+    "source": "H097",
+    "target": "F050",
+    "herb": "淡竹叶",
+    "formula": "清营汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0284",
+    "source": "H327",
+    "target": "F050",
+    "herb": "麦冬",
+    "formula": "清营汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0285",
+    "source": "H060",
+    "target": "F050",
+    "herb": "丹参",
+    "formula": "清营汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0286",
+    "source": "H019",
+    "target": "F050",
+    "herb": "黄连",
+    "formula": "清营汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0287",
+    "source": "H021",
+    "target": "F050",
+    "herb": "金银花",
+    "formula": "清营汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0288",
+    "source": "H022",
+    "target": "F050",
+    "herb": "连翘",
+    "formula": "清营汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0289",
+    "source": "H129",
+    "target": "F051",
+    "herb": "水牛角",
+    "formula": "犀角地黄汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0290",
+    "source": "H025",
+    "target": "F051",
+    "herb": "生地黄",
+    "formula": "犀角地黄汤",
+    "role": "臣",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0291",
+    "source": "H080",
+    "target": "F051",
+    "herb": "白芍",
+    "formula": "犀角地黄汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0292",
+    "source": "H027",
+    "target": "F051",
+    "herb": "牡丹皮",
+    "formula": "犀角地黄汤",
+    "role": "使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0293",
+    "source": "H018",
+    "target": "F052",
+    "herb": "黄芩",
+    "formula": "普济消毒饮",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0294",
+    "source": "H019",
+    "target": "F052",
+    "herb": "黄连",
+    "formula": "普济消毒饮",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0295",
+    "source": "H047",
+    "target": "F052",
+    "herb": "陈皮",
+    "formula": "普济消毒饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0296",
+    "source": "H077",
+    "target": "F052",
+    "herb": "甘草",
+    "formula": "普济消毒饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0297",
+    "source": "H026",
+    "target": "F052",
+    "herb": "玄参",
+    "formula": "普济消毒饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0298",
+    "source": "H022",
+    "target": "F052",
+    "herb": "连翘",
+    "formula": "普济消毒饮",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0299",
+    "source": "H023",
+    "target": "F052",
+    "herb": "板蓝根",
+    "formula": "普济消毒饮",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0300",
+    "source": "H119",
+    "target": "F052",
+    "herb": "马勃",
+    "formula": "普济消毒饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0301",
+    "source": "H009",
+    "target": "F052",
+    "herb": "牛蒡子",
+    "formula": "普济消毒饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0302",
+    "source": "H008",
+    "target": "F052",
+    "herb": "薄荷",
+    "formula": "普济消毒饮",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0303",
+    "source": "H290",
+    "target": "F052",
+    "herb": "僵蚕",
+    "formula": "普济消毒饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0304",
+    "source": "H089",
+    "target": "F052",
+    "herb": "升麻",
+    "formula": "普济消毒饮",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0305",
+    "source": "H012",
+    "target": "F052",
+    "herb": "柴胡",
+    "formula": "普济消毒饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0306",
+    "source": "H021",
+    "target": "F053",
+    "herb": "金银花",
+    "formula": "仙方活命饮",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0307",
+    "source": "H078",
+    "target": "F053",
+    "herb": "当归",
+    "formula": "仙方活命饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0308",
+    "source": "H127",
+    "target": "F053",
+    "herb": "赤芍",
+    "formula": "仙方活命饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0309",
+    "source": "H225",
+    "target": "F053",
+    "herb": "没药",
+    "formula": "仙方活命饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0310",
+    "source": "H224",
+    "target": "F053",
+    "herb": "乳香",
+    "formula": "仙方活命饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0311",
+    "source": "H096",
+    "target": "F053",
+    "herb": "天花粉",
+    "formula": "仙方活命饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0312",
+    "source": "H005",
+    "target": "F053",
+    "herb": "防风",
+    "formula": "仙方活命饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0313",
+    "source": "H006",
+    "target": "F053",
+    "herb": "白芷",
+    "formula": "仙方活命饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0314",
+    "source": "H065",
+    "target": "F053",
+    "herb": "川贝母",
+    "formula": "仙方活命饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0315",
+    "source": "H386",
+    "target": "F053",
+    "herb": "皂角刺",
+    "formula": "仙方活命饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0316",
+    "source": "H245",
+    "target": "F053",
+    "herb": "穿山甲",
+    "formula": "仙方活命饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0317",
+    "source": "H077",
+    "target": "F053",
+    "herb": "甘草",
+    "formula": "仙方活命饮",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0318",
+    "source": "H021",
+    "target": "F054",
+    "herb": "金银花",
+    "formula": "五味消毒饮",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0319",
+    "source": "H108",
+    "target": "F054",
+    "herb": "野菊花",
+    "formula": "五味消毒饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0320",
+    "source": "H024",
+    "target": "F054",
+    "herb": "蒲公英",
+    "formula": "五味消毒饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0321",
+    "source": "H107",
+    "target": "F054",
+    "herb": "紫花地丁",
+    "formula": "五味消毒饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0322",
+    "source": "H107",
+    "target": "F054",
+    "herb": "紫花地丁",
+    "formula": "五味消毒饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0323",
+    "source": "H021",
+    "target": "F055",
+    "herb": "金银花",
+    "formula": "四妙勇安汤",
+    "role": "君",
+    "dosage": "90g"
+  },
+  {
+    "id": "R0324",
+    "source": "H026",
+    "target": "F055",
+    "herb": "玄参",
+    "formula": "四妙勇安汤",
+    "role": "臣",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0325",
+    "source": "H078",
+    "target": "F055",
+    "herb": "当归",
+    "formula": "四妙勇安汤",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0326",
+    "source": "H077",
+    "target": "F055",
+    "herb": "甘草",
+    "formula": "四妙勇安汤",
+    "role": "使",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0327",
+    "source": "H025",
+    "target": "F056",
+    "herb": "生地黄",
+    "formula": "导赤散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0328",
+    "source": "H169",
+    "target": "F056",
+    "herb": "木通",
+    "formula": "导赤散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0329",
+    "source": "H097",
+    "target": "F056",
+    "herb": "淡竹叶",
+    "formula": "导赤散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0330",
+    "source": "H077",
+    "target": "F056",
+    "herb": "甘草",
+    "formula": "导赤散",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0331",
+    "source": "H019",
+    "target": "F057",
+    "herb": "黄连",
+    "formula": "左金丸",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0332",
+    "source": "H046",
+    "target": "F057",
+    "herb": "吴茱萸",
+    "formula": "左金丸",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0333",
+    "source": "H266",
+    "target": "F058",
+    "herb": "桑白皮",
+    "formula": "泻白散",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0334",
+    "source": "H029",
+    "target": "F058",
+    "herb": "地骨皮",
+    "formula": "泻白散",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0335",
+    "source": "H077",
+    "target": "F058",
+    "herb": "甘草",
+    "formula": "泻白散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0336",
+    "source": "H077",
+    "target": "F058",
+    "herb": "甘草",
+    "formula": "泻白散",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0337",
+    "source": "H019",
+    "target": "F059",
+    "herb": "黄连",
+    "formula": "清胃散",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0338",
+    "source": "H025",
+    "target": "F059",
+    "herb": "生地黄",
+    "formula": "清胃散",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0339",
+    "source": "H027",
+    "target": "F059",
+    "herb": "牡丹皮",
+    "formula": "清胃散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0340",
+    "source": "H078",
+    "target": "F059",
+    "herb": "当归",
+    "formula": "清胃散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0341",
+    "source": "H089",
+    "target": "F059",
+    "herb": "升麻",
+    "formula": "清胃散",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0342",
+    "source": "H384",
+    "target": "F060",
+    "herb": "白头翁",
+    "formula": "白头翁汤",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0343",
+    "source": "H020",
+    "target": "F060",
+    "herb": "黄柏",
+    "formula": "白头翁汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0344",
+    "source": "H019",
+    "target": "F060",
+    "herb": "黄连",
+    "formula": "白头翁汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0345",
+    "source": "H102",
+    "target": "F060",
+    "herb": "秦皮",
+    "formula": "白头翁汤",
+    "role": "使",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0346",
+    "source": "H028",
+    "target": "F061",
+    "herb": "青蒿",
+    "formula": "青蒿鳖甲汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0347",
+    "source": "H337",
+    "target": "F061",
+    "herb": "鳖甲",
+    "formula": "青蒿鳖甲汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0348",
+    "source": "H025",
+    "target": "F061",
+    "herb": "生地黄",
+    "formula": "青蒿鳖甲汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0349",
+    "source": "H015",
+    "target": "F061",
+    "herb": "知母",
+    "formula": "青蒿鳖甲汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0350",
+    "source": "H027",
+    "target": "F061",
+    "herb": "牡丹皮",
+    "formula": "青蒿鳖甲汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0351",
+    "source": "H131",
+    "target": "F062",
+    "herb": "银柴胡",
+    "formula": "清骨散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0352",
+    "source": "H132",
+    "target": "F062",
+    "herb": "胡黄连",
+    "formula": "清骨散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0353",
+    "source": "H152",
+    "target": "F062",
+    "herb": "秦艽",
+    "formula": "清骨散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0354",
+    "source": "H337",
+    "target": "F062",
+    "herb": "鳖甲",
+    "formula": "清骨散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0355",
+    "source": "H029",
+    "target": "F062",
+    "herb": "地骨皮",
+    "formula": "清骨散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0356",
+    "source": "H028",
+    "target": "F062",
+    "herb": "青蒿",
+    "formula": "清骨散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0357",
+    "source": "H015",
+    "target": "F062",
+    "herb": "知母",
+    "formula": "清骨散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0358",
+    "source": "H077",
+    "target": "F062",
+    "herb": "甘草",
+    "formula": "清骨散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0359",
+    "source": "H012",
+    "target": "F063",
+    "herb": "柴胡",
+    "formula": "大柴胡汤",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0360",
+    "source": "H018",
+    "target": "F063",
+    "herb": "黄芩",
+    "formula": "大柴胡汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0361",
+    "source": "H080",
+    "target": "F063",
+    "herb": "白芍",
+    "formula": "大柴胡汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0362",
+    "source": "H064",
+    "target": "F063",
+    "herb": "半夏",
+    "formula": "大柴胡汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0363",
+    "source": "H048",
+    "target": "F063",
+    "herb": "枳实",
+    "formula": "大柴胡汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0364",
+    "source": "H030",
+    "target": "F063",
+    "herb": "大黄",
+    "formula": "大柴胡汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0365",
+    "source": "H004",
+    "target": "F063",
+    "herb": "生姜",
+    "formula": "大柴胡汤",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0366",
+    "source": "H301",
+    "target": "F063",
+    "herb": "大枣",
+    "formula": "大柴胡汤",
+    "role": "使",
+    "dosage": "4枚"
+  },
+  {
+    "id": "R0367",
+    "source": "H028",
+    "target": "F064",
+    "herb": "青蒿",
+    "formula": "蒿芩清胆汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0368",
+    "source": "H018",
+    "target": "F064",
+    "herb": "黄芩",
+    "formula": "蒿芩清胆汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0369",
+    "source": "H064",
+    "target": "F064",
+    "herb": "半夏",
+    "formula": "蒿芩清胆汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0370",
+    "source": "H253",
+    "target": "F064",
+    "herb": "竹茹",
+    "formula": "蒿芩清胆汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0371",
+    "source": "H048",
+    "target": "F064",
+    "herb": "枳实",
+    "formula": "蒿芩清胆汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0372",
+    "source": "H047",
+    "target": "F064",
+    "herb": "陈皮",
+    "formula": "蒿芩清胆汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0373",
+    "source": "H038",
+    "target": "F064",
+    "herb": "茯苓",
+    "formula": "蒿芩清胆汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0374",
+    "source": "H396",
+    "target": "F064",
+    "herb": "碧玉散",
+    "formula": "蒿芩清胆汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0375",
+    "source": "H381",
+    "target": "F065",
+    "herb": "槟榔",
+    "formula": "达原饮",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0376",
+    "source": "H037",
+    "target": "F065",
+    "herb": "厚朴",
+    "formula": "达原饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0377",
+    "source": "H166",
+    "target": "F065",
+    "herb": "草果",
+    "formula": "达原饮",
+    "role": "臣",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0378",
+    "source": "H015",
+    "target": "F065",
+    "herb": "知母",
+    "formula": "达原饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0379",
+    "source": "H080",
+    "target": "F065",
+    "herb": "白芍",
+    "formula": "达原饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0380",
+    "source": "H018",
+    "target": "F065",
+    "herb": "黄芩",
+    "formula": "达原饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0381",
+    "source": "H077",
+    "target": "F065",
+    "herb": "甘草",
+    "formula": "达原饮",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0382",
+    "source": "H012",
+    "target": "F066",
+    "herb": "柴胡",
+    "formula": "四逆散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0383",
+    "source": "H080",
+    "target": "F066",
+    "herb": "白芍",
+    "formula": "四逆散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0384",
+    "source": "H048",
+    "target": "F066",
+    "herb": "枳实",
+    "formula": "四逆散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0385",
+    "source": "H077",
+    "target": "F066",
+    "herb": "甘草",
+    "formula": "四逆散",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0386",
+    "source": "H076",
+    "target": "F067",
+    "herb": "白术",
+    "formula": "痛泻要方",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0387",
+    "source": "H080",
+    "target": "F067",
+    "herb": "白芍",
+    "formula": "痛泻要方",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0388",
+    "source": "H047",
+    "target": "F067",
+    "herb": "陈皮",
+    "formula": "痛泻要方",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0389",
+    "source": "H005",
+    "target": "F067",
+    "herb": "防风",
+    "formula": "痛泻要方",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0390",
+    "source": "H064",
+    "target": "F068",
+    "herb": "半夏",
+    "formula": "半夏泻心汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0391",
+    "source": "H018",
+    "target": "F068",
+    "herb": "黄芩",
+    "formula": "半夏泻心汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0392",
+    "source": "H044",
+    "target": "F068",
+    "herb": "干姜",
+    "formula": "半夏泻心汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0393",
+    "source": "H074",
+    "target": "F068",
+    "herb": "人参",
+    "formula": "半夏泻心汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0394",
+    "source": "H077",
+    "target": "F068",
+    "herb": "甘草",
+    "formula": "半夏泻心汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0395",
+    "source": "H019",
+    "target": "F068",
+    "herb": "黄连",
+    "formula": "半夏泻心汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0396",
+    "source": "H301",
+    "target": "F068",
+    "herb": "大枣",
+    "formula": "半夏泻心汤",
+    "role": "使",
+    "dosage": "4枚"
+  },
+  {
+    "id": "R0397",
+    "source": "H030",
+    "target": "F069",
+    "herb": "大黄",
+    "formula": "小承气汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0398",
+    "source": "H037",
+    "target": "F069",
+    "herb": "厚朴",
+    "formula": "小承气汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0399",
+    "source": "H048",
+    "target": "F069",
+    "herb": "枳实",
+    "formula": "小承气汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0400",
+    "source": "H030",
+    "target": "F070",
+    "herb": "大黄",
+    "formula": "调胃承气汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0401",
+    "source": "H031",
+    "target": "F070",
+    "herb": "芒硝",
+    "formula": "调胃承气汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0402",
+    "source": "H077",
+    "target": "F070",
+    "herb": "甘草",
+    "formula": "调胃承气汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0403",
+    "source": "H030",
+    "target": "F071",
+    "herb": "大黄",
+    "formula": "大陷胸汤",
+    "role": "君",
+    "dosage": "10g"
+  },
+  {
+    "id": "R0404",
+    "source": "H031",
+    "target": "F071",
+    "herb": "芒硝",
+    "formula": "大陷胸汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0405",
+    "source": "H138",
+    "target": "F071",
+    "herb": "甘遂",
+    "formula": "大陷胸汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0406",
+    "source": "H030",
+    "target": "F072",
+    "herb": "大黄",
+    "formula": "大黄附子汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0407",
+    "source": "H043",
+    "target": "F072",
+    "herb": "附子",
+    "formula": "大黄附子汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0408",
+    "source": "H007",
+    "target": "F072",
+    "herb": "细辛",
+    "formula": "大黄附子汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0409",
+    "source": "H030",
+    "target": "F073",
+    "herb": "大黄",
+    "formula": "温脾汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0410",
+    "source": "H043",
+    "target": "F073",
+    "herb": "附子",
+    "formula": "温脾汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0411",
+    "source": "H044",
+    "target": "F073",
+    "herb": "干姜",
+    "formula": "温脾汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0412",
+    "source": "H074",
+    "target": "F073",
+    "herb": "人参",
+    "formula": "温脾汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0413",
+    "source": "H077",
+    "target": "F073",
+    "herb": "甘草",
+    "formula": "温脾汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0414",
+    "source": "H135",
+    "target": "F074",
+    "herb": "火麻仁",
+    "formula": "麻子仁丸",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0415",
+    "source": "H080",
+    "target": "F074",
+    "herb": "白芍",
+    "formula": "麻子仁丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0416",
+    "source": "H048",
+    "target": "F074",
+    "herb": "枳实",
+    "formula": "麻子仁丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0417",
+    "source": "H030",
+    "target": "F074",
+    "herb": "大黄",
+    "formula": "麻子仁丸",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0418",
+    "source": "H037",
+    "target": "F074",
+    "herb": "厚朴",
+    "formula": "麻子仁丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0419",
+    "source": "H067",
+    "target": "F074",
+    "herb": "杏仁",
+    "formula": "麻子仁丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0420",
+    "source": "H308",
+    "target": "F075",
+    "herb": "肉苁蓉",
+    "formula": "济川煎",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0421",
+    "source": "H078",
+    "target": "F075",
+    "herb": "当归",
+    "formula": "济川煎",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0422",
+    "source": "H227",
+    "target": "F075",
+    "herb": "牛膝",
+    "formula": "济川煎",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0423",
+    "source": "H040",
+    "target": "F075",
+    "herb": "泽泻",
+    "formula": "济川煎",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0424",
+    "source": "H089",
+    "target": "F075",
+    "herb": "升麻",
+    "formula": "济川煎",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0425",
+    "source": "H303",
+    "target": "F076",
+    "herb": "饴糖",
+    "formula": "小建中汤",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0426",
+    "source": "H002",
+    "target": "F076",
+    "herb": "桂枝",
+    "formula": "小建中汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0427",
+    "source": "H080",
+    "target": "F076",
+    "herb": "白芍",
+    "formula": "小建中汤",
+    "role": "佐",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0428",
+    "source": "H004",
+    "target": "F076",
+    "herb": "生姜",
+    "formula": "小建中汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0429",
+    "source": "H301",
+    "target": "F076",
+    "herb": "大枣",
+    "formula": "小建中汤",
+    "role": "佐",
+    "dosage": "4枚"
+  },
+  {
+    "id": "R0430",
+    "source": "H077",
+    "target": "F076",
+    "herb": "甘草",
+    "formula": "小建中汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0431",
+    "source": "H184",
+    "target": "F077",
+    "herb": "花椒",
+    "formula": "大建中汤",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0432",
+    "source": "H044",
+    "target": "F077",
+    "herb": "干姜",
+    "formula": "大建中汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0433",
+    "source": "H074",
+    "target": "F077",
+    "herb": "人参",
+    "formula": "大建中汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0434",
+    "source": "H303",
+    "target": "F077",
+    "herb": "饴糖",
+    "formula": "大建中汤",
+    "role": "使",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0435",
+    "source": "H043",
+    "target": "F078",
+    "herb": "附子",
+    "formula": "回阳救急汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0436",
+    "source": "H044",
+    "target": "F078",
+    "herb": "干姜",
+    "formula": "回阳救急汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0437",
+    "source": "H045",
+    "target": "F078",
+    "herb": "肉桂",
+    "formula": "回阳救急汤",
+    "role": "臣",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0438",
+    "source": "H074",
+    "target": "F078",
+    "herb": "人参",
+    "formula": "回阳救急汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0439",
+    "source": "H076",
+    "target": "F078",
+    "herb": "白术",
+    "formula": "回阳救急汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0440",
+    "source": "H038",
+    "target": "F078",
+    "herb": "茯苓",
+    "formula": "回阳救急汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0441",
+    "source": "H047",
+    "target": "F078",
+    "herb": "陈皮",
+    "formula": "回阳救急汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0442",
+    "source": "H064",
+    "target": "F078",
+    "herb": "半夏",
+    "formula": "回阳救急汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0443",
+    "source": "H342",
+    "target": "F078",
+    "herb": "五味子",
+    "formula": "回阳救急汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0444",
+    "source": "H077",
+    "target": "F078",
+    "herb": "甘草",
+    "formula": "回阳救急汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0445",
+    "source": "H078",
+    "target": "F079",
+    "herb": "当归",
+    "formula": "当归四逆汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0446",
+    "source": "H002",
+    "target": "F079",
+    "herb": "桂枝",
+    "formula": "当归四逆汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0447",
+    "source": "H080",
+    "target": "F079",
+    "herb": "白芍",
+    "formula": "当归四逆汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0448",
+    "source": "H007",
+    "target": "F079",
+    "herb": "细辛",
+    "formula": "当归四逆汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0449",
+    "source": "H170",
+    "target": "F079",
+    "herb": "通草",
+    "formula": "当归四逆汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0450",
+    "source": "H301",
+    "target": "F079",
+    "herb": "大枣",
+    "formula": "当归四逆汤",
+    "role": "佐",
+    "dosage": "8枚"
+  },
+  {
+    "id": "R0451",
+    "source": "H077",
+    "target": "F079",
+    "herb": "甘草",
+    "formula": "当归四逆汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0452",
+    "source": "H050",
+    "target": "F080",
+    "herb": "香附",
+    "formula": "越鞠丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0453",
+    "source": "H057",
+    "target": "F080",
+    "herb": "川芎",
+    "formula": "越鞠丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0454",
+    "source": "H036",
+    "target": "F080",
+    "herb": "苍术",
+    "formula": "越鞠丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0455",
+    "source": "H016",
+    "target": "F080",
+    "herb": "栀子",
+    "formula": "越鞠丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0456",
+    "source": "H052",
+    "target": "F080",
+    "herb": "神曲",
+    "formula": "越鞠丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0457",
+    "source": "H048",
+    "target": "F081",
+    "herb": "枳实",
+    "formula": "枳实薤白桂枝汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0458",
+    "source": "H393",
+    "target": "F081",
+    "herb": "薤白",
+    "formula": "枳实薤白桂枝汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0459",
+    "source": "H002",
+    "target": "F081",
+    "herb": "桂枝",
+    "formula": "枳实薤白桂枝汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0460",
+    "source": "H037",
+    "target": "F081",
+    "herb": "厚朴",
+    "formula": "枳实薤白桂枝汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0461",
+    "source": "H066",
+    "target": "F081",
+    "herb": "瓜蒌",
+    "formula": "枳实薤白桂枝汤",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0462",
+    "source": "H191",
+    "target": "F082",
+    "herb": "川楝子",
+    "formula": "金铃子散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0463",
+    "source": "H058",
+    "target": "F082",
+    "herb": "延胡索",
+    "formula": "金铃子散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0464",
+    "source": "H037",
+    "target": "F083",
+    "herb": "厚朴",
+    "formula": "厚朴温中汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0465",
+    "source": "H047",
+    "target": "F083",
+    "herb": "陈皮",
+    "formula": "厚朴温中汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0466",
+    "source": "H038",
+    "target": "F083",
+    "herb": "茯苓",
+    "formula": "厚朴温中汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0467",
+    "source": "H165",
+    "target": "F083",
+    "herb": "草豆蔻",
+    "formula": "厚朴温中汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0468",
+    "source": "H044",
+    "target": "F083",
+    "herb": "干姜",
+    "formula": "厚朴温中汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0469",
+    "source": "H049",
+    "target": "F083",
+    "herb": "木香",
+    "formula": "厚朴温中汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0470",
+    "source": "H077",
+    "target": "F083",
+    "herb": "甘草",
+    "formula": "厚朴温中汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0471",
+    "source": "H192",
+    "target": "F084",
+    "herb": "乌药",
+    "formula": "天台乌药散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0472",
+    "source": "H049",
+    "target": "F084",
+    "herb": "木香",
+    "formula": "天台乌药散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0473",
+    "source": "H181",
+    "target": "F084",
+    "herb": "小茴香",
+    "formula": "天台乌药散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0474",
+    "source": "H188",
+    "target": "F084",
+    "herb": "青皮",
+    "formula": "天台乌药散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0475",
+    "source": "H183",
+    "target": "F084",
+    "herb": "高良姜",
+    "formula": "天台乌药散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0476",
+    "source": "H381",
+    "target": "F084",
+    "herb": "槟榔",
+    "formula": "天台乌药散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0477",
+    "source": "H191",
+    "target": "F084",
+    "herb": "川楝子",
+    "formula": "天台乌药散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0478",
+    "source": "H143",
+    "target": "F084",
+    "herb": "巴豆",
+    "formula": "天台乌药散",
+    "role": "使",
+    "dosage": "1g"
+  },
+  {
+    "id": "R0479",
+    "source": "H062",
+    "target": "F085",
+    "herb": "桃仁",
+    "formula": "桃核承气汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0480",
+    "source": "H030",
+    "target": "F085",
+    "herb": "大黄",
+    "formula": "桃核承气汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0481",
+    "source": "H002",
+    "target": "F085",
+    "herb": "桂枝",
+    "formula": "桃核承气汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0482",
+    "source": "H077",
+    "target": "F085",
+    "herb": "甘草",
+    "formula": "桃核承气汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0483",
+    "source": "H031",
+    "target": "F085",
+    "herb": "芒硝",
+    "formula": "桃核承气汤",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0484",
+    "source": "H030",
+    "target": "F086",
+    "herb": "大黄",
+    "formula": "复元活血汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0485",
+    "source": "H012",
+    "target": "F086",
+    "herb": "柴胡",
+    "formula": "复元活血汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0486",
+    "source": "H062",
+    "target": "F086",
+    "herb": "桃仁",
+    "formula": "复元活血汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0487",
+    "source": "H061",
+    "target": "F086",
+    "herb": "红花",
+    "formula": "复元活血汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0488",
+    "source": "H078",
+    "target": "F086",
+    "herb": "当归",
+    "formula": "复元活血汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0489",
+    "source": "H096",
+    "target": "F086",
+    "herb": "天花粉",
+    "formula": "复元活血汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0490",
+    "source": "H245",
+    "target": "F086",
+    "herb": "穿山甲",
+    "formula": "复元活血汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0491",
+    "source": "H077",
+    "target": "F086",
+    "herb": "甘草",
+    "formula": "复元活血汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0492",
+    "source": "H046",
+    "target": "F087",
+    "herb": "吴茱萸",
+    "formula": "温经汤",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0493",
+    "source": "H002",
+    "target": "F087",
+    "herb": "桂枝",
+    "formula": "温经汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0494",
+    "source": "H078",
+    "target": "F087",
+    "herb": "当归",
+    "formula": "温经汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0495",
+    "source": "H057",
+    "target": "F087",
+    "herb": "川芎",
+    "formula": "温经汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0496",
+    "source": "H080",
+    "target": "F087",
+    "herb": "白芍",
+    "formula": "温经汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0497",
+    "source": "H327",
+    "target": "F087",
+    "herb": "麦冬",
+    "formula": "温经汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0498",
+    "source": "H379",
+    "target": "F087",
+    "herb": "阿胶",
+    "formula": "温经汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0499",
+    "source": "H074",
+    "target": "F087",
+    "herb": "人参",
+    "formula": "温经汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0500",
+    "source": "H027",
+    "target": "F087",
+    "herb": "牡丹皮",
+    "formula": "温经汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0501",
+    "source": "H004",
+    "target": "F087",
+    "herb": "生姜",
+    "formula": "温经汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0502",
+    "source": "H077",
+    "target": "F087",
+    "herb": "甘草",
+    "formula": "温经汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0503",
+    "source": "H064",
+    "target": "F087",
+    "herb": "半夏",
+    "formula": "温经汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0504",
+    "source": "H078",
+    "target": "F088",
+    "herb": "当归",
+    "formula": "生化汤",
+    "role": "君",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0505",
+    "source": "H057",
+    "target": "F088",
+    "herb": "川芎",
+    "formula": "生化汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0506",
+    "source": "H062",
+    "target": "F088",
+    "herb": "桃仁",
+    "formula": "生化汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0507",
+    "source": "H044",
+    "target": "F088",
+    "herb": "干姜",
+    "formula": "生化汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0508",
+    "source": "H077",
+    "target": "F088",
+    "herb": "甘草",
+    "formula": "生化汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0509",
+    "source": "H002",
+    "target": "F089",
+    "herb": "桂枝",
+    "formula": "桂枝茯苓丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0510",
+    "source": "H038",
+    "target": "F089",
+    "herb": "茯苓",
+    "formula": "桂枝茯苓丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0511",
+    "source": "H027",
+    "target": "F089",
+    "herb": "牡丹皮",
+    "formula": "桂枝茯苓丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0512",
+    "source": "H080",
+    "target": "F089",
+    "herb": "白芍",
+    "formula": "桂枝茯苓丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0513",
+    "source": "H062",
+    "target": "F089",
+    "herb": "桃仁",
+    "formula": "桂枝茯苓丸",
+    "role": "使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0514",
+    "source": "H212",
+    "target": "F090",
+    "herb": "五灵脂",
+    "formula": "失笑散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0515",
+    "source": "H211",
+    "target": "F090",
+    "herb": "蒲黄",
+    "formula": "失笑散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0516",
+    "source": "H060",
+    "target": "F091",
+    "herb": "丹参",
+    "formula": "丹参饮",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0517",
+    "source": "H190",
+    "target": "F091",
+    "herb": "檀香",
+    "formula": "丹参饮",
+    "role": "臣",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0518",
+    "source": "H163",
+    "target": "F091",
+    "herb": "砂仁",
+    "formula": "丹参饮",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0519",
+    "source": "H204",
+    "target": "F092",
+    "herb": "大蓟",
+    "formula": "十灰散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0520",
+    "source": "H054",
+    "target": "F092",
+    "herb": "小蓟",
+    "formula": "十灰散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0521",
+    "source": "H392",
+    "target": "F092",
+    "herb": "荷叶",
+    "formula": "十灰散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0522",
+    "source": "H206",
+    "target": "F092",
+    "herb": "侧柏叶",
+    "formula": "十灰散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0523",
+    "source": "H207",
+    "target": "F092",
+    "herb": "白茅根",
+    "formula": "十灰散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0524",
+    "source": "H210",
+    "target": "F092",
+    "herb": "茜草",
+    "formula": "十灰散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0525",
+    "source": "H016",
+    "target": "F092",
+    "herb": "栀子",
+    "formula": "十灰散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0526",
+    "source": "H030",
+    "target": "F092",
+    "herb": "大黄",
+    "formula": "十灰散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0527",
+    "source": "H027",
+    "target": "F092",
+    "herb": "牡丹皮",
+    "formula": "十灰散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0528",
+    "source": "H387",
+    "target": "F092",
+    "herb": "棕榈皮",
+    "formula": "十灰散",
+    "role": "使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0529",
+    "source": "H105",
+    "target": "F093",
+    "herb": "青黛",
+    "formula": "咳血方",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0530",
+    "source": "H016",
+    "target": "F093",
+    "herb": "栀子",
+    "formula": "咳血方",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0531",
+    "source": "H066",
+    "target": "F093",
+    "herb": "瓜蒌",
+    "formula": "咳血方",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0532",
+    "source": "H394",
+    "target": "F093",
+    "herb": "海浮石",
+    "formula": "咳血方",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0533",
+    "source": "H345",
+    "target": "F093",
+    "herb": "诃子",
+    "formula": "咳血方",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0534",
+    "source": "H054",
+    "target": "F094",
+    "herb": "小蓟",
+    "formula": "小蓟饮子",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0535",
+    "source": "H025",
+    "target": "F094",
+    "herb": "生地黄",
+    "formula": "小蓟饮子",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0536",
+    "source": "H211",
+    "target": "F094",
+    "herb": "蒲黄",
+    "formula": "小蓟饮子",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0537",
+    "source": "H219",
+    "target": "F094",
+    "herb": "藕节",
+    "formula": "小蓟饮子",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0538",
+    "source": "H168",
+    "target": "F094",
+    "herb": "滑石",
+    "formula": "小蓟饮子",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0539",
+    "source": "H169",
+    "target": "F094",
+    "herb": "木通",
+    "formula": "小蓟饮子",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0540",
+    "source": "H097",
+    "target": "F094",
+    "herb": "淡竹叶",
+    "formula": "小蓟饮子",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0541",
+    "source": "H078",
+    "target": "F094",
+    "herb": "当归",
+    "formula": "小蓟饮子",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0542",
+    "source": "H016",
+    "target": "F094",
+    "herb": "栀子",
+    "formula": "小蓟饮子",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0543",
+    "source": "H077",
+    "target": "F094",
+    "herb": "甘草",
+    "formula": "小蓟饮子",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0544",
+    "source": "H205",
+    "target": "F095",
+    "herb": "槐花",
+    "formula": "槐花散",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0545",
+    "source": "H206",
+    "target": "F095",
+    "herb": "侧柏叶",
+    "formula": "槐花散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0546",
+    "source": "H082",
+    "target": "F095",
+    "herb": "荆芥",
+    "formula": "槐花散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0547",
+    "source": "H048",
+    "target": "F095",
+    "herb": "枳实",
+    "formula": "槐花散",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0548",
+    "source": "H074",
+    "target": "F096",
+    "herb": "人参",
+    "formula": "参白术散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0549",
+    "source": "H076",
+    "target": "F096",
+    "herb": "白术",
+    "formula": "参白术散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0550",
+    "source": "H038",
+    "target": "F096",
+    "herb": "茯苓",
+    "formula": "参白术散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0551",
+    "source": "H299",
+    "target": "F096",
+    "herb": "山药",
+    "formula": "参白术散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0552",
+    "source": "H355",
+    "target": "F096",
+    "herb": "莲子",
+    "formula": "参白术散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0553",
+    "source": "H300",
+    "target": "F096",
+    "herb": "白扁豆",
+    "formula": "参白术散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0554",
+    "source": "H039",
+    "target": "F096",
+    "herb": "薏苡仁",
+    "formula": "参白术散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0555",
+    "source": "H163",
+    "target": "F096",
+    "herb": "砂仁",
+    "formula": "参白术散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0556",
+    "source": "H260",
+    "target": "F096",
+    "herb": "桔梗",
+    "formula": "参白术散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0557",
+    "source": "H077",
+    "target": "F096",
+    "herb": "甘草",
+    "formula": "参白术散",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0558",
+    "source": "H075",
+    "target": "F097",
+    "herb": "黄芪",
+    "formula": "玉屏风散",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0559",
+    "source": "H076",
+    "target": "F097",
+    "herb": "白术",
+    "formula": "玉屏风散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0560",
+    "source": "H005",
+    "target": "F097",
+    "herb": "防风",
+    "formula": "玉屏风散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0561",
+    "source": "H074",
+    "target": "F098",
+    "herb": "人参",
+    "formula": "人参蛤蚧散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0562",
+    "source": "H385",
+    "target": "F098",
+    "herb": "蛤蚧",
+    "formula": "人参蛤蚧散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0563",
+    "source": "H067",
+    "target": "F098",
+    "herb": "杏仁",
+    "formula": "人参蛤蚧散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0564",
+    "source": "H077",
+    "target": "F098",
+    "herb": "甘草",
+    "formula": "人参蛤蚧散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0565",
+    "source": "H316",
+    "target": "F099",
+    "herb": "补骨脂",
+    "formula": "四神丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0566",
+    "source": "H308",
+    "target": "F099",
+    "herb": "肉苁蓉",
+    "formula": "四神丸",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0567",
+    "source": "H342",
+    "target": "F099",
+    "herb": "五味子",
+    "formula": "四神丸",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0568",
+    "source": "H046",
+    "target": "F099",
+    "herb": "吴茱萸",
+    "formula": "四神丸",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0569",
+    "source": "H074",
+    "target": "F100",
+    "herb": "人参",
+    "formula": "归脾汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0570",
+    "source": "H075",
+    "target": "F100",
+    "herb": "黄芪",
+    "formula": "归脾汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0571",
+    "source": "H076",
+    "target": "F100",
+    "herb": "白术",
+    "formula": "归脾汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0572",
+    "source": "H078",
+    "target": "F100",
+    "herb": "当归",
+    "formula": "归脾汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0573",
+    "source": "H322",
+    "target": "F100",
+    "herb": "龙眼肉",
+    "formula": "归脾汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0574",
+    "source": "H070",
+    "target": "F100",
+    "herb": "远志",
+    "formula": "归脾汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0575",
+    "source": "H069",
+    "target": "F100",
+    "herb": "酸枣仁",
+    "formula": "归脾汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0576",
+    "source": "H049",
+    "target": "F100",
+    "herb": "木香",
+    "formula": "归脾汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0577",
+    "source": "H077",
+    "target": "F100",
+    "herb": "甘草",
+    "formula": "归脾汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0578",
+    "source": "H077",
+    "target": "F101",
+    "herb": "甘草",
+    "formula": "炙甘草汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0579",
+    "source": "H074",
+    "target": "F101",
+    "herb": "人参",
+    "formula": "炙甘草汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0580",
+    "source": "H025",
+    "target": "F101",
+    "herb": "生地黄",
+    "formula": "炙甘草汤",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0581",
+    "source": "H002",
+    "target": "F101",
+    "herb": "桂枝",
+    "formula": "炙甘草汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0582",
+    "source": "H379",
+    "target": "F101",
+    "herb": "阿胶",
+    "formula": "炙甘草汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0583",
+    "source": "H327",
+    "target": "F101",
+    "herb": "麦冬",
+    "formula": "炙甘草汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0584",
+    "source": "H135",
+    "target": "F101",
+    "herb": "火麻仁",
+    "formula": "炙甘草汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0585",
+    "source": "H004",
+    "target": "F101",
+    "herb": "生姜",
+    "formula": "炙甘草汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0586",
+    "source": "H301",
+    "target": "F101",
+    "herb": "大枣",
+    "formula": "炙甘草汤",
+    "role": "使",
+    "dosage": "4枚"
+  },
+  {
+    "id": "R0587",
+    "source": "H074",
+    "target": "F102",
+    "herb": "人参",
+    "formula": "八珍汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0588",
+    "source": "H076",
+    "target": "F102",
+    "herb": "白术",
+    "formula": "八珍汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0589",
+    "source": "H038",
+    "target": "F102",
+    "herb": "茯苓",
+    "formula": "八珍汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0590",
+    "source": "H077",
+    "target": "F102",
+    "herb": "甘草",
+    "formula": "八珍汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0591",
+    "source": "H078",
+    "target": "F102",
+    "herb": "当归",
+    "formula": "八珍汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0592",
+    "source": "H057",
+    "target": "F102",
+    "herb": "川芎",
+    "formula": "八珍汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0593",
+    "source": "H080",
+    "target": "F102",
+    "herb": "白芍",
+    "formula": "八珍汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0594",
+    "source": "H079",
+    "target": "F102",
+    "herb": "熟地黄",
+    "formula": "八珍汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0595",
+    "source": "H074",
+    "target": "F103",
+    "herb": "人参",
+    "formula": "十全大补汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0596",
+    "source": "H076",
+    "target": "F103",
+    "herb": "白术",
+    "formula": "十全大补汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0597",
+    "source": "H038",
+    "target": "F103",
+    "herb": "茯苓",
+    "formula": "十全大补汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0598",
+    "source": "H077",
+    "target": "F103",
+    "herb": "甘草",
+    "formula": "十全大补汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0599",
+    "source": "H078",
+    "target": "F103",
+    "herb": "当归",
+    "formula": "十全大补汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0600",
+    "source": "H057",
+    "target": "F103",
+    "herb": "川芎",
+    "formula": "十全大补汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0601",
+    "source": "H080",
+    "target": "F103",
+    "herb": "白芍",
+    "formula": "十全大补汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0602",
+    "source": "H079",
+    "target": "F103",
+    "herb": "熟地黄",
+    "formula": "十全大补汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0603",
+    "source": "H075",
+    "target": "F103",
+    "herb": "黄芪",
+    "formula": "十全大补汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0604",
+    "source": "H045",
+    "target": "F103",
+    "herb": "肉桂",
+    "formula": "十全大补汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0605",
+    "source": "H074",
+    "target": "F104",
+    "herb": "人参",
+    "formula": "泰山磐石散",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0606",
+    "source": "H075",
+    "target": "F104",
+    "herb": "黄芪",
+    "formula": "泰山磐石散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0607",
+    "source": "H076",
+    "target": "F104",
+    "herb": "白术",
+    "formula": "泰山磐石散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0608",
+    "source": "H078",
+    "target": "F104",
+    "herb": "当归",
+    "formula": "泰山磐石散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0609",
+    "source": "H057",
+    "target": "F104",
+    "herb": "川芎",
+    "formula": "泰山磐石散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0610",
+    "source": "H080",
+    "target": "F104",
+    "herb": "白芍",
+    "formula": "泰山磐石散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0611",
+    "source": "H079",
+    "target": "F104",
+    "herb": "熟地黄",
+    "formula": "泰山磐石散",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0612",
+    "source": "H312",
+    "target": "F104",
+    "herb": "续断",
+    "formula": "泰山磐石散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0613",
+    "source": "H018",
+    "target": "F104",
+    "herb": "黄芩",
+    "formula": "泰山磐石散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0614",
+    "source": "H163",
+    "target": "F104",
+    "herb": "砂仁",
+    "formula": "泰山磐石散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0615",
+    "source": "H077",
+    "target": "F104",
+    "herb": "甘草",
+    "formula": "泰山磐石散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0616",
+    "source": "H079",
+    "target": "F105",
+    "herb": "熟地黄",
+    "formula": "六味地黄汤",
+    "role": "君",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0617",
+    "source": "H350",
+    "target": "F105",
+    "herb": "山茱萸",
+    "formula": "六味地黄汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0618",
+    "source": "H299",
+    "target": "F105",
+    "herb": "山药",
+    "formula": "六味地黄汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0619",
+    "source": "H038",
+    "target": "F105",
+    "herb": "茯苓",
+    "formula": "六味地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0620",
+    "source": "H040",
+    "target": "F105",
+    "herb": "泽泻",
+    "formula": "六味地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0621",
+    "source": "H027",
+    "target": "F105",
+    "herb": "牡丹皮",
+    "formula": "六味地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0622",
+    "source": "H015",
+    "target": "F106",
+    "herb": "知母",
+    "formula": "知柏地黄汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0623",
+    "source": "H020",
+    "target": "F106",
+    "herb": "黄柏",
+    "formula": "知柏地黄汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0624",
+    "source": "H079",
+    "target": "F106",
+    "herb": "熟地黄",
+    "formula": "知柏地黄汤",
+    "role": "佐",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0625",
+    "source": "H350",
+    "target": "F106",
+    "herb": "山茱萸",
+    "formula": "知柏地黄汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0626",
+    "source": "H299",
+    "target": "F106",
+    "herb": "山药",
+    "formula": "知柏地黄汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0627",
+    "source": "H038",
+    "target": "F106",
+    "herb": "茯苓",
+    "formula": "知柏地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0628",
+    "source": "H040",
+    "target": "F106",
+    "herb": "泽泻",
+    "formula": "知柏地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0629",
+    "source": "H027",
+    "target": "F106",
+    "herb": "牡丹皮",
+    "formula": "知柏地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0630",
+    "source": "H332",
+    "target": "F107",
+    "herb": "枸杞子",
+    "formula": "杞菊地黄汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0631",
+    "source": "H011",
+    "target": "F107",
+    "herb": "菊花",
+    "formula": "杞菊地黄汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0632",
+    "source": "H079",
+    "target": "F107",
+    "herb": "熟地黄",
+    "formula": "杞菊地黄汤",
+    "role": "佐",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0633",
+    "source": "H350",
+    "target": "F107",
+    "herb": "山茱萸",
+    "formula": "杞菊地黄汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0634",
+    "source": "H299",
+    "target": "F107",
+    "herb": "山药",
+    "formula": "杞菊地黄汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0635",
+    "source": "H038",
+    "target": "F107",
+    "herb": "茯苓",
+    "formula": "杞菊地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0636",
+    "source": "H040",
+    "target": "F107",
+    "herb": "泽泻",
+    "formula": "杞菊地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0637",
+    "source": "H027",
+    "target": "F107",
+    "herb": "牡丹皮",
+    "formula": "杞菊地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0638",
+    "source": "H327",
+    "target": "F108",
+    "herb": "麦冬",
+    "formula": "麦味地黄汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0639",
+    "source": "H342",
+    "target": "F108",
+    "herb": "五味子",
+    "formula": "麦味地黄汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0640",
+    "source": "H079",
+    "target": "F108",
+    "herb": "熟地黄",
+    "formula": "麦味地黄汤",
+    "role": "佐",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0641",
+    "source": "H350",
+    "target": "F108",
+    "herb": "山茱萸",
+    "formula": "麦味地黄汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0642",
+    "source": "H299",
+    "target": "F108",
+    "herb": "山药",
+    "formula": "麦味地黄汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0643",
+    "source": "H038",
+    "target": "F108",
+    "herb": "茯苓",
+    "formula": "麦味地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0644",
+    "source": "H040",
+    "target": "F108",
+    "herb": "泽泻",
+    "formula": "麦味地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0645",
+    "source": "H027",
+    "target": "F108",
+    "herb": "牡丹皮",
+    "formula": "麦味地黄汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0646",
+    "source": "H079",
+    "target": "F109",
+    "herb": "熟地黄",
+    "formula": "左归饮",
+    "role": "君",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0647",
+    "source": "H299",
+    "target": "F109",
+    "herb": "山药",
+    "formula": "左归饮",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0648",
+    "source": "H332",
+    "target": "F109",
+    "herb": "枸杞子",
+    "formula": "左归饮",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0649",
+    "source": "H350",
+    "target": "F109",
+    "herb": "山茱萸",
+    "formula": "左归饮",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0650",
+    "source": "H038",
+    "target": "F109",
+    "herb": "茯苓",
+    "formula": "左归饮",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0651",
+    "source": "H077",
+    "target": "F109",
+    "herb": "甘草",
+    "formula": "左归饮",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0652",
+    "source": "H079",
+    "target": "F110",
+    "herb": "熟地黄",
+    "formula": "虎潜丸",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0653",
+    "source": "H336",
+    "target": "F110",
+    "herb": "龟甲",
+    "formula": "虎潜丸",
+    "role": "臣",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0654",
+    "source": "H020",
+    "target": "F110",
+    "herb": "黄柏",
+    "formula": "虎潜丸",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0655",
+    "source": "H015",
+    "target": "F110",
+    "herb": "知母",
+    "formula": "虎潜丸",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0656",
+    "source": "H080",
+    "target": "F110",
+    "herb": "白芍",
+    "formula": "虎潜丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0657",
+    "source": "H380",
+    "target": "F110",
+    "herb": "锁阳",
+    "formula": "虎潜丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0658",
+    "source": "H227",
+    "target": "F110",
+    "herb": "牛膝",
+    "formula": "虎潜丸",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0659",
+    "source": "H025",
+    "target": "F111",
+    "herb": "生地黄",
+    "formula": "一贯煎",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0660",
+    "source": "H332",
+    "target": "F111",
+    "herb": "枸杞子",
+    "formula": "一贯煎",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0661",
+    "source": "H078",
+    "target": "F111",
+    "herb": "当归",
+    "formula": "一贯煎",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0662",
+    "source": "H325",
+    "target": "F111",
+    "herb": "南沙参",
+    "formula": "一贯煎",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0663",
+    "source": "H327",
+    "target": "F111",
+    "herb": "麦冬",
+    "formula": "一贯煎",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0664",
+    "source": "H191",
+    "target": "F111",
+    "herb": "川楝子",
+    "formula": "一贯煎",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0665",
+    "source": "H326",
+    "target": "F112",
+    "herb": "百合",
+    "formula": "百合固金汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0666",
+    "source": "H025",
+    "target": "F112",
+    "herb": "生地黄",
+    "formula": "百合固金汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0667",
+    "source": "H079",
+    "target": "F112",
+    "herb": "熟地黄",
+    "formula": "百合固金汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0668",
+    "source": "H327",
+    "target": "F112",
+    "herb": "麦冬",
+    "formula": "百合固金汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0669",
+    "source": "H026",
+    "target": "F112",
+    "herb": "玄参",
+    "formula": "百合固金汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0670",
+    "source": "H078",
+    "target": "F112",
+    "herb": "当归",
+    "formula": "百合固金汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0671",
+    "source": "H080",
+    "target": "F112",
+    "herb": "白芍",
+    "formula": "百合固金汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0672",
+    "source": "H065",
+    "target": "F112",
+    "herb": "川贝母",
+    "formula": "百合固金汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0673",
+    "source": "H260",
+    "target": "F112",
+    "herb": "桔梗",
+    "formula": "百合固金汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0674",
+    "source": "H077",
+    "target": "F112",
+    "herb": "甘草",
+    "formula": "百合固金汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0675",
+    "source": "H379",
+    "target": "F113",
+    "herb": "阿胶",
+    "formula": "补肺阿胶汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0676",
+    "source": "H391",
+    "target": "F113",
+    "herb": "马兜铃",
+    "formula": "补肺阿胶汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0677",
+    "source": "H009",
+    "target": "F113",
+    "herb": "牛蒡子",
+    "formula": "补肺阿胶汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0678",
+    "source": "H067",
+    "target": "F113",
+    "herb": "杏仁",
+    "formula": "补肺阿胶汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0679",
+    "source": "H077",
+    "target": "F113",
+    "herb": "甘草",
+    "formula": "补肺阿胶汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0680",
+    "source": "H077",
+    "target": "F113",
+    "herb": "甘草",
+    "formula": "补肺阿胶汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0681",
+    "source": "H325",
+    "target": "F114",
+    "herb": "南沙参",
+    "formula": "益胃汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0682",
+    "source": "H327",
+    "target": "F114",
+    "herb": "麦冬",
+    "formula": "益胃汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0683",
+    "source": "H077",
+    "target": "F114",
+    "herb": "甘草",
+    "formula": "益胃汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0684",
+    "source": "H025",
+    "target": "F114",
+    "herb": "生地黄",
+    "formula": "益胃汤",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0685",
+    "source": "H330",
+    "target": "F114",
+    "herb": "玉竹",
+    "formula": "益胃汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0686",
+    "source": "H026",
+    "target": "F115",
+    "herb": "玄参",
+    "formula": "增液汤",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0687",
+    "source": "H327",
+    "target": "F115",
+    "herb": "麦冬",
+    "formula": "增液汤",
+    "role": "臣",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0688",
+    "source": "H025",
+    "target": "F115",
+    "herb": "生地黄",
+    "formula": "增液汤",
+    "role": "佐",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0689",
+    "source": "H077",
+    "target": "F116",
+    "herb": "甘草",
+    "formula": "方剂名",
+    "role": "君/臣/佐/使",
+    "dosage": "剂量"
+  },
+  {
+    "id": "R0690",
+    "source": "H079",
+    "target": "F117",
+    "herb": "熟地黄",
+    "formula": "右归丸",
+    "role": "君",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0691",
+    "source": "H299",
+    "target": "F117",
+    "herb": "山药",
+    "formula": "右归丸",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0692",
+    "source": "H350",
+    "target": "F117",
+    "herb": "山茱萸",
+    "formula": "右归丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0693",
+    "source": "H332",
+    "target": "F117",
+    "herb": "枸杞子",
+    "formula": "右归丸",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0694",
+    "source": "H314",
+    "target": "F117",
+    "herb": "菟丝子",
+    "formula": "右归丸",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0695",
+    "source": "H378",
+    "target": "F117",
+    "herb": "鹿角",
+    "formula": "右归丸",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0696",
+    "source": "H311",
+    "target": "F117",
+    "herb": "杜仲",
+    "formula": "右归丸",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0697",
+    "source": "H045",
+    "target": "F117",
+    "herb": "肉桂",
+    "formula": "右归丸",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0698",
+    "source": "H043",
+    "target": "F117",
+    "herb": "附子",
+    "formula": "右归丸",
+    "role": "使",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0699",
+    "source": "H332",
+    "target": "F118",
+    "herb": "枸杞子",
+    "formula": "五子衍宗丸",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0700",
+    "source": "H314",
+    "target": "F118",
+    "herb": "菟丝子",
+    "formula": "五子衍宗丸",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0701",
+    "source": "H351",
+    "target": "F118",
+    "herb": "覆盆子",
+    "formula": "五子衍宗丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0702",
+    "source": "H342",
+    "target": "F118",
+    "herb": "五味子",
+    "formula": "五子衍宗丸",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0703",
+    "source": "H041",
+    "target": "F118",
+    "herb": "车前子",
+    "formula": "五子衍宗丸",
+    "role": "使",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0704",
+    "source": "H079",
+    "target": "F119",
+    "herb": "熟地黄",
+    "formula": "地黄饮子",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0705",
+    "source": "H307",
+    "target": "F119",
+    "herb": "巴戟天",
+    "formula": "地黄饮子",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0706",
+    "source": "H350",
+    "target": "F119",
+    "herb": "山茱萸",
+    "formula": "地黄饮子",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0707",
+    "source": "H329",
+    "target": "F119",
+    "herb": "石斛",
+    "formula": "地黄饮子",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0708",
+    "source": "H308",
+    "target": "F119",
+    "herb": "肉苁蓉",
+    "formula": "地黄饮子",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0709",
+    "source": "H043",
+    "target": "F119",
+    "herb": "附子",
+    "formula": "地黄饮子",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0710",
+    "source": "H045",
+    "target": "F119",
+    "herb": "肉桂",
+    "formula": "地黄饮子",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0711",
+    "source": "H038",
+    "target": "F119",
+    "herb": "茯苓",
+    "formula": "地黄饮子",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0712",
+    "source": "H327",
+    "target": "F119",
+    "herb": "麦冬",
+    "formula": "地黄饮子",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0713",
+    "source": "H294",
+    "target": "F119",
+    "herb": "石菖蒲",
+    "formula": "地黄饮子",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0714",
+    "source": "H070",
+    "target": "F119",
+    "herb": "远志",
+    "formula": "地黄饮子",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0715",
+    "source": "H271",
+    "target": "F120",
+    "herb": "朱砂",
+    "formula": "朱砂安神丸",
+    "role": "君",
+    "dosage": "1g"
+  },
+  {
+    "id": "R0716",
+    "source": "H019",
+    "target": "F120",
+    "herb": "黄连",
+    "formula": "朱砂安神丸",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0717",
+    "source": "H025",
+    "target": "F120",
+    "herb": "生地黄",
+    "formula": "朱砂安神丸",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0718",
+    "source": "H078",
+    "target": "F120",
+    "herb": "当归",
+    "formula": "朱砂安神丸",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0719",
+    "source": "H077",
+    "target": "F120",
+    "herb": "甘草",
+    "formula": "朱砂安神丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0720",
+    "source": "H077",
+    "target": "F121",
+    "herb": "甘草",
+    "formula": "甘麦大枣汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0721",
+    "source": "H077",
+    "target": "F121",
+    "herb": "甘草",
+    "formula": "甘麦大枣汤",
+    "role": "臣",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0722",
+    "source": "H301",
+    "target": "F121",
+    "herb": "大枣",
+    "formula": "甘麦大枣汤",
+    "role": "佐",
+    "dosage": "10枚"
+  },
+  {
+    "id": "R0723",
+    "source": "H014",
+    "target": "F122",
+    "herb": "石膏",
+    "formula": "紫雪丹",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0724",
+    "source": "H395",
+    "target": "F122",
+    "herb": "寒水石",
+    "formula": "紫雪丹",
+    "role": "臣",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0725",
+    "source": "H272",
+    "target": "F122",
+    "herb": "磁石",
+    "formula": "紫雪丹",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0726",
+    "source": "H168",
+    "target": "F122",
+    "herb": "滑石",
+    "formula": "紫雪丹",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0727",
+    "source": "H129",
+    "target": "F122",
+    "herb": "水牛角",
+    "formula": "紫雪丹",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0728",
+    "source": "H291",
+    "target": "F122",
+    "herb": "麝香",
+    "formula": "紫雪丹",
+    "role": "佐",
+    "dosage": "0.3g"
+  },
+  {
+    "id": "R0729",
+    "source": "H129",
+    "target": "F123",
+    "herb": "水牛角",
+    "formula": "至宝丹",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0730",
+    "source": "H271",
+    "target": "F123",
+    "herb": "朱砂",
+    "formula": "至宝丹",
+    "role": "臣",
+    "dosage": "1g"
+  },
+  {
+    "id": "R0731",
+    "source": "H361",
+    "target": "F123",
+    "herb": "雄黄",
+    "formula": "至宝丹",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0732",
+    "source": "H292",
+    "target": "F123",
+    "herb": "冰片",
+    "formula": "至宝丹",
+    "role": "佐",
+    "dosage": "0.3g"
+  },
+  {
+    "id": "R0733",
+    "source": "H291",
+    "target": "F123",
+    "herb": "麝香",
+    "formula": "至宝丹",
+    "role": "佐",
+    "dosage": "0.3g"
+  },
+  {
+    "id": "R0734",
+    "source": "H274",
+    "target": "F123",
+    "herb": "琥珀",
+    "formula": "至宝丹",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0735",
+    "source": "H293",
+    "target": "F124",
+    "herb": "苏合香",
+    "formula": "苏合香丸",
+    "role": "君",
+    "dosage": "1g"
+  },
+  {
+    "id": "R0736",
+    "source": "H291",
+    "target": "F124",
+    "herb": "麝香",
+    "formula": "苏合香丸",
+    "role": "臣",
+    "dosage": "0.3g"
+  },
+  {
+    "id": "R0737",
+    "source": "H292",
+    "target": "F124",
+    "herb": "冰片",
+    "formula": "苏合香丸",
+    "role": "佐",
+    "dosage": "0.3g"
+  },
+  {
+    "id": "R0738",
+    "source": "H295",
+    "target": "F124",
+    "herb": "安息香",
+    "formula": "苏合香丸",
+    "role": "佐",
+    "dosage": "1g"
+  },
+  {
+    "id": "R0739",
+    "source": "H189",
+    "target": "F124",
+    "herb": "沉香",
+    "formula": "苏合香丸",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0740",
+    "source": "H074",
+    "target": "F125",
+    "herb": "人参",
+    "formula": "九仙散",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0741",
+    "source": "H264",
+    "target": "F125",
+    "herb": "款冬花",
+    "formula": "九仙散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0742",
+    "source": "H266",
+    "target": "F125",
+    "herb": "桑白皮",
+    "formula": "九仙散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0743",
+    "source": "H342",
+    "target": "F125",
+    "herb": "五味子",
+    "formula": "九仙散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0744",
+    "source": "H379",
+    "target": "F125",
+    "herb": "阿胶",
+    "formula": "九仙散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0745",
+    "source": "H352",
+    "target": "F126",
+    "herb": "桑螵蛸",
+    "formula": "桑螵蛸散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0746",
+    "source": "H070",
+    "target": "F126",
+    "herb": "远志",
+    "formula": "桑螵蛸散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0747",
+    "source": "H273",
+    "target": "F126",
+    "herb": "龙骨",
+    "formula": "桑螵蛸散",
+    "role": "佐",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0748",
+    "source": "H294",
+    "target": "F126",
+    "herb": "石菖蒲",
+    "formula": "桑螵蛸散",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0749",
+    "source": "H076",
+    "target": "F127",
+    "herb": "白术",
+    "formula": "固冲汤",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0750",
+    "source": "H075",
+    "target": "F127",
+    "herb": "黄芪",
+    "formula": "固冲汤",
+    "role": "臣",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0751",
+    "source": "H273",
+    "target": "F127",
+    "herb": "龙骨",
+    "formula": "固冲汤",
+    "role": "佐",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0752",
+    "source": "H280",
+    "target": "F127",
+    "herb": "牡蛎",
+    "formula": "固冲汤",
+    "role": "佐",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0753",
+    "source": "H350",
+    "target": "F127",
+    "herb": "山茱萸",
+    "formula": "固冲汤",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0754",
+    "source": "H080",
+    "target": "F127",
+    "herb": "白芍",
+    "formula": "固冲汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0755",
+    "source": "H354",
+    "target": "F127",
+    "herb": "海螵蛸",
+    "formula": "固冲汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0756",
+    "source": "H057",
+    "target": "F128",
+    "herb": "川芎",
+    "formula": "川茸茶调散",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0757",
+    "source": "H006",
+    "target": "F128",
+    "herb": "白芷",
+    "formula": "川茸茶调散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0758",
+    "source": "H083",
+    "target": "F128",
+    "herb": "羌活",
+    "formula": "川茸茶调散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0759",
+    "source": "H077",
+    "target": "F128",
+    "herb": "甘草",
+    "formula": "川茸茶调散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0760",
+    "source": "H032",
+    "target": "F129",
+    "herb": "独活",
+    "formula": "独活寄生汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0761",
+    "source": "H034",
+    "target": "F129",
+    "herb": "桑寄生",
+    "formula": "独活寄生汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0762",
+    "source": "H311",
+    "target": "F129",
+    "herb": "杜仲",
+    "formula": "独活寄生汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0763",
+    "source": "H227",
+    "target": "F129",
+    "herb": "牛膝",
+    "formula": "独活寄生汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0764",
+    "source": "H005",
+    "target": "F129",
+    "herb": "防风",
+    "formula": "独活寄生汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0765",
+    "source": "H152",
+    "target": "F130",
+    "herb": "秦艽",
+    "formula": "大秦艽汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0766",
+    "source": "H077",
+    "target": "F130",
+    "herb": "甘草",
+    "formula": "大秦艽汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0767",
+    "source": "H227",
+    "target": "F131",
+    "herb": "牛膝",
+    "formula": "镇肝熄风汤",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0768",
+    "source": "H376",
+    "target": "F131",
+    "herb": "代赭石",
+    "formula": "镇肝熄风汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0769",
+    "source": "H273",
+    "target": "F131",
+    "herb": "龙骨",
+    "formula": "镇肝熄风汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0770",
+    "source": "H280",
+    "target": "F131",
+    "herb": "牡蛎",
+    "formula": "镇肝熄风汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0771",
+    "source": "H080",
+    "target": "F132",
+    "herb": "白芍",
+    "formula": "大定风珠",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0772",
+    "source": "H379",
+    "target": "F132",
+    "herb": "阿胶",
+    "formula": "大定风珠",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0773",
+    "source": "H336",
+    "target": "F132",
+    "herb": "龟甲",
+    "formula": "大定风珠",
+    "role": "佐",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0774",
+    "source": "H010",
+    "target": "F133",
+    "herb": "桑叶",
+    "formula": "桑杏汤",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0775",
+    "source": "H067",
+    "target": "F133",
+    "herb": "杏仁",
+    "formula": "桑杏汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0776",
+    "source": "H325",
+    "target": "F133",
+    "herb": "南沙参",
+    "formula": "桑杏汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0777",
+    "source": "H010",
+    "target": "F134",
+    "herb": "桑叶",
+    "formula": "清燥救肺汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0778",
+    "source": "H014",
+    "target": "F134",
+    "herb": "石膏",
+    "formula": "清燥救肺汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0779",
+    "source": "H077",
+    "target": "F134",
+    "herb": "甘草",
+    "formula": "清燥救肺汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0780",
+    "source": "H327",
+    "target": "F135",
+    "herb": "麦冬",
+    "formula": "麦门冬汤",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0781",
+    "source": "H064",
+    "target": "F135",
+    "herb": "半夏",
+    "formula": "麦门冬汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0782",
+    "source": "H077",
+    "target": "F135",
+    "herb": "甘草",
+    "formula": "麦门冬汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0783",
+    "source": "H025",
+    "target": "F136",
+    "herb": "生地黄",
+    "formula": "养阴清肺汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0784",
+    "source": "H327",
+    "target": "F136",
+    "herb": "麦冬",
+    "formula": "养阴清肺汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0785",
+    "source": "H077",
+    "target": "F136",
+    "herb": "甘草",
+    "formula": "养阴清肺汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0786",
+    "source": "H036",
+    "target": "F137",
+    "herb": "苍术",
+    "formula": "平胃散",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0787",
+    "source": "H037",
+    "target": "F137",
+    "herb": "厚朴",
+    "formula": "平胃散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0788",
+    "source": "H077",
+    "target": "F137",
+    "herb": "甘草",
+    "formula": "平胃散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0789",
+    "source": "H041",
+    "target": "F138",
+    "herb": "车前子",
+    "formula": "八正散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0790",
+    "source": "H171",
+    "target": "F138",
+    "herb": "瞿麦",
+    "formula": "八正散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0791",
+    "source": "H077",
+    "target": "F138",
+    "herb": "甘草",
+    "formula": "八正散",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0792",
+    "source": "H067",
+    "target": "F139",
+    "herb": "杏仁",
+    "formula": "三仁汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0793",
+    "source": "H164",
+    "target": "F139",
+    "herb": "白豆蔻",
+    "formula": "三仁汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0794",
+    "source": "H039",
+    "target": "F139",
+    "herb": "薏苡仁",
+    "formula": "三仁汤",
+    "role": "佐",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0795",
+    "source": "H077",
+    "target": "F139",
+    "herb": "甘草",
+    "formula": "三仁汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0796",
+    "source": "H167",
+    "target": "F140",
+    "herb": "猪苓",
+    "formula": "猪苓汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0797",
+    "source": "H038",
+    "target": "F140",
+    "herb": "茯苓",
+    "formula": "猪苓汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0798",
+    "source": "H040",
+    "target": "F140",
+    "herb": "泽泻",
+    "formula": "猪苓汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0799",
+    "source": "H077",
+    "target": "F140",
+    "herb": "甘草",
+    "formula": "猪苓汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0800",
+    "source": "H038",
+    "target": "F141",
+    "herb": "茯苓",
+    "formula": "苓桂术甘汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0801",
+    "source": "H002",
+    "target": "F141",
+    "herb": "桂枝",
+    "formula": "苓桂术甘汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0802",
+    "source": "H076",
+    "target": "F141",
+    "herb": "白术",
+    "formula": "苓桂术甘汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0803",
+    "source": "H077",
+    "target": "F141",
+    "herb": "甘草",
+    "formula": "苓桂术甘汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0804",
+    "source": "H043",
+    "target": "F142",
+    "herb": "附子",
+    "formula": "真武汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0805",
+    "source": "H038",
+    "target": "F142",
+    "herb": "茯苓",
+    "formula": "真武汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0806",
+    "source": "H076",
+    "target": "F142",
+    "herb": "白术",
+    "formula": "真武汤",
+    "role": "佐",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0807",
+    "source": "H080",
+    "target": "F142",
+    "herb": "白芍",
+    "formula": "真武汤",
+    "role": "佐",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0808",
+    "source": "H083",
+    "target": "F143",
+    "herb": "羌活",
+    "formula": "羌活胜湿汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0809",
+    "source": "H032",
+    "target": "F143",
+    "herb": "独活",
+    "formula": "羌活胜湿汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0810",
+    "source": "H077",
+    "target": "F143",
+    "herb": "甘草",
+    "formula": "羌活胜湿汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0811",
+    "source": "H064",
+    "target": "F144",
+    "herb": "半夏",
+    "formula": "温胆汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0812",
+    "source": "H047",
+    "target": "F144",
+    "herb": "陈皮",
+    "formula": "温胆汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0813",
+    "source": "H077",
+    "target": "F144",
+    "herb": "甘草",
+    "formula": "温胆汤",
+    "role": "佐使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0814",
+    "source": "H038",
+    "target": "F145",
+    "herb": "茯苓",
+    "formula": "茯苓丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0815",
+    "source": "H064",
+    "target": "F145",
+    "herb": "半夏",
+    "formula": "茯苓丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0816",
+    "source": "H077",
+    "target": "F145",
+    "herb": "甘草",
+    "formula": "茯苓丸",
+    "role": "佐使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0817",
+    "source": "H065",
+    "target": "F146",
+    "herb": "川贝母",
+    "formula": "贝母瓜蒌散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0818",
+    "source": "H066",
+    "target": "F146",
+    "herb": "瓜蒌",
+    "formula": "贝母瓜蒌散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0819",
+    "source": "H077",
+    "target": "F146",
+    "herb": "甘草",
+    "formula": "贝母瓜蒌散",
+    "role": "佐使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0820",
+    "source": "H038",
+    "target": "F147",
+    "herb": "茯苓",
+    "formula": "苓甘五味姜辛汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0821",
+    "source": "H077",
+    "target": "F147",
+    "herb": "甘草",
+    "formula": "苓甘五味姜辛汤",
+    "role": "佐使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0822",
+    "source": "H068",
+    "target": "F148",
+    "herb": "紫苏子",
+    "formula": "三子养亲汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0823",
+    "source": "H248",
+    "target": "F148",
+    "herb": "白芥子",
+    "formula": "三子养亲汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0824",
+    "source": "H077",
+    "target": "F148",
+    "herb": "甘草",
+    "formula": "三子养亲汤",
+    "role": "佐使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0825",
+    "source": "H076",
+    "target": "F149",
+    "herb": "白术",
+    "formula": "健脾丸",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0826",
+    "source": "H049",
+    "target": "F149",
+    "herb": "木香",
+    "formula": "健脾丸",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0827",
+    "source": "H077",
+    "target": "F149",
+    "herb": "甘草",
+    "formula": "健脾丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0828",
+    "source": "H048",
+    "target": "F150",
+    "herb": "枳实",
+    "formula": "枳实导滞丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0829",
+    "source": "H030",
+    "target": "F150",
+    "herb": "大黄",
+    "formula": "枳实导滞丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0830",
+    "source": "H077",
+    "target": "F150",
+    "herb": "甘草",
+    "formula": "枳实导滞丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0831",
+    "source": "H049",
+    "target": "F151",
+    "herb": "木香",
+    "formula": "木香槟榔丸",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0832",
+    "source": "H381",
+    "target": "F151",
+    "herb": "槟榔",
+    "formula": "木香槟榔丸",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0833",
+    "source": "H077",
+    "target": "F151",
+    "herb": "甘草",
+    "formula": "木香槟榔丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0834",
+    "source": "H343",
+    "target": "F152",
+    "herb": "乌梅",
+    "formula": "乌梅丸",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0835",
+    "source": "H184",
+    "target": "F152",
+    "herb": "花椒",
+    "formula": "乌梅丸",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0836",
+    "source": "H077",
+    "target": "F152",
+    "herb": "甘草",
+    "formula": "乌梅丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0837",
+    "source": "H381",
+    "target": "F153",
+    "herb": "槟榔",
+    "formula": "化虫丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0838",
+    "source": "H103",
+    "target": "F153",
+    "herb": "苦参",
+    "formula": "化虫丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0839",
+    "source": "H077",
+    "target": "F153",
+    "herb": "甘草",
+    "formula": "化虫丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0840",
+    "source": "H296",
+    "target": "F154",
+    "herb": "西洋参",
+    "formula": "清暑益气汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0841",
+    "source": "H329",
+    "target": "F154",
+    "herb": "石斛",
+    "formula": "清暑益气汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0842",
+    "source": "H077",
+    "target": "F154",
+    "herb": "甘草",
+    "formula": "清暑益气汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0843",
+    "source": "H168",
+    "target": "F155",
+    "herb": "滑石",
+    "formula": "六一散",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0844",
+    "source": "H077",
+    "target": "F155",
+    "herb": "甘草",
+    "formula": "六一散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0845",
+    "source": "H081",
+    "target": "F156",
+    "herb": "香薷",
+    "formula": "香薷散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0846",
+    "source": "H037",
+    "target": "F156",
+    "herb": "厚朴",
+    "formula": "香薷散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0847",
+    "source": "H077",
+    "target": "F156",
+    "herb": "甘草",
+    "formula": "香薷散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0848",
+    "source": "H013",
+    "target": "F157",
+    "herb": "葛根",
+    "formula": "葛根黄芩黄连汤",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0849",
+    "source": "H018",
+    "target": "F157",
+    "herb": "黄芩",
+    "formula": "葛根黄芩黄连汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0850",
+    "source": "H019",
+    "target": "F157",
+    "herb": "黄连",
+    "formula": "葛根黄芩黄连汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0851",
+    "source": "H077",
+    "target": "F157",
+    "herb": "甘草",
+    "formula": "葛根黄芩黄连汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0852",
+    "source": "H005",
+    "target": "F158",
+    "herb": "防风",
+    "formula": "防风通圣散",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0853",
+    "source": "H030",
+    "target": "F158",
+    "herb": "大黄",
+    "formula": "防风通圣散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0854",
+    "source": "H077",
+    "target": "F158",
+    "herb": "甘草",
+    "formula": "防风通圣散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0855",
+    "source": "H030",
+    "target": "F159",
+    "herb": "大黄",
+    "formula": "大黄牡丹汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0856",
+    "source": "H027",
+    "target": "F159",
+    "herb": "牡丹皮",
+    "formula": "大黄牡丹汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0857",
+    "source": "H077",
+    "target": "F159",
+    "herb": "甘草",
+    "formula": "大黄牡丹汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0858",
+    "source": "H389",
+    "target": "F160",
+    "herb": "苇茎",
+    "formula": "苇茎汤",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0859",
+    "source": "H039",
+    "target": "F160",
+    "herb": "薏苡仁",
+    "formula": "苇茎汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0860",
+    "source": "H077",
+    "target": "F160",
+    "herb": "甘草",
+    "formula": "苇茎汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0861",
+    "source": "H075",
+    "target": "F161",
+    "herb": "黄芪",
+    "formula": "透脓散",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0862",
+    "source": "H078",
+    "target": "F161",
+    "herb": "当归",
+    "formula": "透脓散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0863",
+    "source": "H077",
+    "target": "F161",
+    "herb": "甘草",
+    "formula": "透脓散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0864",
+    "source": "H079",
+    "target": "F162",
+    "herb": "熟地黄",
+    "formula": "左归丸",
+    "role": "君",
+    "dosage": "24g"
+  },
+  {
+    "id": "R0865",
+    "source": "H299",
+    "target": "F162",
+    "herb": "山药",
+    "formula": "左归丸",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0866",
+    "source": "H077",
+    "target": "F162",
+    "herb": "甘草",
+    "formula": "左归丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0867",
+    "source": "H336",
+    "target": "F163",
+    "herb": "龟甲",
+    "formula": "龟鹿二仙胶",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0868",
+    "source": "H378",
+    "target": "F163",
+    "herb": "鹿角",
+    "formula": "龟鹿二仙胶",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0869",
+    "source": "H077",
+    "target": "F163",
+    "herb": "甘草",
+    "formula": "龟鹿二仙胶",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0870",
+    "source": "H321",
+    "target": "F164",
+    "herb": "何首乌",
+    "formula": "七宝美髯丹",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0871",
+    "source": "H332",
+    "target": "F164",
+    "herb": "枸杞子",
+    "formula": "七宝美髯丹",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0872",
+    "source": "H077",
+    "target": "F164",
+    "herb": "甘草",
+    "formula": "七宝美髯丹",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0873",
+    "source": "H045",
+    "target": "F165",
+    "herb": "肉桂",
+    "formula": "暖肝煎",
+    "role": "君",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0874",
+    "source": "H181",
+    "target": "F165",
+    "herb": "小茴香",
+    "formula": "暖肝煎",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0875",
+    "source": "H077",
+    "target": "F165",
+    "herb": "甘草",
+    "formula": "暖肝煎",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0876",
+    "source": "H068",
+    "target": "F166",
+    "herb": "紫苏子",
+    "formula": "苏子降气汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0877",
+    "source": "H064",
+    "target": "F166",
+    "herb": "半夏",
+    "formula": "苏子降气汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0878",
+    "source": "H077",
+    "target": "F166",
+    "herb": "甘草",
+    "formula": "苏子降气汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0879",
+    "source": "H268",
+    "target": "F167",
+    "herb": "白果",
+    "formula": "定喘汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0880",
+    "source": "H001",
+    "target": "F167",
+    "herb": "麻黄",
+    "formula": "定喘汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0881",
+    "source": "H077",
+    "target": "F167",
+    "herb": "甘草",
+    "formula": "定喘汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0882",
+    "source": "H383",
+    "target": "F168",
+    "herb": "伏龙肝",
+    "formula": "黄土汤",
+    "role": "君",
+    "dosage": "30g"
+  },
+  {
+    "id": "R0883",
+    "source": "H076",
+    "target": "F168",
+    "herb": "白术",
+    "formula": "黄土汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0884",
+    "source": "H077",
+    "target": "F168",
+    "herb": "甘草",
+    "formula": "黄土汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0885",
+    "source": "H247",
+    "target": "F169",
+    "herb": "白附子",
+    "formula": "牵正散",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0886",
+    "source": "H290",
+    "target": "F169",
+    "herb": "僵蚕",
+    "formula": "牵正散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0887",
+    "source": "H077",
+    "target": "F169",
+    "herb": "甘草",
+    "formula": "牵正散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0888",
+    "source": "H144",
+    "target": "F170",
+    "herb": "川乌",
+    "formula": "小活络丹",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0889",
+    "source": "H144",
+    "target": "F170",
+    "herb": "川乌",
+    "formula": "小活络丹",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0890",
+    "source": "H077",
+    "target": "F170",
+    "herb": "甘草",
+    "formula": "小活络丹",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0891",
+    "source": "H035",
+    "target": "F171",
+    "herb": "藿香",
+    "formula": "藿朴夏苓汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0892",
+    "source": "H037",
+    "target": "F171",
+    "herb": "厚朴",
+    "formula": "藿朴夏苓汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0893",
+    "source": "H077",
+    "target": "F171",
+    "herb": "甘草",
+    "formula": "藿朴夏苓汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0894",
+    "source": "H083",
+    "target": "F172",
+    "herb": "羌活",
+    "formula": "败毒散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0895",
+    "source": "H032",
+    "target": "F172",
+    "herb": "独活",
+    "formula": "败毒散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0896",
+    "source": "H077",
+    "target": "F172",
+    "herb": "甘草",
+    "formula": "败毒散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0897",
+    "source": "H074",
+    "target": "F173",
+    "herb": "人参",
+    "formula": "参苏饮",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0898",
+    "source": "H003",
+    "target": "F173",
+    "herb": "紫苏叶",
+    "formula": "参苏饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0899",
+    "source": "H077",
+    "target": "F173",
+    "herb": "甘草",
+    "formula": "参苏饮",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0900",
+    "source": "H359",
+    "target": "F174",
+    "herb": "瓜蒂",
+    "formula": "瓜蒂散",
+    "role": "君",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0901",
+    "source": "H375",
+    "target": "F174",
+    "herb": "赤小豆",
+    "formula": "瓜蒂散",
+    "role": "臣",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0902",
+    "source": "H077",
+    "target": "F174",
+    "herb": "甘草",
+    "formula": "瓜蒂散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0903",
+    "source": "H377",
+    "target": "F175",
+    "herb": "罂粟壳",
+    "formula": "真人养脏汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0904",
+    "source": "H347",
+    "target": "F175",
+    "herb": "肉豆蔻",
+    "formula": "真人养脏汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0905",
+    "source": "H077",
+    "target": "F175",
+    "herb": "甘草",
+    "formula": "真人养脏汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0906",
+    "source": "H020",
+    "target": "F176",
+    "herb": "黄柏",
+    "formula": "二妙散",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0907",
+    "source": "H036",
+    "target": "F176",
+    "herb": "苍术",
+    "formula": "二妙散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0908",
+    "source": "H077",
+    "target": "F176",
+    "herb": "甘草",
+    "formula": "二妙散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0909",
+    "source": "H014",
+    "target": "F177",
+    "herb": "石膏",
+    "formula": "玉女煎",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0910",
+    "source": "H079",
+    "target": "F177",
+    "herb": "熟地黄",
+    "formula": "玉女煎",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0911",
+    "source": "H077",
+    "target": "F177",
+    "herb": "甘草",
+    "formula": "玉女煎",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0912",
+    "source": "H018",
+    "target": "F178",
+    "herb": "黄芩",
+    "formula": "芍药汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0913",
+    "source": "H080",
+    "target": "F178",
+    "herb": "白芍",
+    "formula": "芍药汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0914",
+    "source": "H077",
+    "target": "F178",
+    "herb": "甘草",
+    "formula": "芍药汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0915",
+    "source": "H078",
+    "target": "F179",
+    "herb": "当归",
+    "formula": "当归六黄汤",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0916",
+    "source": "H025",
+    "target": "F179",
+    "herb": "生地黄",
+    "formula": "当归六黄汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0917",
+    "source": "H077",
+    "target": "F179",
+    "herb": "甘草",
+    "formula": "当归六黄汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0918",
+    "source": "H001",
+    "target": "F180",
+    "herb": "麻黄",
+    "formula": "麻黄细辛附子汤",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0919",
+    "source": "H043",
+    "target": "F180",
+    "herb": "附子",
+    "formula": "麻黄细辛附子汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0920",
+    "source": "H007",
+    "target": "F180",
+    "herb": "细辛",
+    "formula": "麻黄细辛附子汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0921",
+    "source": "H077",
+    "target": "F180",
+    "herb": "甘草",
+    "formula": "麻黄细辛附子汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0922",
+    "source": "H315",
+    "target": "F181",
+    "herb": "沙苑子",
+    "formula": "金锁固精丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0923",
+    "source": "H356",
+    "target": "F181",
+    "herb": "芡实",
+    "formula": "金锁固精丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0924",
+    "source": "H077",
+    "target": "F181",
+    "herb": "甘草",
+    "formula": "金锁固精丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0925",
+    "source": "H250",
+    "target": "F182",
+    "herb": "旋覆花",
+    "formula": "旋覆代赭汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0926",
+    "source": "H376",
+    "target": "F182",
+    "herb": "代赭石",
+    "formula": "旋覆代赭汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0927",
+    "source": "H077",
+    "target": "F182",
+    "herb": "甘草",
+    "formula": "旋覆代赭汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0928",
+    "source": "H082",
+    "target": "F183",
+    "herb": "荆芥",
+    "formula": "消风散",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0929",
+    "source": "H005",
+    "target": "F183",
+    "herb": "防风",
+    "formula": "消风散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0930",
+    "source": "H077",
+    "target": "F183",
+    "herb": "甘草",
+    "formula": "消风散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0931",
+    "source": "H087",
+    "target": "F184",
+    "herb": "葱白",
+    "formula": "葱白七味饮",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0932",
+    "source": "H013",
+    "target": "F184",
+    "herb": "葛根",
+    "formula": "葱白七味饮",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0933",
+    "source": "H077",
+    "target": "F184",
+    "herb": "甘草",
+    "formula": "葱白七味饮",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0934",
+    "source": "H001",
+    "target": "F185",
+    "herb": "麻黄",
+    "formula": "麻黄附子细辛汤",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0935",
+    "source": "H043",
+    "target": "F185",
+    "herb": "附子",
+    "formula": "麻黄附子细辛汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0936",
+    "source": "H007",
+    "target": "F185",
+    "herb": "细辛",
+    "formula": "麻黄附子细辛汤",
+    "role": "佐",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0937",
+    "source": "H077",
+    "target": "F185",
+    "herb": "甘草",
+    "formula": "麻黄附子细辛汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0938",
+    "source": "H001",
+    "target": "F186",
+    "herb": "麻黄",
+    "formula": "越婢汤",
+    "role": "君",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0939",
+    "source": "H014",
+    "target": "F186",
+    "herb": "石膏",
+    "formula": "越婢汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0940",
+    "source": "H077",
+    "target": "F186",
+    "herb": "甘草",
+    "formula": "越婢汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0941",
+    "source": "H117",
+    "target": "F187",
+    "herb": "射干",
+    "formula": "射干麻黄汤",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0942",
+    "source": "H001",
+    "target": "F187",
+    "herb": "麻黄",
+    "formula": "射干麻黄汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0943",
+    "source": "H077",
+    "target": "F187",
+    "herb": "甘草",
+    "formula": "射干麻黄汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0944",
+    "source": "H037",
+    "target": "F188",
+    "herb": "厚朴",
+    "formula": "厚朴麻黄汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0945",
+    "source": "H001",
+    "target": "F188",
+    "herb": "麻黄",
+    "formula": "厚朴麻黄汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0946",
+    "source": "H077",
+    "target": "F188",
+    "herb": "甘草",
+    "formula": "厚朴麻黄汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0947",
+    "source": "H043",
+    "target": "F189",
+    "herb": "附子",
+    "formula": "实脾散",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0948",
+    "source": "H044",
+    "target": "F189",
+    "herb": "干姜",
+    "formula": "实脾散",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0949",
+    "source": "H077",
+    "target": "F189",
+    "herb": "甘草",
+    "formula": "实脾散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0950",
+    "source": "H178",
+    "target": "F190",
+    "herb": "萆薢",
+    "formula": "萆薢分清饮",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0951",
+    "source": "H192",
+    "target": "F190",
+    "herb": "乌药",
+    "formula": "萆薢分清饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0952",
+    "source": "H077",
+    "target": "F190",
+    "herb": "甘草",
+    "formula": "萆薢分清饮",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0953",
+    "source": "H004",
+    "target": "F191",
+    "herb": "生姜",
+    "formula": "五皮散",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0954",
+    "source": "H197",
+    "target": "F191",
+    "herb": "大腹皮",
+    "formula": "五皮散",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0955",
+    "source": "H077",
+    "target": "F191",
+    "herb": "甘草",
+    "formula": "五皮散",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0956",
+    "source": "H153",
+    "target": "F192",
+    "herb": "防己",
+    "formula": "防己黄芪汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0957",
+    "source": "H075",
+    "target": "F192",
+    "herb": "黄芪",
+    "formula": "防己黄芪汤",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0958",
+    "source": "H077",
+    "target": "F192",
+    "herb": "甘草",
+    "formula": "防己黄芪汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0959",
+    "source": "H019",
+    "target": "F193",
+    "herb": "黄连",
+    "formula": "连朴饮",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0960",
+    "source": "H037",
+    "target": "F193",
+    "herb": "厚朴",
+    "formula": "连朴饮",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0961",
+    "source": "H077",
+    "target": "F193",
+    "herb": "甘草",
+    "formula": "连朴饮",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0962",
+    "source": "H083",
+    "target": "F194",
+    "herb": "羌活",
+    "formula": "当归拈痛汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0963",
+    "source": "H042",
+    "target": "F194",
+    "herb": "茵陈",
+    "formula": "当归拈痛汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0964",
+    "source": "H077",
+    "target": "F194",
+    "herb": "甘草",
+    "formula": "当归拈痛汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0965",
+    "source": "H076",
+    "target": "F195",
+    "herb": "白术",
+    "formula": "完带汤",
+    "role": "君",
+    "dosage": "18g"
+  },
+  {
+    "id": "R0966",
+    "source": "H299",
+    "target": "F195",
+    "herb": "山药",
+    "formula": "完带汤",
+    "role": "臣",
+    "dosage": "12g"
+  },
+  {
+    "id": "R0967",
+    "source": "H077",
+    "target": "F195",
+    "herb": "甘草",
+    "formula": "完带汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0968",
+    "source": "H299",
+    "target": "F196",
+    "herb": "山药",
+    "formula": "易黄汤",
+    "role": "君",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0969",
+    "source": "H356",
+    "target": "F196",
+    "herb": "芡实",
+    "formula": "易黄汤",
+    "role": "臣",
+    "dosage": "15g"
+  },
+  {
+    "id": "R0970",
+    "source": "H077",
+    "target": "F196",
+    "herb": "甘草",
+    "formula": "易黄汤",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0971",
+    "source": "H192",
+    "target": "F197",
+    "herb": "乌药",
+    "formula": "缩泉丸",
+    "role": "君",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0972",
+    "source": "H313",
+    "target": "F197",
+    "herb": "益智仁",
+    "formula": "缩泉丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0973",
+    "source": "H077",
+    "target": "F197",
+    "herb": "甘草",
+    "formula": "缩泉丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0974",
+    "source": "H329",
+    "target": "F198",
+    "herb": "石斛",
+    "formula": "石斛夜光丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0975",
+    "source": "H332",
+    "target": "F198",
+    "herb": "枸杞子",
+    "formula": "石斛夜光丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0976",
+    "source": "H077",
+    "target": "F198",
+    "herb": "甘草",
+    "formula": "石斛夜光丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0977",
+    "source": "H010",
+    "target": "F199",
+    "herb": "桑叶",
+    "formula": "桑麻丸",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0978",
+    "source": "H338",
+    "target": "F199",
+    "herb": "黑芝麻",
+    "formula": "桑麻丸",
+    "role": "臣",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0979",
+    "source": "H077",
+    "target": "F199",
+    "herb": "甘草",
+    "formula": "桑麻丸",
+    "role": "使",
+    "dosage": "3g"
+  },
+  {
+    "id": "R0980",
+    "source": "H206",
+    "target": "F200",
+    "herb": "侧柏叶",
+    "formula": "柏叶汤",
+    "role": "君",
+    "dosage": "9g"
+  },
+  {
+    "id": "R0981",
+    "source": "H044",
+    "target": "F200",
+    "herb": "干姜",
+    "formula": "柏叶汤",
+    "role": "臣",
+    "dosage": "6g"
+  },
+  {
+    "id": "R0982",
+    "source": "H077",
+    "target": "F200",
+    "herb": "甘草",
+    "formula": "柏叶汤",
+    "role": "使",
+    "dosage": "3g"
+  }
+]
