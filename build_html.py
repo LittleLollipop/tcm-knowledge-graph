@@ -101,6 +101,9 @@ body { font-family:"PingFang SC","Microsoft YaHei",sans-serif; background:#0a0e1
   <button class="filter-btn active" data-filter="all">全部</button>
   <button class="filter-btn" data-filter="herb">药材</button>
   <button class="filter-btn" data-filter="formula">方剂</button>
+  <select id="herb-cat-filter" style="padding:5px 10px;border-radius:6px;border:1px solid #2a4a6a;background:#0d1525;color:#aac;font-size:13px;outline:none;cursor:pointer;margin-left:8px;">
+    <option value="all">全部药材分类</option>
+  </select>
   <div id="stats"></div>
 </div>
 <svg id="canvas"></svg>
@@ -211,6 +214,68 @@ function updateStatsPanel() {
   });
   document.getElementById("formula-cat-detail").innerHTML = formulaCatHtml;
 }
+
+// ============ 药材分类筛选 ============
+function initHerbCategoryFilter() {
+  const select = document.getElementById("herb-cat-filter");
+  const cats = new Set();
+  HERBS.forEach(h => {
+    const cat = h.category ? h.category.split("-")[0] : "其他";
+    cats.add(cat);
+  });
+  Array.from(cats).sort().forEach(cat => {
+    const option = document.createElement("option");
+    option.value = cat;
+    option.textContent = cat;
+    select.appendChild(option);
+  });
+}
+
+document.getElementById("herb-cat-filter").addEventListener("change", function() {
+  const selectedCat = this.value;
+  if (selectedCat === "all") {
+    // 显示所有节点
+    node.style("display", "block");
+    link.style("display", "block");
+    linkLabel.style("display", l => l.role ? 0.7 : 0);
+  } else {
+    // 筛选药材分类
+    node.style("display", d => {
+      if (d.type === "herb") {
+        const cat = d.category ? d.category.split("-")[0] : "其他";
+        return cat === selectedCat ? "block" : "none";
+      } else if (d.type === "formula") {
+        // 显示包含当前分类药材的方剂
+        const hasHerbInCat = (d.composition||[]).some(c => {
+          const herb = herbIdToObj[c.herb] || HERBS.find(h => h.name === c.herb);
+          if (!herb) return false;
+          const cat = herb.category ? herb.category.split("-")[0] : "其他";
+          return cat === selectedCat;
+        });
+        return hasHerbInCat ? "block" : "none";
+      }
+      return "block";
+    });
+    
+    // 显示相关的关系线
+    link.style("display", function(d) {
+      const sId = typeof d.source === "object" ? d.source.id : d.source;
+      const tId = typeof d.target === "object" ? d.target.id : d.target;
+      const sEl = node.filter(n => n.id === sId);
+      const tEl = node.filter(n => n.id === tId);
+      return (sEl.style("display") !== "none" && tEl.style("display") !== "none") ? "block" : "none";
+    });
+    
+    linkLabel.style("display", function(d) {
+      const sId = typeof d.source === "object" ? d.source.id : d.source;
+      const tId = typeof d.target === "object" ? d.target.id : d.target;
+      const sEl = node.filter(n => n.id === sId);
+      const tEl = node.filter(n => n.id === tId);
+      return (sEl.style("display") !== "none" && tEl.style("display") !== "none") ? "block" : "none";
+    });
+  }
+  updateStats();
+});
 
 const width = window.innerWidth;
 const height = window.innerHeight;
