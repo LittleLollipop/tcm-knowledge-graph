@@ -104,6 +104,9 @@ body { font-family:"PingFang SC","Microsoft YaHei",sans-serif; background:#0a0e1
   <select id="herb-cat-filter" style="padding:5px 10px;border-radius:6px;border:1px solid #2a4a6a;background:#0d1525;color:#aac;font-size:13px;outline:none;cursor:pointer;margin-left:8px;">
     <option value="all">全部药材分类</option>
   </select>
+  <select id="formula-cat-filter" style="padding:5px 10px;border-radius:6px;border:1px solid #2a4a6a;background:#0d1525;color:#aac;font-size:13px;outline:none;cursor:pointer;margin-left:8px;">
+    <option value="all">全部方剂分类</option>
+  </select>
   <div id="stats"></div>
 </div>
 <svg id="canvas"></svg>
@@ -253,6 +256,66 @@ document.getElementById("herb-cat-filter").addEventListener("change", function()
           return cat === selectedCat;
         });
         return hasHerbInCat ? "block" : "none";
+      }
+      return "block";
+    });
+    
+    // 显示相关的关系线
+    link.style("display", function(d) {
+      const sId = typeof d.source === "object" ? d.source.id : d.source;
+      const tId = typeof d.target === "object" ? d.target.id : d.target;
+      const sEl = node.filter(n => n.id === sId);
+      const tEl = node.filter(n => n.id === tId);
+      return (sEl.style("display") !== "none" && tEl.style("display") !== "none") ? "block" : "none";
+    });
+    
+    linkLabel.style("display", function(d) {
+      const sId = typeof d.source === "object" ? d.source.id : d.source;
+      const tId = typeof d.target === "object" ? d.target.id : d.target;
+      const sEl = node.filter(n => n.id === sId);
+      const tEl = node.filter(n => n.id === tId);
+      return (sEl.style("display") !== "none" && tEl.style("display") !== "none") ? "block" : "none";
+    });
+  }
+  updateStats();
+});
+
+// ============ 方剂分类筛选 ============
+function initFormulaCategoryFilter() {
+  const select = document.getElementById("formula-cat-filter");
+  const cats = new Set();
+  FORMULAS.forEach(f => {
+    const cat = f.category ? f.category.split("-")[0] : "其他";
+    cats.add(cat);
+  });
+  Array.from(cats).sort().forEach(cat => {
+    const option = document.createElement("option");
+    option.value = cat;
+    option.textContent = cat;
+    select.appendChild(option);
+  });
+}
+
+document.getElementById("formula-cat-filter").addEventListener("change", function() {
+  const selectedCat = this.value;
+  if (selectedCat === "all") {
+    // 显示所有节点
+    node.style("display", "block");
+    link.style("display", "block");
+    linkLabel.style("display", l => l.role ? 0.7 : 0);
+  } else {
+    // 筛选方剂分类
+    node.style("display", d => {
+      if (d.type === "formula") {
+        const cat = d.category ? d.category.split("-")[0] : "其他";
+        return cat === selectedCat ? "block" : "none";
+      } else if (d.type === "herb") {
+        // 显示被选中方剂使用的药材
+        const isHerbInFormula = FORMULAS.some(f => {
+          const cat = f.category ? f.category.split("-")[0] : "其他";
+          return cat === selectedCat && (f.composition||[]).some(c => c.herb === d.name);
+        });
+        return isHerbInFormula ? "block" : "none";
       }
       return "block";
     });
