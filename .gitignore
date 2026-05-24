@@ -35,3 +35,9 @@ Thumbs.db
 *.db
 *.sqlite
 *.sqlite3
+
+# 临时脚本（数据生成脚本）
+add_*_part*.py
+generate_*.py
+*_backup.html
+*_backup.html

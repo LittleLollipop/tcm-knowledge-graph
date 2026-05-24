@@ -107,6 +107,7 @@ body { font-family:"PingFang SC","Microsoft YaHei",sans-serif; background:#0a0e1
   <select id="formula-cat-filter" style="padding:5px 10px;border-radius:6px;border:1px solid #2a4a6a;background:#0d1525;color:#aac;font-size:13px;outline:none;cursor:pointer;margin-left:8px;">
     <option value="all">全部方剂分类</option>
   </select>
+  <button id="cluster-btn" style="padding:5px 14px;border-radius:6px;border:1px solid #2a4a6a;background:#0d1525;color:#aac;cursor:pointer;font-size:13px;transition:all 0.2s;margin-left:8px;">群集模式</button>
   <div id="stats"></div>
 </div>
 <svg id="canvas"></svg>
