@@ -596,12 +596,117 @@ function dragEnded(event, d) {
   d.fx = null; d.fy = null;
 }
 
+// ============ 群集模式 ============
+let clusterMode = false;
+let clusterGroup = null;
+
+function enterClusterMode() {
+  // 按一级分类聚类
+  const clusters = {};
+  HERBS.forEach(h => {
+    const cat = h.category ? h.category.split("-")[0] : "其他";
+    if (!clusters[cat]) clusters[cat] = { herbCount: 0, herbs: [] };
+    clusters[cat].herbCount++;
+    clusters[cat].herbs.push(h);
+  });
+
+  // 隐藏原始节点和连线
+  node.style("display", "none");
+  link.style("display", "none");
+  linkLabel.style("display", "none");
+
+  // 创建群集节点
+  const clusterData = Object.entries(clusters).map(([cat, data]) => ({
+    cat: cat,
+    herbCount: data.herbCount,
+    herbs: data.herbs,
+    id: "cluster-" + cat
+  }));
+
+  clusterGroup = g.append("g").attr("class", "clusters");
+
+  const clusterNodes = clusterGroup.selectAll(".cluster-node")
+    .data(clusterData)
+    .enter()
+    .append("g")
+    .attr("class", "cluster-node")
+    .call(d3.drag()
+      .on("start", dragStarted)
+      .on("drag", dragged)
+      .on("end", dragEnded));
+
+  clusterNodes.append("circle")
+    .attr("r", d => Math.max(30, Math.min(60, d.herbCount * 3)))
+    .attr("fill", "#1a3a5a")
+    .attr("stroke", "#5cf")
+    .attr("stroke-width", 2)
+    .attr("opacity", 0.8);
+
+  clusterNodes.append("text")
+    .text(d => d.cat + " (" + d.herbCount + ")")
+    .attr("text-anchor", "middle")
+    .attr("dy", "0.35em")
+    .attr("fill", "#5cf")
+    .attr("font-size", "12px")
+    .attr("pointer-events", "none");
+
+  // 定位群集节点
+  const padding = 60;
+  const gridCols = Math.ceil(Math.sqrt(clusterData.length));
+  const gridRows = Math.ceil(clusterData.length / gridCols);
+  const cellWidth = (width - 2 * padding) / gridCols;
+  const cellHeight = (height - 2 * padding) / gridRows;
+
+  clusterNodes
+    .attr("transform", (d, i) => {
+      const col = i % gridCols;
+      const row = Math.floor(i / gridCols);
+      const x = padding + cellWidth * (col + 0.5);
+      const y = padding + cellHeight * (row + 0.5);
+      return "translate(" + x + "," + y + ")";
+    });
+
+  simulation.alpha(0.3).restart();
+}
+
+function exitClusterMode() {
+  if (clusterGroup) {
+    clusterGroup.remove();
+    clusterGroup = null;
+  }
+  clusterMode = false;
+  document.getElementById("cluster-btn").style.background = "";
+  document.getElementById("cluster-btn").style.borderColor = "";
+  document.getElementById("cluster-btn").style.color = "";
+  node.style("display", "block");
+  link.style("display", "block");
+  updateStats();
+  simulation.alpha(0.3).restart();
+}
+
 // 初始化
 updateStats();
 updateStatsPanel();
 initHerbCategoryFilter();
 initFormulaCategoryFilter();
 linkLabel.attr("opacity", 0);
+
+// 群集模式按钮
+document.getElementById("cluster-btn").addEventListener("click", function() {
+  clusterMode = !clusterMode;
+  if (clusterMode) {
+    this.style.background = "#103050";
+    this.style.borderColor = "#5cf";
+    this.style.color = "#5cf";
+    enterClusterMode();
+  } else {
+    this.style.background = "";
+    this.style.borderColor = "";
+    this.style.color = "";
+    exitClusterMode();
+  }
+});
+
 setTimeout(() => {
   const hint = document.getElementById("hint");
   hint.style.opacity = 0;
