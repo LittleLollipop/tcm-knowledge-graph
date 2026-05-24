@@ -30,13 +30,24 @@ body { font-family:"PingFang SC","Microsoft YaHei",sans-serif; background:#0a0e1
 #detail-card .composition-list { margin-top:6px; }
 #detail-card .comp-item { font-size:12px; color:#abc; padding:3px 0; border-bottom:1px solid #0a1520; }
 #detail-card .comp-role { display:inline-block; width:28px; font-size:11px; color:#485; }
-#hint { position:fixed; bottom:16px; left:50%%; transform:translateX(-50%%); font-size:12px; color:#445; background:rgba(10,14,23,0.8); padding:6px 16px; border-radius:8px; z-index:80; pointer-events:none; transition:opacity 0.5s; }
+#hint { position:fixed; bottom:16px; left:50%; transform:translateX(-50%); font-size:12px; color:#445; background:rgba(10,14,23,0.8); padding:6px 16px; border-radius:8px; z-index:80; pointer-events:none; transition:opacity 0.5s; }
 #legend { position:fixed; bottom:16px; right:16px; background:rgba(12,18,32,0.95); border:1px solid #1e3a5f; border-radius:8px; padding:10px 14px; font-size:12px; z-index:80; max-height:50vh; overflow-y:auto; }
 #legend .item { display:flex; align-items:center; gap:8px; margin:4px 0; color:#99a; }
-#legend .dot { width:12px; height:12px; border-radius:50%%; flex-shrink:0; }
+#legend .dot { width:12px; height:12px; border-radius:50%; flex-shrink:0; }
 #legend .dot.formula { border-radius:3px; }
 #legend .section-title { color:#5cf; font-size:11px; margin-top:8px; margin-bottom:2px; border-top:1px solid #1e3a5f; padding-top:6px; }
 .node-label { pointer-events:none; }
+
+/* 数据统计面板样式 */
+#stats-panel { position:fixed; top:62px; left:16px; width:240px; background:rgba(12,18,32,0.96); border:1px solid #1e3a5f; border-radius:10px; padding:14px; z-index:85; backdrop-filter:blur(12px); box-shadow:0 8px 32px rgba(0,0,0,0.4); font-size:12px; max-height:calc(100vh - 80px); overflow-y:auto; }
+#stats-panel h3 { font-size:14px; color:#5cf; margin-bottom:10px; }
+#stats-panel .stat-item { display:flex; justify-content:space-between; margin:6px 0; color:#99a; }
+#stats-panel .stat-label { color:#667; }
+#stats-panel .stat-value { color:#5cf; font-weight:bold; }
+#stats-panel hr { border-color:#1e3a5f; margin:10px 0; }
+#stats-panel .cat-item { margin:3px 0; padding-left:8px; border-left:2px solid #2a4a6a; }
+#stats-panel .cat-name { color:#8ab; font-size:11px; }
+#stats-panel .cat-count { color:#5cf; font-size:11px; float:right; }
 </style>
 </head>
 <body>
@@ -49,6 +60,35 @@ body { font-family:"PingFang SC","Microsoft YaHei",sans-serif; background:#0a0e1
   <div id="stats"></div>
 </div>
 <svg id="canvas"></svg>
+
+<div id="stats-panel">
+  <h3>📊 数据统计</h3>
+  <div class="stat-item">
+    <span class="stat-label">药材总数</span>
+    <span class="stat-value" id="stat-herbs">0</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-label">方剂总数</span>
+    <span class="stat-value" id="stat-formulas">0</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-label">关系总数</span>
+    <span class="stat-value" id="stat-rels">0</span>
+  </div>
+  <hr style="border-color:#1e3a5f;margin:10px 0;">
+  <div class="stat-item">
+    <span class="stat-label">药材分类</span>
+    <span class="stat-value" id="stat-herb-cats">0</span>
+  </div>
+  <div id="herb-cat-detail" style="font-size:11px;color:#99a;margin-top:6px;max-height:150px;overflow-y:auto;"></div>
+  <hr style="border-color:#1e3a5f;margin:10px 0;">
+  <div class="stat-item">
+    <span class="stat-label">方剂分类</span>
+    <span class="stat-value" id="stat-formula-cats">0</span>
+  </div>
+  <div id="formula-cat-detail" style="font-size:11px;color:#99a;margin-top:6px;max-height:150px;overflow-y:auto;"></div>
+</div>
+
 <div id="detail-card">
   <span class="close-btn" onclick="closeCard()">&times;</span>
   <h2 id="card-title"></h2>
@@ -109,6 +149,44 @@ const catColor = (d3) => {
   };
   return colors[d3] || "#607d8b";
 };
+
+// ============ 初始化统计面板 ============
+function updateStatsPanel() {
+  // 基础统计
+  document.getElementById("stat-herbs").textContent = HERBS.length;
+  document.getElementById("stat-formulas").textContent = FORMULAS.length;
+  document.getElementById("stat-rels").textContent = RELATIONSHIPS.length;
+  
+  // 药材分类统计
+  const herbCats = {};
+  HERBS.forEach(h => {
+    const cat = h.category ? h.category.split("-")[0] : "其他";
+    herbCats[cat] = (herbCats[cat] || 0) + 1;
+  });
+  const herbCatCount = Object.keys(herbCats).length;
+  document.getElementById("stat-herb-cats").textContent = herbCatCount;
+  
+  let herbCatHtml = "";
+  Object.keys(herbCats).sort().forEach(cat => {
+    herbCatHtml += '<div class="cat-item"><span class="cat-name">' + cat + '</span><span class="cat-count">' + herbCats[cat] + ' 味</span></div>';
+  });
+  document.getElementById("herb-cat-detail").innerHTML = herbCatHtml;
+  
+  // 方剂分类统计
+  const formulaCats = {};
+  FORMULAS.forEach(f => {
+    const cat = f.category ? f.category.split("-")[0] : "其他";
+    formulaCats[cat] = (formulaCats[cat] || 0) + 1;
+  });
+  const formulaCatCount = Object.keys(formulaCats).length;
+  document.getElementById("stat-formula-cats").textContent = formulaCatCount;
+  
+  let formulaCatHtml = "";
+  Object.keys(formulaCats).sort().forEach(cat => {
+    formulaCatHtml += '<div class="cat-item"><span class="cat-name">' + cat + '</span><span class="cat-count">' + formulaCats[cat] + ' 个</span></div>';
+  });
+  document.getElementById("formula-cat-detail").innerHTML = formulaCatHtml;
+}
 
 const width = window.innerWidth;
 const height = window.innerHeight;
@@ -365,7 +443,9 @@ function dragEnded(event, d) {
   d.fx = null; d.fy = null;
 }
 
+// 初始化
 updateStats();
+updateStatsPanel();
 linkLabel.attr("opacity", 0);
 setTimeout(() => {
   const hint = document.getElementById("hint");
