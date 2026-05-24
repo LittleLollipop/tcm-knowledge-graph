@@ -599,6 +599,8 @@ function dragEnded(event, d) {
 // 初始化
 updateStats();
 updateStatsPanel();
+initHerbCategoryFilter();
+initFormulaCategoryFilter();
 linkLabel.attr("opacity", 0);
 setTimeout(() => {
   const hint = document.getElementById("hint");
