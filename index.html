@@ -500,17 +500,51 @@ function closeCard() {
 }
 
 // ============ 搜索 ============
+// 全文搜索：搜索名称、分类、性味、归经、功效、主治、组成
+function matchesSearch(d, q) {
+  if (!q) return true;
+  q = q.toLowerCase();
+  
+  // 搜索名称
+  if (d.name && d.name.toLowerCase().includes(q)) return true;
+  if (d.label && d.label.toLowerCase().includes(q)) return true;
+  
+  // 搜索分类
+  if (d.category && d.category.toLowerCase().includes(q)) return true;
+  
+  // 搜索性味
+  if (d.nature && d.nature.toLowerCase().includes(q)) return true;
+  
+  // 搜索归经
+  if (d.meridian && d.meridian.toLowerCase().includes(q)) return true;
+  
+  // 搜索功效
+  if (d.effect && d.effect.toLowerCase().includes(q)) return true;
+  
+  // 搜索主治
+  if (d.indication && d.indication.toLowerCase().includes(q)) return true;
+  
+  // 搜索组成（方剂的药材名）
+  if (d.composition) {
+    for (let i = 0; i < d.composition.length; i++) {
+      if (d.composition[i].herb && d.composition[i].herb.toLowerCase().includes(q)) return true;
+    }
+  }
+  
+  return false;
+}
+
 const searchBox = document.getElementById("search-box");
 searchBox.addEventListener("input", function() {
   const q = this.value.trim().toLowerCase();
   if (!q) {
     node.style("display", "block");
     link.style("display", "block");
-    linkLabel.style("display", "block");
+    linkLabel.style("display", d => d.role ? 0.7 : 0);
     updateStats();
     return;
   }
-  node.style("display", d => d.label.toLowerCase().includes(q) ? "block" : "none");
+  node.style("display", d => matchesSearch(d, q) ? "block" : "none");
   link.style("display", function(d) {
     const sId = typeof d.source === "object" ? d.source.id : d.source;
     const tId = typeof d.target === "object" ? d.target.id : d.target;
@@ -518,6 +552,14 @@ searchBox.addEventListener("input", function() {
     const tEl = node.filter(n => n.id === tId);
     return (sEl.style("display") !== "none" && tEl.style("display") !== "none") ? "block" : "none";
   });
+  linkLabel.style("display", function(d) {
+    const sId = typeof d.source === "object" ? d.source.id : d.source;
+    const tId = typeof d.target === "object" ? d.target.id : d.target;
+    const sEl = node.filter(n => n.id === sId);
+    const tEl = node.filter(n => n.id === tId);
+    return (sEl.style("display") !== "none" && tEl.style("display") !== "none" && d.role) ? 0.7 : 0;
+  });
+  updateStats();
 });
 
 // ============ 筛选按钮 ============
